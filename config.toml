@@ -7,14 +7,6 @@ disqusShortname = "perylemke"
 themesdir = "./themes"
 paginate = "9"
 
-# Redefine HTML to update its media type.
-[outputFormats.HTML]
-mediaType = "text/html"
-
-[outputs]
-home = [ "HTML", "RSS", "JSON"]
-page = ["HTML"]
-
 [permalinks]
     page = "/:filename/"
     about = "/:filename/"
