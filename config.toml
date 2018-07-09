@@ -1,4 +1,4 @@
-baseurl = "http://sudocast.github.io/"
+baseurl = "https://sudocast.github.io/"
 languageCode = "pt-BR"
 title = "SudoCast"
 theme = "castanet"
