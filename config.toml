@@ -54,6 +54,7 @@ itunes_subscribe = "https://itunes.apple.com/br/podcast/sudocast/id1229109698?mt
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "Esse é o Sudocast, um podcast de tecnologia ácido, engraçado que discute os principais temas em voga no mundo de Desenvolvimento de Software. Linguagens de Programação, DevOps, comportamento, tudo isso e muito mais só aqui…"
 media_prefix = "http://www.sudocast.com.br/media/"
+custom_css = ["css/custom.css"]
   [params.feed]
     feed_copyright = "Copyright 2017 Pery Lemke and Mário Silveira" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "Um podcast de tecnologia e tendências!" #no markdown or HTML
