@@ -1,123 +1,349 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    >
   <channel>
-    <title>Episodes on SudoCast</title>
-    <link>http://www.sudocast.com.br/episode/</link>
-    <description>Recent content in Episodes on SudoCast</description>
+    <title>SudoCast</title>
+    <atom:link href="http://sudocast.github.io/episode/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sudocast.github.io/</link>
+    <description>Sudocast vem a ser um podcast de tecnologia ácido, engraçado e dinâmico onde são discutidos os assuntos mais quentes do mundo de desenvolvimento.</description>
+    <lastBuildDate>Mon, 7 May 2018 04:10:01 -0500</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <language>en-us</language>
+    <copyright></copyright>
+    <itunes:subtitle>Um podcast de tecnologia e tendências!</itunes:subtitle>
+    <itunes:author>Pery Lemke</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <googleplay:author>Pery Lemke</googleplay:author>
+    <googleplay:email>pery.lemke@gmail.com</googleplay:email>
+    <itunes:summary>Sudocast vem a ser um podcast de tecnologia ácido, engraçado e dinâmico onde são discutidos os assuntos mais quentes do mundo de desenvolvimento.</itunes:summary>
+    <googleplay:description>Sudocast vem a ser um podcast de tecnologia ácido, engraçado e dinâmico onde são discutidos os assuntos mais quentes do mundo de desenvolvimento.</googleplay:description>
+    <itunes:owner>
+      <itunes:name>Pery Lemke</itunes:name>
+      <itunes:email>pery.lemke@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.arresteddevops.com/img/ado-podcast-logo.png" />
+    <googleplay:image href="https://www.arresteddevops.com/img/ado-podcast-logo.png"></googleplay:image>
+    <image>
+      <url>https://www.arresteddevops.com/img/ado-podcast-logo.png</url>
+      <title>SudoCast</title>
+      <link>http://sudocast.github.io/</link>
+    </image>
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-BR</language>
-    <lastBuildDate>Mon, 07 May 2018 04:10:01 -0500</lastBuildDate>
-    
-	<atom:link href="http://www.sudocast.com.br/episode/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>#12 Não deixe o Samba morrer (&#43;18)</title>
-      <link>http://www.sudocast.com.br/12-nao-deixe-o-samba-morrer/</link>
-      <pubDate>Mon, 07 May 2018 04:10:01 -0500</pubDate>
-      
-      <guid>http://www.sudocast.com.br/12-nao-deixe-o-samba-morrer/</guid>
-      <description> Samba Pornô Castálio Podcast com Avelino DevNaEstrada Como ganhei meu primeiro milhão com XXX  </description>
-    </item>
-    
-    <item>
-      <title>#11 #OPodcastÉDelas!</title>
-      <link>http://www.sudocast.com.br/11-o-podcast-e-delas/</link>
-      <pubDate>Tue, 27 Mar 2018 04:10:01 -0500</pubDate>
-      
-      <guid>http://www.sudocast.com.br/11-o-podcast-e-delas/</guid>
-      <description> O Podcast é Delas #MulheresNaTI PyLadies DjangoGirls Rails Girls Woman Who Go PodProgramar Pizza de Dados datascience.pizza  </description>
-    </item>
-    
-    <item>
-      <title>#10 Somos todos Gophers!</title>
-      <link>http://www.sudocast.com.br/10-somos-todos-gophers/</link>
-      <pubDate>Tue, 20 Mar 2018 04:10:01 -0500</pubDate>
-      
-      <guid>http://www.sudocast.com.br/10-somos-todos-gophers/</guid>
-      <description> Documentação do Go Go Playground Awesome Go JustForFunc Go Time Podcast Livro - Linguagem de Programação Go Introdução a Linguagem Go Women Who Go Women Who Go Floripa  </description>
-    </item>
-    
-    <item>
-      <title>#9 A nova era do Tech Recruiting</title>
-      <link>http://www.sudocast.com.br/09-a-nova-era-do-tech-recruiting/</link>
-      <pubDate>Mon, 26 Feb 2018 04:10:01 -0500</pubDate>
-      
-      <guid>http://www.sudocast.com.br/09-a-nova-era-do-tech-recruiting/</guid>
-      <description> Hiring in the Digital Age 8 Things Every Tech Recruiter Should Know What is a Technical Recruiter? Vagas Arrombadas  </description>
-    </item>
-    
-    <item>
-      <title>#8 Blockchain, criptomoedas e cypherpunks!</title>
-      <link>http://www.sudocast.com.br/08-blockchain-criptomoedas-e-cypherpunks/</link>
-      <pubDate>Sun, 04 Feb 2018 04:10:01 -0500</pubDate>
-      
-      <guid>http://www.sudocast.com.br/08-blockchain-criptomoedas-e-cypherpunks/</guid>
-      <description> Python Sul 2018 Submissão de palestras TDC Floripa 2018 Pizza de Dados Quem é Satoshi Nakamoto? Pizza mais cara do mundo Documentário John McAfee Cypherpunks Artigo sobre Cypherpunks Solidity  </description>
-    </item>
-    
-    <item>
-      <title>#7 - JavaScript está dominando o mundo?</title>
-      <link>http://www.sudocast.com.br/07-javascript-esta-dominando-o-mundo-ou-nao/</link>
-      <pubDate>Tue, 05 Dec 2017 04:10:01 -0500</pubDate>
-      
-      <guid>http://www.sudocast.com.br/07-javascript-esta-dominando-o-mundo-ou-nao/</guid>
-      <description> Effective JavaScript Eloquente Javascript MDN Web Docs CoffeeScript TypeScript Hipsters.Tech sobre JS Hipsters.Tech sobre JS Moderno BrasilJS FloripaJS  </description>
-    </item>
-    
-    <item>
-      <title>#6 Python: Pessoas &gt; Tecnologia</title>
-      <link>http://www.sudocast.com.br/06-python-pessoas-maior-que-tecnologia/</link>
-      <pubDate>Wed, 01 Nov 2017 04:10:01 -0500</pubDate>
-      
-      <guid>http://www.sudocast.com.br/06-python-pessoas-maior-que-tecnologia/</guid>
-      <description> Inovar para Contratar The Zen of Python Associação Python Brasil Python Sul Python Floripa Data Science Pizza Tutorial Django Girls PyLadies Brasil Twitter do Guido  </description>
-    </item>
-    
-    <item>
-      <title>#5 A Cultura DevOps</title>
-      <link>http://www.sudocast.com.br/05-a-cultura-devops/</link>
-      <pubDate>Wed, 11 Oct 2017 04:10:01 -0500</pubDate>
-      
-      <guid>http://www.sudocast.com.br/05-a-cultura-devops/</guid>
-      <description> Marco zero do DevOps Podcast do Gomex LinuxTips Podcast do Gomex sobre como Organizar o DevOpsDays Livro Docker para Desenvolvedores Livro do Google sobre Site Reliability Engineering Castálio Podcast com o Jeferson  </description>
-    </item>
-    
-    <item>
-      <title>#4 Peço Perdão Pelo Vacilo :(</title>
-      <link>http://www.sudocast.com.br/04-peco-perdao-pelo-vacilo/</link>
-      <pubDate>Sun, 03 Sep 2017 04:10:01 -0500</pubDate>
-      
-      <guid>http://www.sudocast.com.br/04-peco-perdao-pelo-vacilo/</guid>
-      <description> Famoso caso do Gitlab Vídeo sobre o incidente da Gitlab Incidente da Amazon Capycast  </description>
-    </item>
-    
-    <item>
-      <title>#3 Operação Serenata de Amor</title>
-      <link>http://www.sudocast.com.br/03-operacao-serenata-de-amor/</link>
-      <pubDate>Fri, 16 Jun 2017 04:10:01 -0500</pubDate>
-      
-      <guid>http://www.sudocast.com.br/03-operacao-serenata-de-amor/</guid>
-      <description> Catarse Apoia.se Facebook Twitter Github Jarbas Rosie Lista de Projetos do Github por país Contato  </description>
-    </item>
-    
-    <item>
-      <title>#2 O Movimento Ágil!</title>
-      <link>http://www.sudocast.com.br/02-o-movimento-agil/</link>
-      <pubDate>Thu, 25 May 2017 04:10:01 -0500</pubDate>
-      
-      <guid>http://www.sudocast.com.br/02-o-movimento-agil/</guid>
-      <description> Manifesto Ágil Os doze princípios do software ágil Agile Brazil Uncle Bob falando sobre o futuro da programação Lista de podcasts sobre Agile Taverna Taller e Tallercast Do Caos ao Custo Médio por Demanda Kent Beck na RailsConf 2015  </description>
-    </item>
-    
-    <item>
-      <title>#1 Hello World!</title>
-      <link>http://www.sudocast.com.br/01-hello-world/</link>
-      <pubDate>Sun, 23 Apr 2017 04:10:01 -0500</pubDate>
-      
-      <guid>http://www.sudocast.com.br/01-hello-world/</guid>
-      <description> DJ Trader TimbreJS RubyFloripa Capycast Grokcast PodProgramar DevNaEstrada RailsCasts  </description>
-    </item>
-    
-  </channel>
+        <item>
+          <title>#12 Não Deixe O Samba Morrer (&#43;18)</title>
+          <link>http://sudocast.github.io/12-nao-deixe-o-samba-morrer/</link>
+          <pubDate>Mon, 07 May 2018 04:10:01 -0500 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://www.sudocast.com.br/media/sudocast012.mp3</guid>
+          <itunes:author>Pery Lemke</itunes:author>
+          
+          <itunes:episode>12</itunes:episode>
+          
+        <itunes:summary>Olá mundo =) Neste episódio do Sudocast, Pery Lemke e Igor Leroy batem um papo com Thiago Avelino sobre seu case de empreendedorismo adulto, o famoso Samba Pornô. Descubra neste podcast, como transformar um site pessoal num case de sucesso, fazer o seu jurídico ficar feliz com você, que é bom ter um contador no dia a dia e que é possível empreender tendo uma ideia genial e inovadora. **Atenção: Não recomendado para menores de 18 anos!** Introdução: Alcione - Não deixe o samba morrer Edição e Sonorização: Johnny Duluti</itunes:summary>
+        <description>Olá mundo =) Neste episódio do Sudocast, Pery Lemke e Igor Leroy batem um papo com Thiago Avelino sobre seu case de empreendedorismo adulto, o famoso Samba Pornô. Descubra neste podcast, como transformar um site pessoal num case de sucesso, fazer o seu jurídico ficar feliz com você, que é bom ter um contador no dia a dia e que é possível empreender tendo uma ideia genial e inovadora. **Atenção: Não recomendado para menores de 18 anos!** Introdução: Alcione - Não deixe o samba morrer Edição e Sonorização: Johnny Duluti</description>
+        <googleplay:description>Olá mundo =) Neste episódio do Sudocast, Pery Lemke e Igor Leroy batem um papo com Thiago Avelino sobre seu case de empreendedorismo adulto, o famoso Samba Pornô. Descubra neste podcast, como transformar um site pessoal num case de sucesso, fazer o seu jurídico ficar feliz com você, que é bom ter um contador no dia a dia e que é possível empreender tendo uma ideia genial e inovadora. **Atenção: Não recomendado para menores de 18 anos!** Introdução: Alcione - Não deixe o samba morrer Edição e Sonorização: Johnny Duluti</googleplay:description>
+        <content:encoded><![CDATA[<ul>
+<li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Samba Pornô</a></li>
+<li><a href="https://castalio.info/episodio-63-thiago-avelino-vim-bootstrap-e-beerblogging.html">Castálio Podcast com Avelino</a></li>
+<li><a href="https://devnaestrada.com.br/2018/04/06/entrevista-thiago-avelino.html">DevNaEstrada</a></li>
+<li><a href="https://www.youtube.com/watch?v=dPv6Q_5Ctd4">Como ganhei meu primeiro milhão com XXX</a></li>
+</ul>
+]]></content:encoded><itunes:image href="http://sudocast.github.io/img/episode/thumbs/naodeixeosamba.png"></itunes:image>
+          <googleplay:image href="http://sudocast.github.io/img/episode/thumbs/naodeixeosamba.png"></googleplay:image><enclosure url="http://www.sudocast.com.br/media/sudocast012.mp3" length="61592453" type="audio/mpeg" /><itunes:duration>1:04:09</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
+          <title>#11 #OPodcastÉDelas!</title>
+          <link>http://sudocast.github.io/11-o-podcast-e-delas/</link>
+          <pubDate>Tue, 27 Mar 2018 04:10:01 -0500 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://www.sudocast.com.br/media/sudocast011.mp3</guid>
+          <itunes:author>Pery Lemke</itunes:author>
+          
+          <itunes:episode>11</itunes:episode>
+          
+        <itunes:summary>Olá mundo =) Nesta edição especial do SudoCast, [Jessica Temporal](https://www.twitter.com/jesstemporal), [Leticia Portella](https://www.twitter.com/leleportella), [Talita Rossari](https://www.twitter.com/talitarossari) e [Paula Santos](https://www.twitter.com/santos_paulac) assumem o comando deste podcast para a iniciativa #OPodcastÉDelas que está na sua segunda edição e promove a inclusão de mulheres na podosfera.  Descubra neste podcast, que tudo pode ser resolvido com uma integral, a confiar somente nos dados, que criar API em Python é a mesma coisa que beber vinho e como conquistar seu espaço numa área que infelizmente tem predominância masculina. Abertura: [Profasia](https://www.facebook.com/profasiaoficial/) - [Hipocrisia](https://soundcloud.com/profasiaoficial/hipocrisia) Edição e Sonorização: [Johnny Duluti]((https://www.youtube.com/ferraduravideo)</itunes:summary>
+        <description>Olá mundo =) Nesta edição especial do SudoCast, [Jessica Temporal](https://www.twitter.com/jesstemporal), [Leticia Portella](https://www.twitter.com/leleportella), [Talita Rossari](https://www.twitter.com/talitarossari) e [Paula Santos](https://www.twitter.com/santos_paulac) assumem o comando deste podcast para a iniciativa #OPodcastÉDelas que está na sua segunda edição e promove a inclusão de mulheres na podosfera.  Descubra neste podcast, que tudo pode ser resolvido com uma integral, a confiar somente nos dados, que criar API em Python é a mesma coisa que beber vinho e como conquistar seu espaço numa área que infelizmente tem predominância masculina. Abertura: [Profasia](https://www.facebook.com/profasiaoficial/) - [Hipocrisia](https://soundcloud.com/profasiaoficial/hipocrisia) Edição e Sonorização: [Johnny Duluti]((https://www.youtube.com/ferraduravideo)</description>
+        <googleplay:description>Olá mundo =) Nesta edição especial do SudoCast, [Jessica Temporal](https://www.twitter.com/jesstemporal), [Leticia Portella](https://www.twitter.com/leleportella), [Talita Rossari](https://www.twitter.com/talitarossari) e [Paula Santos](https://www.twitter.com/santos_paulac) assumem o comando deste podcast para a iniciativa #OPodcastÉDelas que está na sua segunda edição e promove a inclusão de mulheres na podosfera.  Descubra neste podcast, que tudo pode ser resolvido com uma integral, a confiar somente nos dados, que criar API em Python é a mesma coisa que beber vinho e como conquistar seu espaço numa área que infelizmente tem predominância masculina. Abertura: [Profasia](https://www.facebook.com/profasiaoficial/) - [Hipocrisia](https://soundcloud.com/profasiaoficial/hipocrisia) Edição e Sonorização: [Johnny Duluti]((https://www.youtube.com/ferraduravideo)</googleplay:description>
+        <content:encoded><![CDATA[<ul>
+<li><a href="http://opodcastedelas.com.br/">O Podcast é Delas</a></li>
+<li><a href="https://twitter.com/hashtag/mulheresnati">#MulheresNaTI</a></li>
+<li><a href="http://brasil.pyladies.com/">PyLadies</a></li>
+<li><a href="https://djangogirls.org/">DjangoGirls</a></li>
+<li><a href="http://railsgirls.com/">Rails Girls</a></li>
+<li><a href="https://www.womenwhogo.org/">Woman Who Go</a></li>
+<li><a href="https://mundopodcast.com.br/podprogramar/">PodProgramar</a></li>
+<li><a href="http://pizzadedados.com/">Pizza de Dados</a></li>
+<li><a href="https://github.com/leportella/datascience-pizza">datascience.pizza</a></li>
+</ul>
+]]></content:encoded><itunes:image href="http://sudocast.github.io/img/episode/thumbs/opodcastehdelas.jpg"></itunes:image>
+          <googleplay:image href="http://sudocast.github.io/img/episode/thumbs/opodcastehdelas.jpg"></googleplay:image><enclosure url="http://www.sudocast.com.br/media/sudocast011.mp3" length="49342070" type="audio/mpeg" /><itunes:duration>51:24</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
+          <title>#10 Somos Todos Gophers!</title>
+          <link>http://sudocast.github.io/10-somos-todos-gophers/</link>
+          <pubDate>Tue, 20 Mar 2018 04:10:01 -0500 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://www.sudocast.com.br/media/sudocast010.mp3</guid>
+          <itunes:author>Pery Lemke</itunes:author>
+          
+          <itunes:episode>10</itunes:episode>
+          
+        <itunes:summary>Olá mundo =) Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jessica Temporal](https://www.twitter.com/jesstemporal) e [Cesar Gimenes](https://twitter.com/crgimenes) batem um papo sobre Go, a linguagem que foi criada no Google e está cada vez mais conquistando espaço no mercado. Descubra neste podcast, o que um Dream Team pode fazer com liberdade, como dar uma banana para a Orientação a Objetos, se é possível se livrar do Vendor e como ser perfomático ao extremo. Introdução: [Monte Resina](https://www.facebook.com/monteresina/) - [Masmorra Verruga](https://www.youtube.com/watch?v=lpdzkD-HPBM) Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo)</itunes:summary>
+        <description>Olá mundo =) Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jessica Temporal](https://www.twitter.com/jesstemporal) e [Cesar Gimenes](https://twitter.com/crgimenes) batem um papo sobre Go, a linguagem que foi criada no Google e está cada vez mais conquistando espaço no mercado. Descubra neste podcast, o que um Dream Team pode fazer com liberdade, como dar uma banana para a Orientação a Objetos, se é possível se livrar do Vendor e como ser perfomático ao extremo. Introdução: [Monte Resina](https://www.facebook.com/monteresina/) - [Masmorra Verruga](https://www.youtube.com/watch?v=lpdzkD-HPBM) Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo)</description>
+        <googleplay:description>Olá mundo =) Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jessica Temporal](https://www.twitter.com/jesstemporal) e [Cesar Gimenes](https://twitter.com/crgimenes) batem um papo sobre Go, a linguagem que foi criada no Google e está cada vez mais conquistando espaço no mercado. Descubra neste podcast, o que um Dream Team pode fazer com liberdade, como dar uma banana para a Orientação a Objetos, se é possível se livrar do Vendor e como ser perfomático ao extremo. Introdução: [Monte Resina](https://www.facebook.com/monteresina/) - [Masmorra Verruga](https://www.youtube.com/watch?v=lpdzkD-HPBM) Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo)</googleplay:description>
+        <content:encoded><![CDATA[<ul>
+<li><a href="http://www.golangbr.org/doc/">Documentação do Go</a></li>
+<li><a href="http://www.golangbr.org/doc/">Go Playground</a></li>
+<li><a href="https://github.com/avelino/awesome-go">Awesome Go</a></li>
+<li><a href="https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw">JustForFunc</a></li>
+<li><a href="https://changelog.com/gotime">Go Time Podcast</a></li>
+<li><a href="https://www.amazon.com.br/Linguagem-Programa%C3%A7%C3%A3o-Go-Alan-Donovan/dp/8575225464?tag=goog0ef-20&amp;smid=A1ZZFT5FULY4LN&amp;ascsubtag=4a05a173-0491-4061-b885-ccfae87d8033">Livro - Linguagem de Programação Go</a></li>
+<li><a href="https://novatec.com.br/livros/introducao-linguagem-go/">Introdução a Linguagem Go</a></li>
+<li><a href="https://www.womenwhogo.org/">Women Who Go</a></li>
+<li><a href="https://www.meetup.com/pt-BR/Women-Who-Go-Floripa/">Women Who Go Floripa</a></li>
+</ul>
+]]></content:encoded><itunes:image href="http://sudocast.github.io/img/episode/thumbs/gopher.jpg"></itunes:image>
+          <googleplay:image href="http://sudocast.github.io/img/episode/thumbs/gopher.jpg"></googleplay:image><enclosure url="http://www.sudocast.com.br/media/sudocast010.mp3" length="56123875" type="audio/mpeg" /><itunes:duration>58:28</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
+          <title>#9 a Nova Era Do Tech Recruiting</title>
+          <link>http://sudocast.github.io/09-a-nova-era-do-tech-recruiting/</link>
+          <pubDate>Mon, 26 Feb 2018 04:10:01 -0500 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://www.sudocast.com.br/media/sudocast009.mp3</guid>
+          <itunes:author>Pery Lemke</itunes:author>
+          
+          <itunes:episode>9</itunes:episode>
+          
+        <itunes:summary>Olá mundo =) Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Ayslan Schmidt](https://twitter.com/ayschmidt) e [Gabriela Casasagranda](https://twitter.com/gabicasagranda) batem um papo sobre Tech Recruting, que é a forma mais adotada hoje em dia para recrutamento de profissionais para as empresas. Descubra neste podcast, a importância de um bom feedback, que não devemos ter medo do RH e como é importante a comunicação no mundo hoje em dia. Introdução: [Carinae](https://www.facebook.com/acarinae/) - [Abarcar](https://www.youtube.com/watch?v=NvLkTyrZBcg) Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo)</itunes:summary>
+        <description>Olá mundo =) Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Ayslan Schmidt](https://twitter.com/ayschmidt) e [Gabriela Casasagranda](https://twitter.com/gabicasagranda) batem um papo sobre Tech Recruting, que é a forma mais adotada hoje em dia para recrutamento de profissionais para as empresas. Descubra neste podcast, a importância de um bom feedback, que não devemos ter medo do RH e como é importante a comunicação no mundo hoje em dia. Introdução: [Carinae](https://www.facebook.com/acarinae/) - [Abarcar](https://www.youtube.com/watch?v=NvLkTyrZBcg) Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo)</description>
+        <googleplay:description>Olá mundo =) Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Ayslan Schmidt](https://twitter.com/ayschmidt) e [Gabriela Casasagranda](https://twitter.com/gabicasagranda) batem um papo sobre Tech Recruting, que é a forma mais adotada hoje em dia para recrutamento de profissionais para as empresas. Descubra neste podcast, a importância de um bom feedback, que não devemos ter medo do RH e como é importante a comunicação no mundo hoje em dia. Introdução: [Carinae](https://www.facebook.com/acarinae/) - [Abarcar](https://www.youtube.com/watch?v=NvLkTyrZBcg) Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo)</googleplay:description>
+        <content:encoded><![CDATA[<ul>
+<li><a href="https://www.businessnewsdaily.com/6975-future-of-recruiting.html">Hiring in the Digital Age</a></li>
+<li><a href="https://www.forbes.com/sites/quora/2015/01/26/8-things-every-tech-recruiter-should-know/#28f347b46649">8 Things Every Tech Recruiter Should Know</a></li>
+<li><a href="https://blog.hackerrank.com/what-technical-recruiter/">What is a Technical Recruiter?</a></li>
+<li><a href="https://www.facebook.com/vagasVTNC/">Vagas Arrombadas</a></li>
+</ul>
+]]></content:encoded><itunes:image href="http://sudocast.github.io/img/episode/thumbs/technical-recruiting.jpg"></itunes:image>
+          <googleplay:image href="http://sudocast.github.io/img/episode/thumbs/technical-recruiting.jpg"></googleplay:image><enclosure url="http://www.sudocast.com.br/media/sudocast009.mp3" length="40020326" type="audio/mpeg" /><itunes:duration>41:41</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
+          <title>#8 Blockchain, Criptomoedas E Cypherpunks!</title>
+          <link>http://sudocast.github.io/08-blockchain-criptomoedas-e-cypherpunks/</link>
+          <pubDate>Sun, 04 Feb 2018 04:10:01 -0500 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://www.sudocast.com.br/media/sudocast008.mp3</guid>
+          <itunes:author>Pery Lemke</itunes:author>
+          
+          <itunes:episode>8</itunes:episode>
+          
+        <itunes:summary>Olá mundo =) Neste primeiro episódio de 2018 do SudoCast, [Pery Lemke](https://www.twitter.com/perylemke), [Ricardo Shuree](https://twitter.com/ricardoshuree) e [Mário Silveira](https://www.twitter.com/dermarios) batem um papo polêmico (ou não) sobre a Blockchain, que é a implementação das criptomoedas que ganharam as manchetes nossos últimos meses. Descobra nesse podcast, o que são Cypherpunks, como uma pizza pode ser tão cara e afinal de contas, quem é Satoshi Nakamoto? Introdução: [Cobalt Blue](https://cobaltblueband.bandcamp.com/) - [Catalyst](https://www.youtube.com/watch?v=NOMSGfIFzII&amp;t=1456s) Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo)</itunes:summary>
+        <description>Olá mundo =) Neste primeiro episódio de 2018 do SudoCast, [Pery Lemke](https://www.twitter.com/perylemke), [Ricardo Shuree](https://twitter.com/ricardoshuree) e [Mário Silveira](https://www.twitter.com/dermarios) batem um papo polêmico (ou não) sobre a Blockchain, que é a implementação das criptomoedas que ganharam as manchetes nossos últimos meses. Descobra nesse podcast, o que são Cypherpunks, como uma pizza pode ser tão cara e afinal de contas, quem é Satoshi Nakamoto? Introdução: [Cobalt Blue](https://cobaltblueband.bandcamp.com/) - [Catalyst](https://www.youtube.com/watch?v=NOMSGfIFzII&amp;t=1456s) Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo)</description>
+        <googleplay:description>Olá mundo =) Neste primeiro episódio de 2018 do SudoCast, [Pery Lemke](https://www.twitter.com/perylemke), [Ricardo Shuree](https://twitter.com/ricardoshuree) e [Mário Silveira](https://www.twitter.com/dermarios) batem um papo polêmico (ou não) sobre a Blockchain, que é a implementação das criptomoedas que ganharam as manchetes nossos últimos meses. Descobra nesse podcast, o que são Cypherpunks, como uma pizza pode ser tão cara e afinal de contas, quem é Satoshi Nakamoto? Introdução: [Cobalt Blue](https://cobaltblueband.bandcamp.com/) - [Catalyst](https://www.youtube.com/watch?v=NOMSGfIFzII&amp;t=1456s) Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo)</googleplay:description>
+        <content:encoded><![CDATA[<ul>
+<li><a href="http://pythonsul.org/">Python Sul 2018</a></li>
+<li><a href="http://cfp-flp.thedevconf.com.br/">Submissão de palestras TDC Floripa 2018</a></li>
+<li><a href="http://podcast.datascience.pizza/">Pizza de Dados</a></li>
+<li><a href="https://www.thesun.co.uk/news/5037060/satoshi-nakamoto-bitcoin-inventor-worlds-richest/">Quem é Satoshi Nakamoto?</a></li>
+<li><a href="http://uk.businessinsider.com/bitcoin-pizza-10000-100-million-2017-11">Pizza mais cara do mundo</a></li>
+<li><a href="http://www.imdb.com/title/tt6071534/">Documentário John McAfee</a></li>
+<li><a href="https://www.saraiva.com.br/cypherpunks-liberdade-e-o-futuro-da-internet-4432922.html">Cypherpunks</a></li>
+<li><a href="https://medium.com/swlh/the-untold-history-of-bitcoin-enter-the-cypherpunks-f764dee962a1">Artigo sobre Cypherpunks</a></li>
+<li><a href="https://solidity.readthedocs.io/en/develop/">Solidity</a></li>
+</ul>
+]]></content:encoded><itunes:image href="http://sudocast.github.io/img/episode/thumbs/bitcoin.jpg"></itunes:image>
+          <googleplay:image href="http://sudocast.github.io/img/episode/thumbs/bitcoin.jpg"></googleplay:image><enclosure url="http://www.sudocast.com.br/media/sudocast008.mp3" length="74622540" type="audio/mpeg" /><itunes:duration>51:49</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
+          <title>#7 - JavaScript Está Dominando O Mundo?</title>
+          <link>http://sudocast.github.io/07-javascript-esta-dominando-o-mundo-ou-nao/</link>
+          <pubDate>Tue, 05 Dec 2017 04:10:01 -0500 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://www.sudocast.com.br/media/sudocast007.mp3</guid>
+          <itunes:author>Pery Lemke</itunes:author>
+          
+          <itunes:episode>7</itunes:episode>
+          
+        <itunes:summary>Olá mundo =) Neste último episódio do 2017 do Sudocast, [Pery Lemke](https://twitter.com/perylemke), [Jaydson Gomes](https://twitter.com/jaydson), [Lucas Fernandes](https://twitter.com/jaydson) e [Mário Silveira](https://twitter.com/dermarios) batem um papo sobre JavaScript linguagem que saiu dos browsers para dominar o mundo. Descubra nesse podcast como criar uma linguagem de programação em 15 dias, o porquê de reinventar a roda é tão legal e qual participante desse podcast que ainda usa Action Script. Música de entrada: [Grize](https://www.facebook.com/grizeband/) - [Winter](https://www.youtube.com/watch?v=BRzrM5iBQ_I) Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo)</itunes:summary>
+        <description>Olá mundo =) Neste último episódio do 2017 do Sudocast, [Pery Lemke](https://twitter.com/perylemke), [Jaydson Gomes](https://twitter.com/jaydson), [Lucas Fernandes](https://twitter.com/jaydson) e [Mário Silveira](https://twitter.com/dermarios) batem um papo sobre JavaScript linguagem que saiu dos browsers para dominar o mundo. Descubra nesse podcast como criar uma linguagem de programação em 15 dias, o porquê de reinventar a roda é tão legal e qual participante desse podcast que ainda usa Action Script. Música de entrada: [Grize](https://www.facebook.com/grizeband/) - [Winter](https://www.youtube.com/watch?v=BRzrM5iBQ_I) Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo)</description>
+        <googleplay:description>Olá mundo =) Neste último episódio do 2017 do Sudocast, [Pery Lemke](https://twitter.com/perylemke), [Jaydson Gomes](https://twitter.com/jaydson), [Lucas Fernandes](https://twitter.com/jaydson) e [Mário Silveira](https://twitter.com/dermarios) batem um papo sobre JavaScript linguagem que saiu dos browsers para dominar o mundo. Descubra nesse podcast como criar uma linguagem de programação em 15 dias, o porquê de reinventar a roda é tão legal e qual participante desse podcast que ainda usa Action Script. Música de entrada: [Grize](https://www.facebook.com/grizeband/) - [Winter](https://www.youtube.com/watch?v=BRzrM5iBQ_I) Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo)</googleplay:description>
+        <content:encoded><![CDATA[<ul>
+<li><a href="https://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182">Effective JavaScript</a></li>
+<li><a href="http://braziljs.github.io/eloquente-javascript/">Eloquente Javascript</a></li>
+<li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">MDN Web Docs</a></li>
+<li><a href="http://coffeescript.org/">CoffeeScript</a></li>
+<li><a href="https://www.typescriptlang.org/">TypeScript</a></li>
+<li><a href="https://hipsters.tech/o-reino-encantado-do-javascript-hipsters-38/">Hipsters.Tech sobre JS</a></li>
+<li><a href="https://hipsters.tech/evolucao-e-especificacao-do-javascript-moderno/">Hipsters.Tech sobre JS Moderno</a></li>
+<li><a href="https://braziljs.org/">BrasilJS</a></li>
+<li><a href="https://www.meetup.com/pt-BR/floripajs/">FloripaJS</a></li>
+</ul>
+]]></content:encoded><itunes:image href="http://sudocast.github.io/img/episode/thumbs/javascript.jpg"></itunes:image>
+          <googleplay:image href="http://sudocast.github.io/img/episode/thumbs/javascript.jpg"></googleplay:image><enclosure url="http://www.sudocast.com.br/media/sudocast007.mp3" length="58201968" type="audio/mpeg" /><itunes:duration>01:00:38</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
+          <title>#6 Python: Pessoas &gt; Tecnologia</title>
+          <link>http://sudocast.github.io/06-python-pessoas-maior-que-tecnologia/</link>
+          <pubDate>Wed, 01 Nov 2017 04:10:01 -0500 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://www.sudocast.com.br/media/sudocast006.mp3</guid>
+          <itunes:author>Pery Lemke</itunes:author>
+          
+          <itunes:episode>6</itunes:episode>
+          
+        <itunes:summary>Olá mundo =) Neste episódio do Mariocas... quer dizer Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Mário Queiroz](https://www.twitter.com/sergiomario), [Letícia Portella](https://www.twitter.com/leportella) e [Mário Silveira](https://www.twitter.com/dermarios) conversam sobre a linguagem Python que está cada vez mais ganhando espaço no mercado de Tecnologia. Descubra neste podcast quem é Guidão da Massa, como criar uma linguagem de programação nas festas de final de ano, como uma Oceanógrafa se rendeu ao mundo do desenvolvimento e porquê de ir aos encontros da comunidade pela linguagem e ficar pelas pessoas.</itunes:summary>
+        <description>Olá mundo =) Neste episódio do Mariocas... quer dizer Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Mário Queiroz](https://www.twitter.com/sergiomario), [Letícia Portella](https://www.twitter.com/leportella) e [Mário Silveira](https://www.twitter.com/dermarios) conversam sobre a linguagem Python que está cada vez mais ganhando espaço no mercado de Tecnologia. Descubra neste podcast quem é Guidão da Massa, como criar uma linguagem de programação nas festas de final de ano, como uma Oceanógrafa se rendeu ao mundo do desenvolvimento e porquê de ir aos encontros da comunidade pela linguagem e ficar pelas pessoas.</description>
+        <googleplay:description>Olá mundo =) Neste episódio do Mariocas... quer dizer Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Mário Queiroz](https://www.twitter.com/sergiomario), [Letícia Portella](https://www.twitter.com/leportella) e [Mário Silveira](https://www.twitter.com/dermarios) conversam sobre a linguagem Python que está cada vez mais ganhando espaço no mercado de Tecnologia. Descubra neste podcast quem é Guidão da Massa, como criar uma linguagem de programação nas festas de final de ano, como uma Oceanógrafa se rendeu ao mundo do desenvolvimento e porquê de ir aos encontros da comunidade pela linguagem e ficar pelas pessoas.</googleplay:description>
+        <content:encoded><![CDATA[<ul>
+<li><a href="https://soundcloud.com/inovar-para-contratar">Inovar para Contratar</a></li>
+<li><a href="https://www.python.org/dev/peps/pep-0020/">The Zen of Python</a></li>
+<li><a href="http://associacao.python.org.br/">Associação Python Brasil</a></li>
+<li><a href="https://pythonsul.org/">Python Sul</a></li>
+<li><a href="http://floripa.sc.python.org.br/">Python Floripa</a></li>
+<li><a href="http://datascience.pizza/">Data Science Pizza</a></li>
+<li><a href="https://tutorial.djangogirls.org/pt/">Tutorial Django Girls</a></li>
+<li><a href="http://brasil.pyladies.com/">PyLadies Brasil</a></li>
+<li><a href="https://twitter.com/gvanrossum">Twitter do Guido</a></li>
+</ul>
+]]></content:encoded><itunes:image href="http://sudocast.github.io/img/episode/thumbs/guido.jpg"></itunes:image>
+          <googleplay:image href="http://sudocast.github.io/img/episode/thumbs/guido.jpg"></googleplay:image><enclosure url="http://www.sudocast.com.br/media/sudocast006.mp3" length="67475647" type="audio/mpeg" /><itunes:duration>01:10:17</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
+          <title>#5 a Cultura DevOps</title>
+          <link>http://sudocast.github.io/05-a-cultura-devops/</link>
+          <pubDate>Wed, 11 Oct 2017 04:10:01 -0500 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://www.sudocast.com.br/media/sudocast005.mp3</guid>
+          <itunes:author>Pery Lemke</itunes:author>
+          
+          <itunes:episode>5</itunes:episode>
+          
+        <itunes:summary>Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jeferson Fernando](https://twitter.com/badtux_), [Gomex](https://twitter.com/gomex) e [Mário Silveira](https://twitter.com/dermarios) trocam uma ideia sobre a cultura DevOps que está quebrando os paradigmas do mundo da Tecnologia. Descubra neste podcast que DevOps não é cargo e sim cultura, que o Google está a frente do seu tempo, quem é o culpado caso a produção caia e qual Sudocaster está se rendendo ao Docker.</itunes:summary>
+        <description>Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jeferson Fernando](https://twitter.com/badtux_), [Gomex](https://twitter.com/gomex) e [Mário Silveira](https://twitter.com/dermarios) trocam uma ideia sobre a cultura DevOps que está quebrando os paradigmas do mundo da Tecnologia. Descubra neste podcast que DevOps não é cargo e sim cultura, que o Google está a frente do seu tempo, quem é o culpado caso a produção caia e qual Sudocaster está se rendendo ao Docker.</description>
+        <googleplay:description>Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jeferson Fernando](https://twitter.com/badtux_), [Gomex](https://twitter.com/gomex) e [Mário Silveira](https://twitter.com/dermarios) trocam uma ideia sobre a cultura DevOps que está quebrando os paradigmas do mundo da Tecnologia. Descubra neste podcast que DevOps não é cargo e sim cultura, que o Google está a frente do seu tempo, quem é o culpado caso a produção caia e qual Sudocaster está se rendendo ao Docker.</googleplay:description>
+        <content:encoded><![CDATA[<ul>
+<li><a href="https://www.youtube.com/watch?v=LdOe18KhtT4">Marco zero do DevOps</a></li>
+<li><a href="http://gatilhokosmico.com.br/2017/07/17/qual-futuro-do-sysadmin/">Podcast do Gomex</a></li>
+<li><a href="https://www.youtube.com/linuxtips">LinuxTips</a></li>
+<li><a href="http://gatilhokosmico.com.br/2017/08/05/precisamos-falar-sobre-devops-organizando-devopsday/">Podcast do Gomex sobre como Organizar o DevOpsDays</a></li>
+<li><a href="https://leanpub.com/dockerparadesenvolvedores">Livro Docker para Desenvolvedores</a></li>
+<li><a href="https://landing.google.com/sre/book.html">Livro do Google sobre Site Reliability Engineering</a></li>
+<li><a href="http://castalio.info/episodio-109-jeferson-noronha-canal-linuxtips.html">Castálio Podcast com o Jeferson</a></li>
+</ul>
+]]></content:encoded><itunes:image href="http://sudocast.github.io/img/episode/thumbs/devops.jpg"></itunes:image>
+          <googleplay:image href="http://sudocast.github.io/img/episode/thumbs/devops.jpg"></googleplay:image><enclosure url="http://www.sudocast.com.br/media/sudocast005.mp3" length="136760346" type="audio/mpeg" /><itunes:duration>01:11:14</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
+          <title>#4 Peço Perdão Pelo Vacilo :(</title>
+          <link>http://sudocast.github.io/04-peco-perdao-pelo-vacilo/</link>
+          <pubDate>Sun, 03 Sep 2017 04:10:01 -0500 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://www.sudocast.com.br/media/sudocast004.mp3</guid>
+          <itunes:author>Pery Lemke</itunes:author>
+          
+          <itunes:episode>4</itunes:episode>
+          
+        <itunes:summary>Olá mundo =) Primeiramente, pedimos perdão pelo vacilo de demorar para publicar um novo episódio. Porém voltamos com tudo, e nesse episódio [Pery Lemke](https://www.twitter.com/perylemke), [Nando Sousa](http://www.twitter.com/nandosousafr) e [Mário Silveira](https://www.twitter.com/dermarios) batem um papo maluco sobre os erros cometidos durante sua vida no mundo profissional. Descubra neste podcast como apagar a crontab do servidor de produção e deixar um setor todo com raiva de você, como ir tomar água grudado na cadeira e nunca, mas nunca corte a fibra ótica da indústria que você trabalha.</itunes:summary>
+        <description>Olá mundo =) Primeiramente, pedimos perdão pelo vacilo de demorar para publicar um novo episódio. Porém voltamos com tudo, e nesse episódio [Pery Lemke](https://www.twitter.com/perylemke), [Nando Sousa](http://www.twitter.com/nandosousafr) e [Mário Silveira](https://www.twitter.com/dermarios) batem um papo maluco sobre os erros cometidos durante sua vida no mundo profissional. Descubra neste podcast como apagar a crontab do servidor de produção e deixar um setor todo com raiva de você, como ir tomar água grudado na cadeira e nunca, mas nunca corte a fibra ótica da indústria que você trabalha.</description>
+        <googleplay:description>Olá mundo =) Primeiramente, pedimos perdão pelo vacilo de demorar para publicar um novo episódio. Porém voltamos com tudo, e nesse episódio [Pery Lemke](https://www.twitter.com/perylemke), [Nando Sousa](http://www.twitter.com/nandosousafr) e [Mário Silveira](https://www.twitter.com/dermarios) batem um papo maluco sobre os erros cometidos durante sua vida no mundo profissional. Descubra neste podcast como apagar a crontab do servidor de produção e deixar um setor todo com raiva de você, como ir tomar água grudado na cadeira e nunca, mas nunca corte a fibra ótica da indústria que você trabalha.</googleplay:description>
+        <content:encoded><![CDATA[<ul>
+<li><a href="https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/">Famoso caso do Gitlab</a></li>
+<li><a href="https://www.youtube.com/watch?v=sVhxJglkQwI&amp;t=7s">Vídeo sobre o incidente da Gitlab</a></li>
+<li><a href="http://gizmodo.uol.com.br/amazon-web-services-pane/">Incidente da Amazon</a></li>
+<li><a href="https://soundcloud.com/rdshipit">Capycast</a></li>
+</ul>
+]]></content:encoded><itunes:image href="http://sudocast.github.io/img/episode/thumbs/vacilo.jpg"></itunes:image>
+          <googleplay:image href="http://sudocast.github.io/img/episode/thumbs/vacilo.jpg"></googleplay:image><enclosure url="http://www.sudocast.com.br/media/sudocast004.mp3" length="69661176" type="audio/mpeg" /><itunes:duration>36:17</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
+          <title>#3 Operação Serenata De Amor</title>
+          <link>http://sudocast.github.io/03-operacao-serenata-de-amor/</link>
+          <pubDate>Fri, 16 Jun 2017 04:10:01 -0500 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://www.sudocast.com.br/media/sudocast003.mp3</guid>
+          <itunes:author>Pery Lemke</itunes:author>
+          
+          <itunes:episode>3</itunes:episode>
+          
+        <itunes:summary>Olá mundo =) Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke) e [Mário Silveira](https://www.twitter.com/dermarios) recebem [Jessica Temporal](https://www.twitter.com/jesstemporal) e [Ana Schwendler](https://twitter.com/anaschwendler) para bater um bapo sobre a [Operação Serenata de Amor](https://serenatadeamor.org/). Descubra neste podcast os pormenores desta operação, que político bom é político hackeado e quem tem gente que está tentando mudar a situação do Brasil. Abertura: [NOAHS](https://www.facebook.com/noahstheband/) - [Talk to me](https://www.youtube.com/watch?v=dAMSGnpWpUM)</itunes:summary>
+        <description>Olá mundo =) Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke) e [Mário Silveira](https://www.twitter.com/dermarios) recebem [Jessica Temporal](https://www.twitter.com/jesstemporal) e [Ana Schwendler](https://twitter.com/anaschwendler) para bater um bapo sobre a [Operação Serenata de Amor](https://serenatadeamor.org/). Descubra neste podcast os pormenores desta operação, que político bom é político hackeado e quem tem gente que está tentando mudar a situação do Brasil. Abertura: [NOAHS](https://www.facebook.com/noahstheband/) - [Talk to me](https://www.youtube.com/watch?v=dAMSGnpWpUM)</description>
+        <googleplay:description>Olá mundo =) Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke) e [Mário Silveira](https://www.twitter.com/dermarios) recebem [Jessica Temporal](https://www.twitter.com/jesstemporal) e [Ana Schwendler](https://twitter.com/anaschwendler) para bater um bapo sobre a [Operação Serenata de Amor](https://serenatadeamor.org/). Descubra neste podcast os pormenores desta operação, que político bom é político hackeado e quem tem gente que está tentando mudar a situação do Brasil. Abertura: [NOAHS](https://www.facebook.com/noahstheband/) - [Talk to me](https://www.youtube.com/watch?v=dAMSGnpWpUM)</googleplay:description>
+        <content:encoded><![CDATA[<ul>
+<li><a href="https://www.catarse.me/serenata">Catarse</a></li>
+<li><a href="https://apoia.se/serenata">Apoia.se</a></li>
+<li><a href="https://www.facebook.com/operacaoSerenataDeAmor">Facebook</a></li>
+<li><a href="https://www.twitter.com/operacaoSerenataDeAmor">Twitter</a></li>
+<li><a href="https://github.com/datasciencebr/">Github</a></li>
+<li><a href="https://github.com/datasciencebr/jarbas">Jarbas</a></li>
+<li><a href="https://github.com/datasciencebr/rosie">Rosie</a></li>
+<li><a href="https://medium.com/@hoffa/the-top-github-projects-per-country-92c275e19409">Lista de Projetos do Github por país</a></li>
+<li><a href="https://medium.com/@hoffa/the-top-github-projects-per-country-92c275e19409">Contato</a></li>
+</ul>
+]]></content:encoded><itunes:image href="http://sudocast.github.io/img/episode/thumbs/serenata.jpg"></itunes:image>
+          <googleplay:image href="http://sudocast.github.io/img/episode/thumbs/serenata.jpg"></googleplay:image><enclosure url="http://www.sudocast.com.br/media/sudocast003.mp3" length="92831998" type="audio/mpeg" /><itunes:duration>48:21</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
+          <title>#2 O Movimento Ágil!</title>
+          <link>http://sudocast.github.io/02-o-movimento-agil/</link>
+          <pubDate>Thu, 25 May 2017 04:10:01 -0500 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://www.sudocast.com.br/media/sudocast002.mp3</guid>
+          <itunes:author>Pery Lemke</itunes:author>
+          
+          <itunes:episode>2</itunes:episode>
+          
+        <itunes:summary>Olá mundo =) No segundo episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke) e [Mário Silveira](https://www.twitter.com/dermarios) recebem [Rafael Cáceres](https://www.twitter.com/rafaelcaceres) da [Taller](https://taller.net.br/) para bater um bapo sobre Métodos Ágeis. Descubra neste podcast que não existe verdade absoluta, que bala de prata é mito e ágil não se resume a Scrum. Abertura: [Frabin](https://www.facebook.com/frabinmusic/) - [Kids From Outer Space](https://www.youtube.com/watch?v=FHLhpddkxGM)</itunes:summary>
+        <description>Olá mundo =) No segundo episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke) e [Mário Silveira](https://www.twitter.com/dermarios) recebem [Rafael Cáceres](https://www.twitter.com/rafaelcaceres) da [Taller](https://taller.net.br/) para bater um bapo sobre Métodos Ágeis. Descubra neste podcast que não existe verdade absoluta, que bala de prata é mito e ágil não se resume a Scrum. Abertura: [Frabin](https://www.facebook.com/frabinmusic/) - [Kids From Outer Space](https://www.youtube.com/watch?v=FHLhpddkxGM)</description>
+        <googleplay:description>Olá mundo =) No segundo episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke) e [Mário Silveira](https://www.twitter.com/dermarios) recebem [Rafael Cáceres](https://www.twitter.com/rafaelcaceres) da [Taller](https://taller.net.br/) para bater um bapo sobre Métodos Ágeis. Descubra neste podcast que não existe verdade absoluta, que bala de prata é mito e ágil não se resume a Scrum. Abertura: [Frabin](https://www.facebook.com/frabinmusic/) - [Kids From Outer Space](https://www.youtube.com/watch?v=FHLhpddkxGM)</googleplay:description>
+        <content:encoded><![CDATA[<ul>
+<li><a href="http://www.manifestoagil.com.br/">Manifesto Ágil</a></li>
+<li><a href="http://www.manifestoagil.com.br/principios.html">Os doze princípios do software ágil</a></li>
+<li><a href="http://www.agilebrazil.com/">Agile Brazil</a></li>
+<li><a href="https://www.youtube.com/watch?v=9Xy3QC7yxJw">Uncle Bob falando sobre o futuro da programação</a></li>
+<li><a href="https://www.infoq.com/br/articles/agile-podcasts">Lista de podcasts sobre Agile</a></li>
+<li><a href="http://blog.taller.net.br/tag/podcast/">Taverna Taller e Tallercast</a></li>
+<li><a href="http://biblioteca.taller.net.br/do-caos-ao-custo-medio-por-demanda">Do Caos ao Custo Médio por Demanda</a></li>
+<li><a href="https://www.youtube.com/watch?v=aApmOZwdPqA">Kent Beck na RailsConf 2015</a></li>
+</ul>
+]]></content:encoded><itunes:image href="http://sudocast.github.io/img/episode/thumbs/agile.jpg"></itunes:image>
+          <googleplay:image href="http://sudocast.github.io/img/episode/thumbs/agile.jpg"></googleplay:image><enclosure url="http://www.sudocast.com.br/media/sudocast002.mp3" length="114787395" type="audio/mpeg" /><itunes:duration>59:47</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
+          <title>#1 Hello World!</title>
+          <link>http://sudocast.github.io/01-hello-world/</link>
+          <pubDate>Sun, 23 Apr 2017 04:10:01 -0500 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://www.sudocast.com.br/media/sudocast001.mp3</guid>
+          <itunes:author>Pery Lemke</itunes:author>
+          
+          <itunes:episode>1</itunes:episode>
+          
+        <itunes:summary>Olá mundo! =) Essa é a primeira edição do Sudocast, o podcast de tecnologia mais lindo do universo. Para manter a tradição no mundo do desenvolvimento nada como uma edição &#39;Hello World&#39;, geralmente o primeiro programa feito para quem está aprendendo alguma linguagem. E nesse programa [Pery Lemke](https://www.twitter.com/perylemke), [Mário Silveira](https://www.twitter.com/dermarios) e [Jônatas Paganini](https://www.twitter.com/jonatasdp) conversam sobre o mundo do desenvolvimento de software e como eles se envolveram nesse mundo fascinante. Abertura: [Cyclos](https://www.facebook.com/cyclosrocktrio/) - [Get Out](https://soundcloud.com/cyclosrocktrio/cyclos-get-out)</itunes:summary>
+        <description>Olá mundo! =) Essa é a primeira edição do Sudocast, o podcast de tecnologia mais lindo do universo. Para manter a tradição no mundo do desenvolvimento nada como uma edição &#39;Hello World&#39;, geralmente o primeiro programa feito para quem está aprendendo alguma linguagem. E nesse programa [Pery Lemke](https://www.twitter.com/perylemke), [Mário Silveira](https://www.twitter.com/dermarios) e [Jônatas Paganini](https://www.twitter.com/jonatasdp) conversam sobre o mundo do desenvolvimento de software e como eles se envolveram nesse mundo fascinante. Abertura: [Cyclos](https://www.facebook.com/cyclosrocktrio/) - [Get Out](https://soundcloud.com/cyclosrocktrio/cyclos-get-out)</description>
+        <googleplay:description>Olá mundo! =) Essa é a primeira edição do Sudocast, o podcast de tecnologia mais lindo do universo. Para manter a tradição no mundo do desenvolvimento nada como uma edição &#39;Hello World&#39;, geralmente o primeiro programa feito para quem está aprendendo alguma linguagem. E nesse programa [Pery Lemke](https://www.twitter.com/perylemke), [Mário Silveira](https://www.twitter.com/dermarios) e [Jônatas Paganini](https://www.twitter.com/jonatasdp) conversam sobre o mundo do desenvolvimento de software e como eles se envolveram nesse mundo fascinante. Abertura: [Cyclos](https://www.facebook.com/cyclosrocktrio/) - [Get Out](https://soundcloud.com/cyclosrocktrio/cyclos-get-out)</googleplay:description>
+        <content:encoded><![CDATA[<ul>
+<li><a href="https://github.com/jonatas/dj-trader">DJ Trader</a></li>
+<li><a href="http://mohayonao.github.io/timbre.js/">TimbreJS</a></li>
+<li><a href="https://www.meetup.com/pt-BR/rubyfloripa/">RubyFloripa</a></li>
+<li><a href="https://soundcloud.com/rdshipit">Capycast</a></li>
+<li><a href="http://www.grokpodcast.com/">Grokcast</a></li>
+<li><a href="https://mundopodcast.com.br/podprogramar/">PodProgramar</a></li>
+<li><a href="http://devnaestrada.com.br/">DevNaEstrada</a></li>
+<li><a href="http://railscasts.com/">RailsCasts</a></li>
+</ul>
+]]></content:encoded><itunes:image href="http://sudocast.github.io/img/episode/thumbs/helloworld.jpg"></itunes:image>
+          <googleplay:image href="http://sudocast.github.io/img/episode/thumbs/helloworld.jpg"></googleplay:image><enclosure url="http://www.sudocast.com.br/media/sudocast001.mp3" length="50925630" type="audio/mpeg" /><itunes:duration>42:36</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item></channel>
 </rss>

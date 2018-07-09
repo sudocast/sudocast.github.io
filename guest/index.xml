@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guests on SudoCast</title>
-    <link>http://www.sudocast.com.br/guest/</link>
+    <link>http://sudocast.github.io/guest/</link>
     <description>Recent content in Guests on SudoCast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     
-	<atom:link href="http://www.sudocast.com.br/guest/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sudocast.github.io/guest/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ana Schwendler</title>
-      <link>http://www.sudocast.com.br/guest/aschwendler/</link>
+      <link>http://sudocast.github.io/guest/aschwendler/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sudocast.com.br/guest/aschwendler/</guid>
+      <guid>http://sudocast.github.io/guest/aschwendler/</guid>
       <description>i&amp;rsquo;ve got 2 versions.</description>
     </item>
     
     <item>
       <title>Jeferson Fernando</title>
-      <link>http://www.sudocast.com.br/guest/jfernando/</link>
+      <link>http://sudocast.github.io/guest/jfernando/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sudocast.com.br/guest/jfernando/</guid>
+      <guid>http://sudocast.github.io/guest/jfernando/</guid>
       <description>Production engineer with +15 years of professional experience in large-scale and mission-critical environments using Linux and Unix, including systems and services design and installation, configuration, scaling, automation, capacity planning, containers, docker, kubernetes, networking,security and integration in heterogeneous enterprise environments.</description>
     </item>
     
     <item>
       <title>Jessica Temporal</title>
-      <link>http://www.sudocast.com.br/guest/jtemporal/</link>
+      <link>http://sudocast.github.io/guest/jtemporal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sudocast.com.br/guest/jtemporal/</guid>
+      <guid>http://sudocast.github.io/guest/jtemporal/</guid>
       <description>Developer who loves to write beautiful codes. PyLadies and Django Girls member. Addicted to data science, I&amp;rsquo;ve already participated in projects like hacking the genome code or researching tweets with NLP and Python. Today I&amp;rsquo;m working as data scientist and developer at NUVEO and as consultant and lecturer (pro bono) for Operação Serenata de Amor. In my free time, I cultivate red curls and add movie trailers to the never ending &amp;lsquo;to watch&amp;rsquo; movie collection.</description>
     </item>
     
     <item>
       <title>Jônatas Paganini</title>
-      <link>http://www.sudocast.com.br/guest/jpaganini/</link>
+      <link>http://sudocast.github.io/guest/jpaganini/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sudocast.com.br/guest/jpaganini/</guid>
+      <guid>http://sudocast.github.io/guest/jpaganini/</guid>
       <description>I&amp;rsquo;m a pair programming evangelist. Vim user and enthusiast. Rubyist since 2007.</description>
     </item>
     
     <item>
       <title>Letícia Portella</title>
-      <link>http://www.sudocast.com.br/guest/lportella/</link>
+      <link>http://sudocast.github.io/guest/lportella/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sudocast.com.br/guest/lportella/</guid>
+      <guid>http://sudocast.github.io/guest/lportella/</guid>
       <description>a happy dev, in love with data science, co-founder of @pizzadedados and director of @apyb</description>
     </item>
     
     <item>
       <title>Mário Queiroz</title>
-      <link>http://www.sudocast.com.br/guest/mqueiroz/</link>
+      <link>http://sudocast.github.io/guest/mqueiroz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sudocast.com.br/guest/mqueiroz/</guid>
+      <guid>http://sudocast.github.io/guest/mqueiroz/</guid>
       <description>President of the Associação Python Brasil. Trying to help people :)</description>
     </item>
     
     <item>
       <title>Nando Sousa</title>
-      <link>http://www.sudocast.com.br/guest/nsousa/</link>
+      <link>http://sudocast.github.io/guest/nsousa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sudocast.com.br/guest/nsousa/</guid>
+      <guid>http://sudocast.github.io/guest/nsousa/</guid>
       <description>Brazilian, Software developer and Science Groker.</description>
     </item>
     
     <item>
       <title>Paula Santos</title>
-      <link>http://www.sudocast.com.br/guest/psantos/</link>
+      <link>http://sudocast.github.io/guest/psantos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sudocast.com.br/guest/psantos/</guid>
+      <guid>http://sudocast.github.io/guest/psantos/</guid>
       <description>PhD in Science Computer Vision and Deep learning.</description>
     </item>
     
     <item>
       <title>Rafael Caceres</title>
-      <link>http://www.sudocast.com.br/guest/rcaceres/</link>
+      <link>http://sudocast.github.io/guest/rcaceres/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sudocast.com.br/guest/rcaceres/</guid>
+      <guid>http://sudocast.github.io/guest/rcaceres/</guid>
       <description>Fluxonomista, Programador e Empreendedor. Co-fundador da Taller.</description>
     </item>
     
     <item>
       <title>Rafael Gomes (Gomex)</title>
-      <link>http://www.sudocast.com.br/guest/rgomex/</link>
+      <link>http://sudocast.github.io/guest/rgomex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sudocast.com.br/guest/rgomex/</guid>
+      <guid>http://sudocast.github.io/guest/rgomex/</guid>
       <description>Soteropolitano, hacker urbano e consultor de infraestrutura, formado na Universidade de Salvador no curso de Gestão de Redes.
 Trabalho atualmente na Crossover, focado em infraestrutura como código, cultura devops e cloud. Certificado em LPIC-1, MCSO e Zabbix Certified Specialist.
 Autor do livro Docker para desenvolvedores
@@ -105,10 +105,10 @@ Core Organizer do DevOpsDays</description>
     
     <item>
       <title>Talita Rossari</title>
-      <link>http://www.sudocast.com.br/guest/trossari/</link>
+      <link>http://sudocast.github.io/guest/trossari/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sudocast.com.br/guest/trossari/</guid>
+      <guid>http://sudocast.github.io/guest/trossari/</guid>
       <description>Desenvolvedora Junior na Agrosatelite. Co-organizadora do Pyladies Floripa.</description>
     </item>
     

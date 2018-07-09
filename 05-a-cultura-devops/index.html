@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html itemscope lang="pt-BR">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <meta name="description" content="Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jeferson Fernando](https://twitter.com/badtux_), [Gomex](https://twitter.com/gomex) e [Mário Silveira](https://twitter.com/dermarios) trocam uma ideia sobre a cultura DevOps que está quebrando os paradigmas do mundo da Tecnologia.&lt;br/&gt;&lt;br/&gt; Descubra neste podcast que DevOps não é cargo e sim cultura, que o Google está a frente do seu tempo, quem é o culpado caso a produção caia e qual Sudocaster está se rendendo ao Docker.&lt;br/&gt;&lt;br/&gt;">
+
+<meta name="generator" content="Hugo 0.44-DEV" />
+
+
+<meta property="og:title" content="#5 a Cultura DevOps" />
+<meta property="og:description" content="Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jeferson Fernando](https://twitter.com/badtux_), [Gomex](https://twitter.com/gomex) e [Mário Silveira](https://twitter.com/dermarios) trocam uma ideia sobre a cultura DevOps que está quebrando os paradigmas do mundo da Tecnologia.&lt;br/&gt;&lt;br/&gt; Descubra neste podcast que DevOps não é cargo e sim cultura, que o Google está a frente do seu tempo, quem é o culpado caso a produção caia e qual Sudocaster está se rendendo ao Docker.&lt;br/&gt;&lt;br/&gt;" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://sudocast.github.io/05-a-cultura-devops/" />
+
+  
+    <meta property="og:image" content="http://sudocast.github.io/img/episode/devops.jpg" />
+  
+
+
+
+<meta property="og:updated_time" content="2017-10-11 04:10:01 -0500 -0500"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta property="article:author" content="https://www.facebook.com/" />
+
+<meta property="article:publisher" content="https://www.facebook.com/1sudocast" />
+
+  
+    <meta property="article:published_time" content="2017-10-11 04:10:01 -0500 -0500" />
+  
+
+<meta property="article:modified_time" content="2017-10-11 04:10:01 -0500 -0500" />
+<meta property="article:section" content="episode" />
+
+
+
+
+
+
+<meta itemprop="name" content="#5 A Cultura DevOps">
+<meta itemprop="description" content="Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jeferson Fernando](https://twitter.com/badtux_), [Gomex](https://twitter.com/gomex) e [Mário Silveira](https://twitter.com/dermarios) trocam uma ideia sobre a cultura DevOps que está quebrando os paradigmas do mundo da Tecnologia.&lt;br/&gt;&lt;br/&gt; Descubra neste podcast que DevOps não é cargo e sim cultura, que o Google está a frente do seu tempo, quem é o culpado caso a produção caia e qual Sudocaster está se rendendo ao Docker.&lt;br/&gt;&lt;br/&gt;">
+
+
+
+  
+    <meta itemprop="image" content="http://sudocast.github.io/img/episode/devops.jpg">
+  
+
+
+
+<meta itemprop="keywords" content="" />
+
+
+<meta itemprop="wordCount" content="32">
+
+
+
+
+	<meta name="twitter:card" content="summary_large_image"/>
+  
+	 <meta name="twitter:image:src" content="http://sudocast.github.io/img/episode/devops.jpg"/>
+  
+
+
+
+<meta name="twitter:title" content="#5 A Cultura DevOps"/>
+<meta name="twitter:description" content="Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jeferson Fernando](https://twitter.com/badtux_), [Gomex](https://twitter.com/gomex) e [Mário Silveira](https://twitter.com/dermarios) trocam uma ideia sobre a cultura DevOps que está quebrando os paradigmas do mundo da Tecnologia.&lt;br/&gt;&lt;br/&gt; Descubra neste podcast que DevOps não é cargo e sim cultura, que o Google está a frente do seu tempo, quem é o culpado caso a produção caia e qual Sudocaster está se rendendo ao Docker.&lt;br/&gt;&lt;br/&gt;"/>
+<meta name="twitter:site" content="@sudocast"/>
+
+
+	
+	
+
+
+
+
+<title>
+
+
+     #5 A Cultura DevOps 
+
+</title>
+<link rel="canonical" href="http://sudocast.github.io/05-a-cultura-devops/">
+
+<link href="http://sudocast.github.io/css/grey.css" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Lato|Raleway" rel="stylesheet">
+
+
+    <link rel="stylesheet" href="http://sudocast.github.io/css/custom.css">
+
+
+
+</head>
+
+<body lang="">
+<nav class="navbar fixed-top navbar-toggleable-sm navbar-light bg-faded">
+<div class="container">
+<a class="navbar-brand" href="http://sudocast.github.io/">SudoCast</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+  <ul class="navbar-nav mr-auto">
+    
+    
+      
+          <li class= "nav-item ">
+          <a href="http://sudocast.github.io/guest" class="nav-link">
+              
+              <span>Convidados</span>
+          </a>
+        </li>
+      
+    
+      
+          <li class= "nav-item ">
+          <a href="http://sudocast.github.io/contact" class="nav-link">
+              
+              <span>Contato</span>
+          </a>
+        </li>
+      
+    
+      
+          <li class= "nav-item ">
+          <a href="http://sudocast.github.io/host" class="nav-link">
+              
+              <span>Hosts</span>
+          </a>
+        </li>
+      
+    
+      
+          <li class= "nav-item ">
+          <a href="http://sudocast.github.io/about" class="nav-link">
+              
+              <span>Sobre</span>
+          </a>
+        </li>
+      
+    
+  </ul>
+
+
+      <ul class="navbar-nav ml-auto">
+        
+          <li>
+            <a class = "social-links" href="https://facebook.com/1sudocast"><i class="fab fa-facebook-square fa-2x"></i></a>
+          </li>
+        
+        
+          <li>
+            <a class = "social-links" href="https://twitter.com/sudocast"><i class="fab fa-twitter-square fa-2x"></i></a>
+          </li>
+        
+        
+        
+        
+        
+          <li>
+            <a class = "social-links" href="https://www.instagram.com/sudocast"><i class="fab fa-instagram fa-2x"></i></a>
+          </li>
+        
+        
+        
+          <li>
+            <a class = "social-links" href="https://github.com/sudocast"><i class="fab fa-github-square fa-2x"></i></a>
+          </li>
+        
+        
+      </ul>
+  </div>
+  </div>
+  </nav>
+
+<div class="container middle_container">
+  
+
+  <div class="row">
+    <div class="col">
+      <h1>#5 a Cultura DevOps</h1>
+      <small>Posted on Wednesday, Oct 11, 2017</small>
+    </div>
+  </div>
+
+  
+    
+      <div class = "row">
+      <div class = "col">
+        <img src="http://sudocast.github.io/img/episode/devops.jpg" class="img-fluid episode_image"/>
+      </div>
+      </div>
+      <div class = "row">
+      <div class = "col">
+        Neste episódio do Sudocast, <a href="https://www.twitter.com/perylemke">Pery Lemke</a>, <a href="https://twitter.com/badtux_">Jeferson Fernando</a>, <a href="https://twitter.com/gomex">Gomex</a> e <a href="https://twitter.com/dermarios">Mário Silveira</a> trocam uma ideia sobre a cultura DevOps que está quebrando os paradigmas do mundo da Tecnologia.<br/><br/> Descubra neste podcast que DevOps não é cargo e sim cultura, que o Google está a frente do seu tempo, quem é o culpado caso a produção caia e qual Sudocaster está se rendendo ao Docker.<br/><br/>
+      </div>
+      </div>
+    
+    <div class="row">
+        <div class="col-md-12 player_row">
+          <audio src="http://www.sudocast.com.br/media/sudocast005.mp3" preload="auto"/>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-11 col-md-offset-1">
+          <a href="http://www.sudocast.com.br/media/sudocast005.mp3">Direct Download</a>
+        </div>
+      </div><div class="row">
+    <div class="col">
+      <h2>Show Notes</h2>
+      <ul>
+<li><a href="https://www.youtube.com/watch?v=LdOe18KhtT4">Marco zero do DevOps</a></li>
+<li><a href="http://gatilhokosmico.com.br/2017/07/17/qual-futuro-do-sysadmin/">Podcast do Gomex</a></li>
+<li><a href="https://www.youtube.com/linuxtips">LinuxTips</a></li>
+<li><a href="http://gatilhokosmico.com.br/2017/08/05/precisamos-falar-sobre-devops-organizando-devopsday/">Podcast do Gomex sobre como Organizar o DevOpsDays</a></li>
+<li><a href="https://leanpub.com/dockerparadesenvolvedores">Livro Docker para Desenvolvedores</a></li>
+<li><a href="https://landing.google.com/sre/book.html">Livro do Google sobre Site Reliability Engineering</a></li>
+<li><a href="http://castalio.info/episodio-109-jeferson-noronha-canal-linuxtips.html">Castálio Podcast com o Jeferson</a></li>
+</ul>
+
+    </div>
+  </div>
+
+  
+        <div class="row">
+          <div class="col">
+            <h2>Guests</h2>
+          </div>
+        </div>
+            
+              <div class="row person_row">
+                  <div class="col-md-3"><img alt="Jeferson Fernando" src="http://sudocast.github.io/img/guest/jeferson.png" class="img-fluid" width="250px"></div>
+                  <div class="col-md-8">
+                    <h2><a href = "http://sudocast.github.io/guest/jfernando">Jeferson Fernando</a></h2>
+                    <p>Production engineer with +15 years of professional experience in large-scale and mission-critical environments using Linux and Unix, including systems and services design and installation, configuration, scaling, automation, capacity planning, containers, docker, kubernetes, networking,security and integration in heterogeneous enterprise environments.</p>
+<a href="https://www.codeops.com.br/">
+                        <i class="fas fa-home fa-2x"></i>
+                      </a><a href="https://twitter.com/badtux_">
+                        <i class="fab fa-twitter-square fa-2x"></i>
+                      </a><a href="https://github.com/badtuxx">
+                        <i class="fab fa-github-square fa-2x"></i>
+                      </a><a href="https://www.linkedin.com/in/jefersonfernando">
+                        <i class="fab fa-linkedin fa-2x"></i>
+                      </a></div>
+                  </div>
+
+                
+            
+              <div class="row person_row">
+                  <div class="col-md-3"><img alt="Rafael Gomes (Gomex)" src="http://sudocast.github.io/img/guest/gomex.png" class="img-fluid" width="250px"></div>
+                  <div class="col-md-8">
+                    <h2><a href = "http://sudocast.github.io/guest/rgomex">Rafael Gomes (Gomex)</a></h2>
+                    <p>Soteropolitano, hacker urbano e consultor de infraestrutura, formado na Universidade de Salvador no curso de Gestão de Redes.</p>
+
+<p>Trabalho atualmente na Crossover, focado em infraestrutura como código, cultura devops e cloud. Certificado em LPIC-1, MCSO e Zabbix Certified Specialist.</p>
+
+<p>Autor do livro <a href="https://leanpub.com/dockerparadesenvolvedores">Docker para desenvolvedores</a></p>
+
+<p>Core Organizer do <a href="https://www.devopsdays.org/about/">DevOpsDays</a></p>
+<a href="https://gomex.me/">
+                        <i class="fas fa-home fa-2x"></i>
+                      </a><a href="https://twitter.com/gomex">
+                        <i class="fab fa-twitter-square fa-2x"></i>
+                      </a><a href="https://github.com/gomex">
+                        <i class="fab fa-github-square fa-2x"></i>
+                      </a><a href="https://www.linkedin.com/in/rbgomes">
+                        <i class="fab fa-linkedin fa-2x"></i>
+                      </a></div>
+                  </div>
+
+                
+            
+  
+
+  
+
+<hr />
+  
+<hr />
+      <div class="row">
+        
+        <div class="col-md-12">
+          <div id="share"></div>
+        </div>
+      </div>
+      
+      
+      <div class="row">
+        
+        <div class="col-md-12">
+          <nav>
+            <ul class="pagination">
+              
+                <li class="page-item">
+                  <a href="http://sudocast.github.io/04-peco-perdao-pelo-vacilo/" class="page-link">
+                    <span aria-hidden="true">&larr;</span>
+                    Previous</a>
+                </li>
+                
+              
+                <li class="page-item">
+                  <a href="http://sudocast.github.io/06-python-pessoas-maior-que-tecnologia/" class="page-link">Next
+                    <span aria-hidden="true">&rarr;</span>
+                  </a>
+                </li>
+                
+            </ul>
+          </nav>
+        </div>
+      </div>
+      
+    
+</div> 
+<div class = "container bottom_container">
+  <div class="row">
+  <div class="col-md-12">
+    <nav class = "navbar navbar-default navbar_footer">
+    <ul class="nav navbar-nav navbar-right">
+      
+        <li>
+          <p class = "footer_copyright">Copyright 2018 <a href="http://www.sudocast.com.br">sudocast</a></p>
+        </li>
+      
+      <li>
+        &nbsp;
+      </li>
+    </ul>
+  </nav>
+
+  </div>
+</div>
+</div>
+<script src=http://sudocast.github.io/js/castanet-min.js></script>
+<script>
+    $("#share").jsSocials({
+        shares: [
+      {
+        share: "facebook",
+        logo: "fab fa-facebook",
+      },
+      {
+        share: "twitter",           
+        label: "Tweet",             
+        logo: "fab fa-twitter",
+        
+          via: "sudocast",       
+        
+        url: "",
+        text: "#5 a Cultura DevOps"
+      },
+      {
+        share: "linkedin",
+        logo: "fab fa-linkedin"
+      },
+      {
+        share: "pinterest",
+        logo: "fab fa-pinterest"
+      }
+    ],
+    });
+</script>
+<script>
+audiojs.events.ready(function() {
+  var as = audiojs.createAll({
+    imageLocation: '\/img\/player-graphics.gif',
+    retinaImageLocation: '\/img\/player-graphics@2x.gif',
+    swfLocation: '\/swf\/audiojs.swf'
+   });
+ });
+</script>
+
+
+
+</body>
+</html>
+

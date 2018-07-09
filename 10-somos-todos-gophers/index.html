@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html itemscope lang="pt-BR">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <meta name="description" content="Olá mundo =)&lt;br/&gt;&lt;br/&gt; Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jessica Temporal](https://www.twitter.com/jesstemporal) e [Cesar Gimenes](https://twitter.com/crgimenes) batem um papo sobre Go, a linguagem que foi criada no Google e está cada vez mais conquistando espaço no mercado.&lt;br/&gt;&lt;br/&gt; Descubra neste podcast, o que um Dream Team pode fazer com liberdade, como dar uma banana para a Orientação a Objetos, se é possível se livrar do Vendor e como ser perfomático ao extremo.&lt;br/&gt;&lt;br/&gt; Introdução: [Monte Resina](https://www.facebook.com/monteresina/) - [Masmorra Verruga](https://www.youtube.com/watch?v=lpdzkD-HPBM)&lt;br/&gt;&lt;br/&gt; Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo)&lt;br/&gt;&lt;br/&gt;">
+
+<meta name="generator" content="Hugo 0.44-DEV" />
+
+
+<meta property="og:title" content="#10 Somos Todos Gophers!" />
+<meta property="og:description" content="Olá mundo =)&lt;br/&gt;&lt;br/&gt; Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jessica Temporal](https://www.twitter.com/jesstemporal) e [Cesar Gimenes](https://twitter.com/crgimenes) batem um papo sobre Go, a linguagem que foi criada no Google e está cada vez mais conquistando espaço no mercado.&lt;br/&gt;&lt;br/&gt; Descubra neste podcast, o que um Dream Team pode fazer com liberdade, como dar uma banana para a Orientação a Objetos, se é possível se livrar do Vendor e como ser perfomático ao extremo.&lt;br/&gt;&lt;br/&gt; Introdução: [Monte Resina](https://www.facebook.com/monteresina/) - [Masmorra Verruga](https://www.youtube.com/watch?v=lpdzkD-HPBM)&lt;br/&gt;&lt;br/&gt; Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo)&lt;br/&gt;&lt;br/&gt;" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://sudocast.github.io/10-somos-todos-gophers/" />
+
+  
+    <meta property="og:image" content="http://sudocast.github.io/img/episode/gopher.jpg" />
+  
+
+
+
+<meta property="og:updated_time" content="2018-03-20 04:10:01 -0500 -0500"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta property="article:author" content="https://www.facebook.com/" />
+
+<meta property="article:publisher" content="https://www.facebook.com/1sudocast" />
+
+  
+    <meta property="article:published_time" content="2018-03-20 04:10:01 -0500 -0500" />
+  
+
+<meta property="article:modified_time" content="2018-03-20 04:10:01 -0500 -0500" />
+<meta property="article:section" content="episode" />
+
+
+
+
+
+
+<meta itemprop="name" content="#10 Somos todos Gophers!">
+<meta itemprop="description" content="Olá mundo =)&lt;br/&gt;&lt;br/&gt; Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jessica Temporal](https://www.twitter.com/jesstemporal) e [Cesar Gimenes](https://twitter.com/crgimenes) batem um papo sobre Go, a linguagem que foi criada no Google e está cada vez mais conquistando espaço no mercado.&lt;br/&gt;&lt;br/&gt; Descubra neste podcast, o que um Dream Team pode fazer com liberdade, como dar uma banana para a Orientação a Objetos, se é possível se livrar do Vendor e como ser perfomático ao extremo.&lt;br/&gt;&lt;br/&gt; Introdução: [Monte Resina](https://www.facebook.com/monteresina/) - [Masmorra Verruga](https://www.youtube.com/watch?v=lpdzkD-HPBM)&lt;br/&gt;&lt;br/&gt; Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo)&lt;br/&gt;&lt;br/&gt;">
+
+
+
+  
+    <meta itemprop="image" content="http://sudocast.github.io/img/episode/gopher.jpg">
+  
+
+
+
+<meta itemprop="keywords" content="" />
+
+
+<meta itemprop="wordCount" content="28">
+
+
+
+
+	<meta name="twitter:card" content="summary_large_image"/>
+  
+	 <meta name="twitter:image:src" content="http://sudocast.github.io/img/episode/gopher.jpg"/>
+  
+
+
+
+<meta name="twitter:title" content="#10 Somos todos Gophers!"/>
+<meta name="twitter:description" content="Olá mundo =)&lt;br/&gt;&lt;br/&gt; Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jessica Temporal](https://www.twitter.com/jesstemporal) e [Cesar Gimenes](https://twitter.com/crgimenes) batem um papo sobre Go, a linguagem que foi criada no Google e está cada vez mais conquistando espaço no mercado.&lt;br/&gt;&lt;br/&gt; Descubra neste podcast, o que um Dream Team pode fazer com liberdade, como dar uma banana para a Orientação a Objetos, se é possível se livrar do Vendor e como ser perfomático ao extremo.&lt;br/&gt;&lt;br/&gt; Introdução: [Monte Resina](https://www.facebook.com/monteresina/) - [Masmorra Verruga](https://www.youtube.com/watch?v=lpdzkD-HPBM)&lt;br/&gt;&lt;br/&gt; Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo)&lt;br/&gt;&lt;br/&gt;"/>
+<meta name="twitter:site" content="@sudocast"/>
+
+
+	
+	
+
+
+
+
+<title>
+
+
+     #10 Somos todos Gophers! 
+
+</title>
+<link rel="canonical" href="http://sudocast.github.io/10-somos-todos-gophers/">
+
+<link href="http://sudocast.github.io/css/grey.css" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Lato|Raleway" rel="stylesheet">
+
+
+    <link rel="stylesheet" href="http://sudocast.github.io/css/custom.css">
+
+
+
+</head>
+
+<body lang="">
+<nav class="navbar fixed-top navbar-toggleable-sm navbar-light bg-faded">
+<div class="container">
+<a class="navbar-brand" href="http://sudocast.github.io/">SudoCast</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+  <ul class="navbar-nav mr-auto">
+    
+    
+      
+          <li class= "nav-item ">
+          <a href="http://sudocast.github.io/guest" class="nav-link">
+              
+              <span>Convidados</span>
+          </a>
+        </li>
+      
+    
+      
+          <li class= "nav-item ">
+          <a href="http://sudocast.github.io/contact" class="nav-link">
+              
+              <span>Contato</span>
+          </a>
+        </li>
+      
+    
+      
+          <li class= "nav-item ">
+          <a href="http://sudocast.github.io/host" class="nav-link">
+              
+              <span>Hosts</span>
+          </a>
+        </li>
+      
+    
+      
+          <li class= "nav-item ">
+          <a href="http://sudocast.github.io/about" class="nav-link">
+              
+              <span>Sobre</span>
+          </a>
+        </li>
+      
+    
+  </ul>
+
+
+      <ul class="navbar-nav ml-auto">
+        
+          <li>
+            <a class = "social-links" href="https://facebook.com/1sudocast"><i class="fab fa-facebook-square fa-2x"></i></a>
+          </li>
+        
+        
+          <li>
+            <a class = "social-links" href="https://twitter.com/sudocast"><i class="fab fa-twitter-square fa-2x"></i></a>
+          </li>
+        
+        
+        
+        
+        
+          <li>
+            <a class = "social-links" href="https://www.instagram.com/sudocast"><i class="fab fa-instagram fa-2x"></i></a>
+          </li>
+        
+        
+        
+          <li>
+            <a class = "social-links" href="https://github.com/sudocast"><i class="fab fa-github-square fa-2x"></i></a>
+          </li>
+        
+        
+      </ul>
+  </div>
+  </div>
+  </nav>
+
+<div class="container middle_container">
+  
+
+  <div class="row">
+    <div class="col">
+      <h1>#10 Somos Todos Gophers!</h1>
+      <small>Posted on Tuesday, Mar 20, 2018</small>
+    </div>
+  </div>
+
+  
+    
+      <div class = "row">
+      <div class = "col">
+        <img src="http://sudocast.github.io/img/episode/gopher.jpg" class="img-fluid episode_image"/>
+      </div>
+      </div>
+      <div class = "row">
+      <div class = "col">
+        Olá mundo =)<br/><br/> Neste episódio do Sudocast, <a href="https://www.twitter.com/perylemke">Pery Lemke</a>, <a href="https://www.twitter.com/jesstemporal">Jessica Temporal</a> e <a href="https://twitter.com/crgimenes">Cesar Gimenes</a> batem um papo sobre Go, a linguagem que foi criada no Google e está cada vez mais conquistando espaço no mercado.<br/><br/> Descubra neste podcast, o que um Dream Team pode fazer com liberdade, como dar uma banana para a Orientação a Objetos, se é possível se livrar do Vendor e como ser perfomático ao extremo.<br/><br/> Introdução: <a href="https://www.facebook.com/monteresina/">Monte Resina</a> - <a href="https://www.youtube.com/watch?v=lpdzkD-HPBM">Masmorra Verruga</a><br/><br/> Edição e Sonorização: <a href="https://www.youtube.com/ferraduravideo">Johnny Duluti</a><br/><br/>
+      </div>
+      </div>
+    
+    <div class="row">
+        <div class="col-md-12 player_row">
+          <audio src="http://www.sudocast.com.br/media/sudocast010.mp3" preload="auto"/>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-11 col-md-offset-1">
+          <a href="http://www.sudocast.com.br/media/sudocast010.mp3">Direct Download</a>
+        </div>
+      </div><div class="row">
+    <div class="col">
+      <h2>Show Notes</h2>
+      <ul>
+<li><a href="http://www.golangbr.org/doc/">Documentação do Go</a></li>
+<li><a href="http://www.golangbr.org/doc/">Go Playground</a></li>
+<li><a href="https://github.com/avelino/awesome-go">Awesome Go</a></li>
+<li><a href="https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw">JustForFunc</a></li>
+<li><a href="https://changelog.com/gotime">Go Time Podcast</a></li>
+<li><a href="https://www.amazon.com.br/Linguagem-Programa%C3%A7%C3%A3o-Go-Alan-Donovan/dp/8575225464?tag=goog0ef-20&amp;smid=A1ZZFT5FULY4LN&amp;ascsubtag=4a05a173-0491-4061-b885-ccfae87d8033">Livro - Linguagem de Programação Go</a></li>
+<li><a href="https://novatec.com.br/livros/introducao-linguagem-go/">Introdução a Linguagem Go</a></li>
+<li><a href="https://www.womenwhogo.org/">Women Who Go</a></li>
+<li><a href="https://www.meetup.com/pt-BR/Women-Who-Go-Floripa/">Women Who Go Floripa</a></li>
+</ul>
+
+    </div>
+  </div>
+
+  
+        <div class="row">
+          <div class="col">
+            <h2>Guests</h2>
+          </div>
+        </div>
+            
+              <div class="row person_row">
+                  <div class="col-md-3"><img alt="Jessica Temporal" src="http://sudocast.github.io/img/guest/temps.png" class="img-fluid" width="250px"></div>
+                  <div class="col-md-8">
+                    <h2><a href = "http://sudocast.github.io/guest/jtemporal">Jessica Temporal</a></h2>
+                    <p>Developer who loves to write beautiful codes. PyLadies and Django Girls member. Addicted to data science, I&rsquo;ve already participated in projects like hacking the genome code or researching tweets with NLP and Python. Today I&rsquo;m working as data scientist and developer at NUVEO and as consultant and lecturer (pro bono) for Operação Serenata de Amor. In my free time, I cultivate red curls and add movie trailers to the never ending &lsquo;to watch&rsquo; movie collection.</p>
+<a href="http://jtemporal.com/">
+                        <i class="fas fa-home fa-2x"></i>
+                      </a><a href="https://twitter.com/jesstemporal">
+                        <i class="fab fa-twitter-square fa-2x"></i>
+                      </a><a href="https://github.com/jtemporal">
+                        <i class="fab fa-github-square fa-2x"></i>
+                      </a><a href="https://www.linkedin.com/in/jessicatemporal">
+                        <i class="fab fa-linkedin fa-2x"></i>
+                      </a></div>
+                  </div>
+
+                
+            
+              
+
+                
+            
+  
+
+  
+
+<hr />
+  
+<hr />
+      <div class="row">
+        
+        <div class="col-md-12">
+          <div id="share"></div>
+        </div>
+      </div>
+      
+      
+      <div class="row">
+        
+        <div class="col-md-12">
+          <nav>
+            <ul class="pagination">
+              
+                <li class="page-item">
+                  <a href="http://sudocast.github.io/09-a-nova-era-do-tech-recruiting/" class="page-link">
+                    <span aria-hidden="true">&larr;</span>
+                    Previous</a>
+                </li>
+                
+              
+                <li class="page-item">
+                  <a href="http://sudocast.github.io/11-o-podcast-e-delas/" class="page-link">Next
+                    <span aria-hidden="true">&rarr;</span>
+                  </a>
+                </li>
+                
+            </ul>
+          </nav>
+        </div>
+      </div>
+      
+    
+</div> 
+<div class = "container bottom_container">
+  <div class="row">
+  <div class="col-md-12">
+    <nav class = "navbar navbar-default navbar_footer">
+    <ul class="nav navbar-nav navbar-right">
+      
+        <li>
+          <p class = "footer_copyright">Copyright 2018 <a href="http://www.sudocast.com.br">sudocast</a></p>
+        </li>
+      
+      <li>
+        &nbsp;
+      </li>
+    </ul>
+  </nav>
+
+  </div>
+</div>
+</div>
+<script src=http://sudocast.github.io/js/castanet-min.js></script>
+<script>
+    $("#share").jsSocials({
+        shares: [
+      {
+        share: "facebook",
+        logo: "fab fa-facebook",
+      },
+      {
+        share: "twitter",           
+        label: "Tweet",             
+        logo: "fab fa-twitter",
+        
+          via: "sudocast",       
+        
+        url: "",
+        text: "#10 Somos Todos Gophers!"
+      },
+      {
+        share: "linkedin",
+        logo: "fab fa-linkedin"
+      },
+      {
+        share: "pinterest",
+        logo: "fab fa-pinterest"
+      }
+    ],
+    });
+</script>
+<script>
+audiojs.events.ready(function() {
+  var as = audiojs.createAll({
+    imageLocation: '\/img\/player-graphics.gif',
+    retinaImageLocation: '\/img\/player-graphics@2x.gif',
+    swfLocation: '\/swf\/audiojs.swf'
+   });
+ });
+</script>
+
+
+
+</body>
+</html>
+
