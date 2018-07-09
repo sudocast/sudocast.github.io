@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SudoCast</title>
+    <link>http://www.sudocast.com.br/</link>
+    <description>Recent content on SudoCast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Mon, 07 May 2018 04:10:01 -0500</lastBuildDate>
+    
+	<atom:link href="http://www.sudocast.com.br/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#12 Não deixe o Samba morrer (&#43;18)</title>
+      <link>http://www.sudocast.com.br/12-nao-deixe-o-samba-morrer/</link>
+      <pubDate>Mon, 07 May 2018 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/12-nao-deixe-o-samba-morrer/</guid>
+      <description> Samba Pornô Castálio Podcast com Avelino DevNaEstrada Como ganhei meu primeiro milhão com XXX  </description>
+    </item>
+    
+    <item>
+      <title>#11 #OPodcastÉDelas!</title>
+      <link>http://www.sudocast.com.br/11-o-podcast-e-delas/</link>
+      <pubDate>Tue, 27 Mar 2018 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/11-o-podcast-e-delas/</guid>
+      <description> O Podcast é Delas #MulheresNaTI PyLadies DjangoGirls Rails Girls Woman Who Go PodProgramar Pizza de Dados datascience.pizza  </description>
+    </item>
+    
+    <item>
+      <title>#10 Somos todos Gophers!</title>
+      <link>http://www.sudocast.com.br/10-somos-todos-gophers/</link>
+      <pubDate>Tue, 20 Mar 2018 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/10-somos-todos-gophers/</guid>
+      <description> Documentação do Go Go Playground Awesome Go JustForFunc Go Time Podcast Livro - Linguagem de Programação Go Introdução a Linguagem Go Women Who Go Women Who Go Floripa  </description>
+    </item>
+    
+    <item>
+      <title>#9 A nova era do Tech Recruiting</title>
+      <link>http://www.sudocast.com.br/09-a-nova-era-do-tech-recruiting/</link>
+      <pubDate>Mon, 26 Feb 2018 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/09-a-nova-era-do-tech-recruiting/</guid>
+      <description> Hiring in the Digital Age 8 Things Every Tech Recruiter Should Know What is a Technical Recruiter? Vagas Arrombadas  </description>
+    </item>
+    
+    <item>
+      <title>#8 Blockchain, criptomoedas e cypherpunks!</title>
+      <link>http://www.sudocast.com.br/08-blockchain-criptomoedas-e-cypherpunks/</link>
+      <pubDate>Sun, 04 Feb 2018 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/08-blockchain-criptomoedas-e-cypherpunks/</guid>
+      <description> Python Sul 2018 Submissão de palestras TDC Floripa 2018 Pizza de Dados Quem é Satoshi Nakamoto? Pizza mais cara do mundo Documentário John McAfee Cypherpunks Artigo sobre Cypherpunks Solidity  </description>
+    </item>
+    
+    <item>
+      <title>#7 - JavaScript está dominando o mundo?</title>
+      <link>http://www.sudocast.com.br/07-javascript-esta-dominando-o-mundo-ou-nao/</link>
+      <pubDate>Tue, 05 Dec 2017 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/07-javascript-esta-dominando-o-mundo-ou-nao/</guid>
+      <description> Effective JavaScript Eloquente Javascript MDN Web Docs CoffeeScript TypeScript Hipsters.Tech sobre JS Hipsters.Tech sobre JS Moderno BrasilJS FloripaJS  </description>
+    </item>
+    
+    <item>
+      <title>#6 Python: Pessoas &gt; Tecnologia</title>
+      <link>http://www.sudocast.com.br/06-python-pessoas-maior-que-tecnologia/</link>
+      <pubDate>Wed, 01 Nov 2017 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/06-python-pessoas-maior-que-tecnologia/</guid>
+      <description> Inovar para Contratar The Zen of Python Associação Python Brasil Python Sul Python Floripa Data Science Pizza Tutorial Django Girls PyLadies Brasil Twitter do Guido  </description>
+    </item>
+    
+    <item>
+      <title>#5 A Cultura DevOps</title>
+      <link>http://www.sudocast.com.br/05-a-cultura-devops/</link>
+      <pubDate>Wed, 11 Oct 2017 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/05-a-cultura-devops/</guid>
+      <description> Marco zero do DevOps Podcast do Gomex LinuxTips Podcast do Gomex sobre como Organizar o DevOpsDays Livro Docker para Desenvolvedores Livro do Google sobre Site Reliability Engineering Castálio Podcast com o Jeferson  </description>
+    </item>
+    
+    <item>
+      <title>#4 Peço Perdão Pelo Vacilo :(</title>
+      <link>http://www.sudocast.com.br/04-peco-perdao-pelo-vacilo/</link>
+      <pubDate>Sun, 03 Sep 2017 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/04-peco-perdao-pelo-vacilo/</guid>
+      <description> Famoso caso do Gitlab Vídeo sobre o incidente da Gitlab Incidente da Amazon Capycast  </description>
+    </item>
+    
+    <item>
+      <title>#3 Operação Serenata de Amor</title>
+      <link>http://www.sudocast.com.br/03-operacao-serenata-de-amor/</link>
+      <pubDate>Fri, 16 Jun 2017 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/03-operacao-serenata-de-amor/</guid>
+      <description> Catarse Apoia.se Facebook Twitter Github Jarbas Rosie Lista de Projetos do Github por país Contato  </description>
+    </item>
+    
+    <item>
+      <title>#2 O Movimento Ágil!</title>
+      <link>http://www.sudocast.com.br/02-o-movimento-agil/</link>
+      <pubDate>Thu, 25 May 2017 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/02-o-movimento-agil/</guid>
+      <description> Manifesto Ágil Os doze princípios do software ágil Agile Brazil Uncle Bob falando sobre o futuro da programação Lista de podcasts sobre Agile Taverna Taller e Tallercast Do Caos ao Custo Médio por Demanda Kent Beck na RailsConf 2015  </description>
+    </item>
+    
+    <item>
+      <title>#1 Hello World!</title>
+      <link>http://www.sudocast.com.br/01-hello-world/</link>
+      <pubDate>Sun, 23 Apr 2017 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/01-hello-world/</guid>
+      <description> DJ Trader TimbreJS RubyFloripa Capycast Grokcast PodProgramar DevNaEstrada RailsCasts  </description>
+    </item>
+    
+    <item>
+      <title>about us</title>
+      <link>http://www.sudocast.com.br/about/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sudocast.com.br/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contact us</title>
+      <link>http://www.sudocast.com.br/contact/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sudocast.com.br/contact/</guid>
+      <description>Email: ping@sudocast.com.br
+Twitter: @perylemke Or use this handy form!
+Comments: 
+Submit   $(&amp;ldquo;#contactForm&amp;rdquo;).validate();</description>
+    </item>
+    
+    <item>
+      <title>Ana Schwendler</title>
+      <link>http://www.sudocast.com.br/guest/aschwendler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sudocast.com.br/guest/aschwendler/</guid>
+      <description>i&amp;rsquo;ve got 2 versions.</description>
+    </item>
+    
+    <item>
+      <title>Jeferson Fernando</title>
+      <link>http://www.sudocast.com.br/guest/jfernando/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sudocast.com.br/guest/jfernando/</guid>
+      <description>Production engineer with +15 years of professional experience in large-scale and mission-critical environments using Linux and Unix, including systems and services design and installation, configuration, scaling, automation, capacity planning, containers, docker, kubernetes, networking,security and integration in heterogeneous enterprise environments.</description>
+    </item>
+    
+    <item>
+      <title>Jessica Temporal</title>
+      <link>http://www.sudocast.com.br/guest/jtemporal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sudocast.com.br/guest/jtemporal/</guid>
+      <description>Developer who loves to write beautiful codes. PyLadies and Django Girls member. Addicted to data science, I&amp;rsquo;ve already participated in projects like hacking the genome code or researching tweets with NLP and Python. Today I&amp;rsquo;m working as data scientist and developer at NUVEO and as consultant and lecturer (pro bono) for Operação Serenata de Amor. In my free time, I cultivate red curls and add movie trailers to the never ending &amp;lsquo;to watch&amp;rsquo; movie collection.</description>
+    </item>
+    
+    <item>
+      <title>Jônatas Paganini</title>
+      <link>http://www.sudocast.com.br/guest/jpaganini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sudocast.com.br/guest/jpaganini/</guid>
+      <description>I&amp;rsquo;m a pair programming evangelist. Vim user and enthusiast. Rubyist since 2007.</description>
+    </item>
+    
+    <item>
+      <title>Letícia Portella</title>
+      <link>http://www.sudocast.com.br/guest/lportella/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sudocast.com.br/guest/lportella/</guid>
+      <description>a happy dev, in love with data science, co-founder of @pizzadedados and director of @apyb</description>
+    </item>
+    
+    <item>
+      <title>Mario Silveira</title>
+      <link>http://www.sudocast.com.br/host/msilveira/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sudocast.com.br/host/msilveira/</guid>
+      <description>Teste do Mario!</description>
+    </item>
+    
+    <item>
+      <title>Mário Queiroz</title>
+      <link>http://www.sudocast.com.br/guest/mqueiroz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sudocast.com.br/guest/mqueiroz/</guid>
+      <description>President of the Associação Python Brasil. Trying to help people :)</description>
+    </item>
+    
+    <item>
+      <title>Nando Sousa</title>
+      <link>http://www.sudocast.com.br/guest/nsousa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sudocast.com.br/guest/nsousa/</guid>
+      <description>Brazilian, Software developer and Science Groker.</description>
+    </item>
+    
+    <item>
+      <title>Paula Santos</title>
+      <link>http://www.sudocast.com.br/guest/psantos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sudocast.com.br/guest/psantos/</guid>
+      <description>PhD in Science Computer Vision and Deep learning.</description>
+    </item>
+    
+    <item>
+      <title>Pery Lemke</title>
+      <link>http://www.sudocast.com.br/host/plemke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sudocast.com.br/host/plemke/</guid>
+      <description>Site Reliability Engineer na Nuveo.
+Host no SudoCast, podcast que aborda um lado mais humano e engraçado da tecnologia.
+Pythonista pela simplicidade que o Python trás e Gopher porque não existe nada mais perfomático e amor que isso.
+Um dos organizadores do Meetup DevOps Floripa, pois foi nessa comunidade que encontrou sua verdadeira paixão após peregrinar pelas mais diversas funções no mundo da Tecnologia.
+Procura estudar bastante sobre Agile,Práticas DevOps, Cloud Computing, Containers e Infra Ágil.</description>
+    </item>
+    
+    <item>
+      <title>Rafael Caceres</title>
+      <link>http://www.sudocast.com.br/guest/rcaceres/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sudocast.com.br/guest/rcaceres/</guid>
+      <description>Fluxonomista, Programador e Empreendedor. Co-fundador da Taller.</description>
+    </item>
+    
+    <item>
+      <title>Rafael Gomes (Gomex)</title>
+      <link>http://www.sudocast.com.br/guest/rgomex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sudocast.com.br/guest/rgomex/</guid>
+      <description>Soteropolitano, hacker urbano e consultor de infraestrutura, formado na Universidade de Salvador no curso de Gestão de Redes.
+Trabalho atualmente na Crossover, focado em infraestrutura como código, cultura devops e cloud. Certificado em LPIC-1, MCSO e Zabbix Certified Specialist.
+Autor do livro Docker para desenvolvedores
+Core Organizer do DevOpsDays</description>
+    </item>
+    
+    <item>
+      <title>Talita Rossari</title>
+      <link>http://www.sudocast.com.br/guest/trossari/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sudocast.com.br/guest/trossari/</guid>
+      <description>Desenvolvedora Junior na Agrosatelite. Co-organizadora do Pyladies Floripa.</description>
+    </item>
+    
+  </channel>
+</rss>

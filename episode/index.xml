@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Episodes on SudoCast</title>
+    <link>http://www.sudocast.com.br/episode/</link>
+    <description>Recent content in Episodes on SudoCast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Mon, 07 May 2018 04:10:01 -0500</lastBuildDate>
+    
+	<atom:link href="http://www.sudocast.com.br/episode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#12 Não deixe o Samba morrer (&#43;18)</title>
+      <link>http://www.sudocast.com.br/12-nao-deixe-o-samba-morrer/</link>
+      <pubDate>Mon, 07 May 2018 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/12-nao-deixe-o-samba-morrer/</guid>
+      <description> Samba Pornô Castálio Podcast com Avelino DevNaEstrada Como ganhei meu primeiro milhão com XXX  </description>
+    </item>
+    
+    <item>
+      <title>#11 #OPodcastÉDelas!</title>
+      <link>http://www.sudocast.com.br/11-o-podcast-e-delas/</link>
+      <pubDate>Tue, 27 Mar 2018 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/11-o-podcast-e-delas/</guid>
+      <description> O Podcast é Delas #MulheresNaTI PyLadies DjangoGirls Rails Girls Woman Who Go PodProgramar Pizza de Dados datascience.pizza  </description>
+    </item>
+    
+    <item>
+      <title>#10 Somos todos Gophers!</title>
+      <link>http://www.sudocast.com.br/10-somos-todos-gophers/</link>
+      <pubDate>Tue, 20 Mar 2018 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/10-somos-todos-gophers/</guid>
+      <description> Documentação do Go Go Playground Awesome Go JustForFunc Go Time Podcast Livro - Linguagem de Programação Go Introdução a Linguagem Go Women Who Go Women Who Go Floripa  </description>
+    </item>
+    
+    <item>
+      <title>#9 A nova era do Tech Recruiting</title>
+      <link>http://www.sudocast.com.br/09-a-nova-era-do-tech-recruiting/</link>
+      <pubDate>Mon, 26 Feb 2018 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/09-a-nova-era-do-tech-recruiting/</guid>
+      <description> Hiring in the Digital Age 8 Things Every Tech Recruiter Should Know What is a Technical Recruiter? Vagas Arrombadas  </description>
+    </item>
+    
+    <item>
+      <title>#8 Blockchain, criptomoedas e cypherpunks!</title>
+      <link>http://www.sudocast.com.br/08-blockchain-criptomoedas-e-cypherpunks/</link>
+      <pubDate>Sun, 04 Feb 2018 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/08-blockchain-criptomoedas-e-cypherpunks/</guid>
+      <description> Python Sul 2018 Submissão de palestras TDC Floripa 2018 Pizza de Dados Quem é Satoshi Nakamoto? Pizza mais cara do mundo Documentário John McAfee Cypherpunks Artigo sobre Cypherpunks Solidity  </description>
+    </item>
+    
+    <item>
+      <title>#7 - JavaScript está dominando o mundo?</title>
+      <link>http://www.sudocast.com.br/07-javascript-esta-dominando-o-mundo-ou-nao/</link>
+      <pubDate>Tue, 05 Dec 2017 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/07-javascript-esta-dominando-o-mundo-ou-nao/</guid>
+      <description> Effective JavaScript Eloquente Javascript MDN Web Docs CoffeeScript TypeScript Hipsters.Tech sobre JS Hipsters.Tech sobre JS Moderno BrasilJS FloripaJS  </description>
+    </item>
+    
+    <item>
+      <title>#6 Python: Pessoas &gt; Tecnologia</title>
+      <link>http://www.sudocast.com.br/06-python-pessoas-maior-que-tecnologia/</link>
+      <pubDate>Wed, 01 Nov 2017 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/06-python-pessoas-maior-que-tecnologia/</guid>
+      <description> Inovar para Contratar The Zen of Python Associação Python Brasil Python Sul Python Floripa Data Science Pizza Tutorial Django Girls PyLadies Brasil Twitter do Guido  </description>
+    </item>
+    
+    <item>
+      <title>#5 A Cultura DevOps</title>
+      <link>http://www.sudocast.com.br/05-a-cultura-devops/</link>
+      <pubDate>Wed, 11 Oct 2017 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/05-a-cultura-devops/</guid>
+      <description> Marco zero do DevOps Podcast do Gomex LinuxTips Podcast do Gomex sobre como Organizar o DevOpsDays Livro Docker para Desenvolvedores Livro do Google sobre Site Reliability Engineering Castálio Podcast com o Jeferson  </description>
+    </item>
+    
+    <item>
+      <title>#4 Peço Perdão Pelo Vacilo :(</title>
+      <link>http://www.sudocast.com.br/04-peco-perdao-pelo-vacilo/</link>
+      <pubDate>Sun, 03 Sep 2017 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/04-peco-perdao-pelo-vacilo/</guid>
+      <description> Famoso caso do Gitlab Vídeo sobre o incidente da Gitlab Incidente da Amazon Capycast  </description>
+    </item>
+    
+    <item>
+      <title>#3 Operação Serenata de Amor</title>
+      <link>http://www.sudocast.com.br/03-operacao-serenata-de-amor/</link>
+      <pubDate>Fri, 16 Jun 2017 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/03-operacao-serenata-de-amor/</guid>
+      <description> Catarse Apoia.se Facebook Twitter Github Jarbas Rosie Lista de Projetos do Github por país Contato  </description>
+    </item>
+    
+    <item>
+      <title>#2 O Movimento Ágil!</title>
+      <link>http://www.sudocast.com.br/02-o-movimento-agil/</link>
+      <pubDate>Thu, 25 May 2017 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/02-o-movimento-agil/</guid>
+      <description> Manifesto Ágil Os doze princípios do software ágil Agile Brazil Uncle Bob falando sobre o futuro da programação Lista de podcasts sobre Agile Taverna Taller e Tallercast Do Caos ao Custo Médio por Demanda Kent Beck na RailsConf 2015  </description>
+    </item>
+    
+    <item>
+      <title>#1 Hello World!</title>
+      <link>http://www.sudocast.com.br/01-hello-world/</link>
+      <pubDate>Sun, 23 Apr 2017 04:10:01 -0500</pubDate>
+      
+      <guid>http://www.sudocast.com.br/01-hello-world/</guid>
+      <description> DJ Trader TimbreJS RubyFloripa Capycast Grokcast PodProgramar DevNaEstrada RailsCasts  </description>
+    </item>
+    
+  </channel>
+</rss>
