@@ -13,7 +13,7 @@ images = ["img/episode/naodeixeosamba.png"]
 podcast_duration = "1:04:09"
 podcast_file = "sudocast012.mp3"
 podcast_bytes = "61592453"
-title = "#12 Não deixe o Samba morrer (+18)"
+title = "#12 - Não deixe o Samba morrer (+18)"
 youtube = ""
 truncate = ""
 +++

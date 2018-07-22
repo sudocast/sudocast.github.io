@@ -13,7 +13,7 @@ images = ["img/episode/opodcastehdelas.png"]
 podcast_duration = "51:24"
 podcast_file = "sudocast011.mp3"
 podcast_bytes = "49342070"
-title = "#11 #OPodcastÉDelas!"
+title = "#11 - #OPodcastÉDelas!"
 youtube = ""
 truncate = ""
 +++

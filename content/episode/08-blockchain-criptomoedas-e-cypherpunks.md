@@ -13,7 +13,7 @@ images = ["img/episode/bitcoin.jpg"]
 podcast_duration = "51:49"
 podcast_file = "sudocast008.mp3"
 podcast_bytes = "74622540"
-title = "#8 Blockchain, criptomoedas e cypherpunks!"
+title = "#8 - Blockchain, criptomoedas e cypherpunks!"
 youtube = ""
 truncate = ""
 +++
