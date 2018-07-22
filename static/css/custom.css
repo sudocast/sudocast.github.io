@@ -1,8 +1,26 @@
+body {
+    font-family: 'Libre Baskerville', serif;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    margin-bottom: 1rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+    padding-top: 1rem;
+}
+
 .grid_episode_title {
     color: #e3e3e4;
 }
 
 .grid_episode_title > h3 {
-    text-transform: capitalize;
     font-size: 1.001rem;
+    text-transform: none; !important
+}
+
+.jumbotron {
+    padding: 2rem 2rem;
+    background-color: #fff; 
 }
