@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>#12 Não deixe o Samba morrer (&#43;18)</title>
+      <title>#12 - Não deixe o Samba morrer (&#43;18)</title>
       <link>https://sudocast.github.io/12-nao-deixe-o-samba-morrer/</link>
       <pubDate>Mon, 07 May 2018 04:10:01 -0500</pubDate>
       
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>#11 #OPodcastÉDelas!</title>
+      <title>#11 - #OPodcastÉDelas!</title>
       <link>https://sudocast.github.io/11-o-podcast-e-delas/</link>
       <pubDate>Tue, 27 Mar 2018 04:10:01 -0500</pubDate>
       
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>#10 Somos todos Gophers!</title>
+      <title>#10 - Somos todos Gophers!</title>
       <link>https://sudocast.github.io/10-somos-todos-gophers/</link>
       <pubDate>Tue, 20 Mar 2018 04:10:01 -0500</pubDate>
       
@@ -39,7 +39,7 @@
     </item>
     
     <item>
-      <title>#9 A nova era do Tech Recruiting</title>
+      <title>#9 - A nova era do Tech Recruiting</title>
       <link>https://sudocast.github.io/09-a-nova-era-do-tech-recruiting/</link>
       <pubDate>Mon, 26 Feb 2018 04:10:01 -0500</pubDate>
       
@@ -48,7 +48,7 @@
     </item>
     
     <item>
-      <title>#8 Blockchain, criptomoedas e cypherpunks!</title>
+      <title>#8 - Blockchain, criptomoedas e cypherpunks!</title>
       <link>https://sudocast.github.io/08-blockchain-criptomoedas-e-cypherpunks/</link>
       <pubDate>Sun, 04 Feb 2018 04:10:01 -0500</pubDate>
       
@@ -66,7 +66,7 @@
     </item>
     
     <item>
-      <title>#6 Python: Pessoas &gt; Tecnologia</title>
+      <title>#6 - Python: Pessoas &gt; Tecnologia</title>
       <link>https://sudocast.github.io/06-python-pessoas-maior-que-tecnologia/</link>
       <pubDate>Wed, 01 Nov 2017 04:10:01 -0500</pubDate>
       
@@ -75,7 +75,7 @@
     </item>
     
     <item>
-      <title>#5 A Cultura DevOps</title>
+      <title>#5 - A Cultura DevOps</title>
       <link>https://sudocast.github.io/05-a-cultura-devops/</link>
       <pubDate>Wed, 11 Oct 2017 04:10:01 -0500</pubDate>
       
@@ -84,7 +84,7 @@
     </item>
     
     <item>
-      <title>#4 Peço Perdão Pelo Vacilo :(</title>
+      <title>#4 - Peço Perdão Pelo Vacilo :(</title>
       <link>https://sudocast.github.io/04-peco-perdao-pelo-vacilo/</link>
       <pubDate>Sun, 03 Sep 2017 04:10:01 -0500</pubDate>
       
@@ -93,7 +93,7 @@
     </item>
     
     <item>
-      <title>#3 Operação Serenata de Amor</title>
+      <title>#3 - Operação Serenata de Amor</title>
       <link>https://sudocast.github.io/03-operacao-serenata-de-amor/</link>
       <pubDate>Fri, 16 Jun 2017 04:10:01 -0500</pubDate>
       
@@ -102,7 +102,7 @@
     </item>
     
     <item>
-      <title>#2 O Movimento Ágil!</title>
+      <title>#2 - O Movimento Ágil!</title>
       <link>https://sudocast.github.io/02-o-movimento-agil/</link>
       <pubDate>Thu, 25 May 2017 04:10:01 -0500</pubDate>
       
@@ -111,12 +111,24 @@
     </item>
     
     <item>
-      <title>#1 Hello World!</title>
+      <title>#1 - Hello World!</title>
       <link>https://sudocast.github.io/01-hello-world/</link>
       <pubDate>Sun, 23 Apr 2017 04:10:01 -0500</pubDate>
       
       <guid>https://sudocast.github.io/01-hello-world/</guid>
       <description> DJ Trader TimbreJS RubyFloripa Capycast Grokcast PodProgramar DevNaEstrada RailsCasts  </description>
+    </item>
+    
+    <item>
+      <title>Contatinho</title>
+      <link>https://sudocast.github.io/contact/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudocast.github.io/contact/</guid>
+      <description>Email: ping@sudocast.com.br
+Twitter: @sudocast Ou use nosso formulário:
+Comentários, criticas ou elogios =) 
+Enviar   $(&amp;ldquo;#contactForm&amp;rdquo;).validate();</description>
     </item>
     
     <item>
@@ -126,18 +138,6 @@
       
       <guid>https://sudocast.github.io/about/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>contact us</title>
-      <link>https://sudocast.github.io/contact/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://sudocast.github.io/contact/</guid>
-      <description>Email: ping@sudocast.com.br
-Twitter: @perylemke Or use this handy form!
-Comments: 
-Submit   $(&amp;ldquo;#contactForm&amp;rdquo;).validate();</description>
     </item>
     
     <item>
