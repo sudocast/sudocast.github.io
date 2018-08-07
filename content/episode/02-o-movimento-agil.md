@@ -1,5 +1,5 @@
 +++
-Description = "Olá mundo =)<br/><br/> No segundo episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke) e [Mário Silveira](https://www.twitter.com/dermarios) recebem [Rafael Cáceres](https://www.twitter.com/rafaelcaceres) da [Taller](https://taller.net.br/) para bater um bapo sobre Métodos Ágeis.<br/><br/> Descubra neste podcast que não existe verdade absoluta, que bala de prata é mito e ágil não se resume a Scrum.<br/><br/> Abertura: [Frabin](https://www.facebook.com/frabinmusic/) - [Kids From Outer Space](https://www.youtube.com/watch?v=FHLhpddkxGM)"
+Description = "Olá mundo =)<br/><br/> No segundo episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke) e [Mário Silveira](https://www.twitter.com/dermarios) recebem [Rafael Cáceres](https://www.twitter.com/rafaelcaceres) da [Taller](https://taller.net.br/) para bater um bapo sobre Métodos Ágeis.<br/><br/> Descubra neste podcast que não existe verdade absoluta, que bala de prata é mito e ágil não se resume a Scrum.<br/><br/> Abertura: [Frabin](https://www.facebook.com/frabinmusic/) - [Kids From Outer Space](https://www.youtube.com/watch?v=FHLhpddkxGM)<br/><br/>"
 aliases = ["/2"]
 author = "Pery Lemke & Mário Silveira"
 date = "2017-05-25T04:10:01-05:00"

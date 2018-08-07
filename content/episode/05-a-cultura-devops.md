@@ -1,5 +1,5 @@
 +++
-Description = "Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jeferson Fernando](https://twitter.com/badtux_), [Gomex](https://twitter.com/gomex) e [Mário Silveira](https://twitter.com/dermarios) trocam uma ideia sobre a cultura DevOps que está quebrando os paradigmas do mundo da Tecnologia.<br/><br/> Descubra neste podcast que DevOps não é cargo e sim cultura, que o Google está a frente do seu tempo, quem é o culpado caso a produção caia e qual Sudocaster está se rendendo ao Docker.<br/><br/>"
+Description = "Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jeferson Fernando](https://twitter.com/badtux_), [Gomex](https://twitter.com/gomex) e [Mário Silveira](https://twitter.com/dermarios) trocam uma ideia sobre a cultura DevOps que está quebrando os paradigmas do mundo da Tecnologia.<br/><br/> Descubra neste podcast que DevOps não é cargo e sim cultura, que o Google está a frente do seu tempo, quem é o culpado caso a produção caia e qual Sudocaster está se rendendo ao Docker.<br/><br/> Introdução: [Júlia Sicone](https://www.juliasicone.com/about-me) - [Yellow Sweater](https://soundcloud.com/juliasicone/yellow-sweater)<br/><br/>"
 aliases = ["/5"]
 author = "Pery Lemke & Mário Silveira"
 date = "2017-10-11T04:10:01-05:00"

@@ -48,7 +48,7 @@ itunes_subscribe = "https://itunes.apple.com/br/podcast/sudocast/id1229109698?mt
 #mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "Esse é o Sudocast, somos um podcast de tecnologia de humor ácido, engraçado que discute os principais temas em voga no mundo de Desenvolvimento de Software."
-media_prefix = "http://www.sudocast.com.br/media/"
+media_prefix = "http://media.blubrry.com/sudocast1/content.blubrry.com/sudocast1/"
 custom_css = ["css/custom.css"]
   [params.feed]
     feed_copyright = "Copyright 2017 Pery Lemke and Mário Silveira" #do not use markdown in this field; it is used in the feed
@@ -89,6 +89,12 @@ custom_css = ["css/custom.css"]
       bio = ""
       [params.authors.Mario.social]
         twitter = "dermarios"
+    [params.authors.Leroy]
+      name = "Igor Leroy"
+      thumbnail = "img/host/leroy.png"
+      bio = ""
+      [params.authors.Mario.social]
+        twitter = "lerrua"
 
     [params.links]
       [params.links.ado]

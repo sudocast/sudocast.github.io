@@ -1,7 +1,7 @@
 +++
 Description = "Olá mundo =) Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Ayslan Schmidt](https://twitter.com/ayschmidt) e [Gabriela Casasagranda](https://twitter.com/gabicasagranda) batem um papo sobre Tech Recruting, que é a forma mais adotada hoje em dia para recrutamento de profissionais para as empresas.<br/><br/> Descubra neste podcast, a importância de um bom feedback, que não devemos ter medo do RH e como é importante a comunicação no mundo hoje em dia.<br/><br/> Introdução: [Carinae](https://www.facebook.com/acarinae/) - [Abarcar](https://www.youtube.com/watch?v=NvLkTyrZBcg)<br/><br/> Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo)<br/><br/>"
 aliases = ["/9"]
-author = "Pery Lemke & Mário Silveira"
+author = "Pery Lemke"
 date = "2018-02-26T04:10:01-05:00"
 episode = "9"
 episode_image = "img/episode/thumbs/technical-recruiting.jpg"

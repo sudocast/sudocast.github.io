@@ -1,7 +1,7 @@
 +++
 Description = "Olá mundo =)<br/><br/> Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jessica Temporal](https://www.twitter.com/jesstemporal) e [Cesar Gimenes](https://twitter.com/crgimenes) batem um papo sobre Go, a linguagem que foi criada no Google e está cada vez mais conquistando espaço no mercado.<br/><br/> Descubra neste podcast, o que um Dream Team pode fazer com liberdade, como dar uma banana para a Orientação a Objetos, se é possível se livrar do Vendor e como ser perfomático ao extremo.<br/><br/> Introdução: [Monte Resina](https://www.facebook.com/monteresina/) - [Masmorra Verruga](https://www.youtube.com/watch?v=lpdzkD-HPBM)<br/><br/> Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo)<br/><br/>"
 aliases = ["/10"]
-author = "Pery Lemke & Mário Silveira"
+author = "Pery Lemke"
 date = "2018-03-20T04:10:01-05:00"
 episode = "10"
 episode_image = "img/episode/thumbs/gopher.jpg"
