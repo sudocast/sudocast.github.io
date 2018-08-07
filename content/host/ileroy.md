@@ -1,9 +1,7 @@
 +++
 Title = "Igor Leroy"
 Twitter = "lerrua"
-<!-- Website = "http://www.google.com" -->
 Type = "host"
-<!-- Facebook = "" -->
 Linkedin = "igorleroy"
 GitHub = "lerrua"
 Thumbnail="https://avatars1.githubusercontent.com/u/154603?s=400&v=4"

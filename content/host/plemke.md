@@ -1,9 +1,7 @@
 +++
 Title = "Pery Lemke"
 Twitter = "perylemke"
-<!-- Website = "http://www.google.com" -->
 Type = "host"
-<!-- Facebook = "perylemke" -->
 Linkedin = "perylemke"
 GitHub = "perylemke"
 Thumbnail="https://avatars3.githubusercontent.com/u/3199483?s=460&v=4"
