@@ -93,8 +93,10 @@ custom_css = ["css/custom.css"]
       name = "Igor Leroy"
       thumbnail = "img/host/leroy.png"
       bio = ""
-      [params.authors.Mario.social]
+      [params.authors.Leroy.social]
         twitter = "lerrua"
+        github = "lerrua"
+        linkedin = "igorleroy"
 
     [params.links]
       [params.links.ado]
