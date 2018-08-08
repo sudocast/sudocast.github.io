@@ -31,10 +31,10 @@
       <itunes:name>Pery Lemke</itunes:name>
       <itunes:email>pery.lemke@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="/img/logo.jpg" />
-    <googleplay:image href="/img/logo.jpg"></googleplay:image>
+    <itunes:image href="/img/logo-sudocast-itunes.jpg" />
+    <googleplay:image href="/img/logo-sudocast-itunes.jpg"></googleplay:image>
     <image>
-      <url>/img/logo.jpg</url>
+      <url>/img/logo-sudocast-itunes.jpg</url>
       <title>SudoCast</title>
       <link>https://www.sudocast.com.br/</link>
     </image>
