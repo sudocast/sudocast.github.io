@@ -31,10 +31,10 @@
       <itunes:name>Pery Lemke</itunes:name>
       <itunes:email>pery.lemke@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://www.arresteddevops.com/img/ado-podcast-logo.png" />
-    <googleplay:image href="https://www.arresteddevops.com/img/ado-podcast-logo.png"></googleplay:image>
+    <itunes:image href="/img/logo.jpg" />
+    <googleplay:image href="/img/logo.jpg"></googleplay:image>
     <image>
-      <url>https://www.arresteddevops.com/img/ado-podcast-logo.png</url>
+      <url>/img/logo.jpg</url>
       <title>SudoCast</title>
       <link>https://www.sudocast.com.br/</link>
     </image>
