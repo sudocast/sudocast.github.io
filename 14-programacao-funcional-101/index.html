@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html itemscope lang="pt-BR">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <meta name="description" content="Olá mundo =)&lt;br/&gt;&lt;br/&gt; Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Igor Leroy](https://twitter.com/lerrua) e [Renan “Millhouse” Ranelli](https://twitter.com/renanranelli) batem um papo sobre Programação Funcional, um paradigma de programação que está bem em voga hoje em dia. &lt;br/&gt;&lt;br/&gt; Descubra neste podcast que nem tudo é tão novo quanto parece, a usar sempre constantes, a se irritar com a sintaxe e como um engenheiro químico se tornou programador. &lt;br/&gt;&lt;br/&gt; Introdução: [Apicultores Clandestinos](https://www.facebook.com/ApicultoresClandestinos) - [Eu tenho uma camiseta escrita eu já sabia](https://soundcloud.com/apicultores-clandestinos/09-eu-tenho-uma-camiseta) &lt;br/&gt;&lt;br/&gt; Edição, Sonorização e arte da capa: [Johnny Duluti](https://www.youtube.com/ferraduravideo) &lt;br/&gt;&lt;br/&gt;">
+
+<meta name="generator" content="Hugo 0.37.1" />
+
+
+<meta property="og:title" content="#14 - Programação Funcional 101" />
+<meta property="og:description" content="Olá mundo =)&lt;br/&gt;&lt;br/&gt; Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Igor Leroy](https://twitter.com/lerrua) e [Renan “Millhouse” Ranelli](https://twitter.com/renanranelli) batem um papo sobre Programação Funcional, um paradigma de programação que está bem em voga hoje em dia. &lt;br/&gt;&lt;br/&gt; Descubra neste podcast que nem tudo é tão novo quanto parece, a usar sempre constantes, a se irritar com a sintaxe e como um engenheiro químico se tornou programador. &lt;br/&gt;&lt;br/&gt; Introdução: [Apicultores Clandestinos](https://www.facebook.com/ApicultoresClandestinos) - [Eu tenho uma camiseta escrita eu já sabia](https://soundcloud.com/apicultores-clandestinos/09-eu-tenho-uma-camiseta) &lt;br/&gt;&lt;br/&gt; Edição, Sonorização e arte da capa: [Johnny Duluti](https://www.youtube.com/ferraduravideo) &lt;br/&gt;&lt;br/&gt;" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://sudocast.github.io/14-programacao-funcional-101/" />
+
+  
+    <meta property="og:image" content="https://sudocast.github.io/img/episode/functional.png" />
+  
+
+
+
+<meta property="og:updated_time" content="2018-06-10 04:10:01 -0500 -0500"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta property="article:author" content="https://www.facebook.com/" />
+
+<meta property="article:publisher" content="https://www.facebook.com/1sudocast" />
+
+  
+    <meta property="article:published_time" content="2018-06-10 04:10:01 -0500 -0500" />
+  
+
+<meta property="article:modified_time" content="2018-06-10 04:10:01 -0500 -0500" />
+<meta property="article:section" content="episode" />
+
+
+
+
+
+
+<meta itemprop="name" content="#14 - Programação Funcional 101">
+<meta itemprop="description" content="Olá mundo =)&lt;br/&gt;&lt;br/&gt; Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Igor Leroy](https://twitter.com/lerrua) e [Renan “Millhouse” Ranelli](https://twitter.com/renanranelli) batem um papo sobre Programação Funcional, um paradigma de programação que está bem em voga hoje em dia. &lt;br/&gt;&lt;br/&gt; Descubra neste podcast que nem tudo é tão novo quanto parece, a usar sempre constantes, a se irritar com a sintaxe e como um engenheiro químico se tornou programador. &lt;br/&gt;&lt;br/&gt; Introdução: [Apicultores Clandestinos](https://www.facebook.com/ApicultoresClandestinos) - [Eu tenho uma camiseta escrita eu já sabia](https://soundcloud.com/apicultores-clandestinos/09-eu-tenho-uma-camiseta) &lt;br/&gt;&lt;br/&gt; Edição, Sonorização e arte da capa: [Johnny Duluti](https://www.youtube.com/ferraduravideo) &lt;br/&gt;&lt;br/&gt;">
+
+
+
+  
+    <meta itemprop="image" content="https://sudocast.github.io/img/episode/functional.png">
+  
+
+
+
+<meta itemprop="keywords" content="" />
+
+
+<meta itemprop="wordCount" content="50">
+
+
+
+
+	<meta name="twitter:card" content="summary_large_image"/>
+  
+	 <meta name="twitter:image:src" content="https://sudocast.github.io/img/episode/functional.png"/>
+  
+
+
+
+<meta name="twitter:title" content="#14 - Programação Funcional 101"/>
+<meta name="twitter:description" content="Olá mundo =)&lt;br/&gt;&lt;br/&gt; Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Igor Leroy](https://twitter.com/lerrua) e [Renan “Millhouse” Ranelli](https://twitter.com/renanranelli) batem um papo sobre Programação Funcional, um paradigma de programação que está bem em voga hoje em dia. &lt;br/&gt;&lt;br/&gt; Descubra neste podcast que nem tudo é tão novo quanto parece, a usar sempre constantes, a se irritar com a sintaxe e como um engenheiro químico se tornou programador. &lt;br/&gt;&lt;br/&gt; Introdução: [Apicultores Clandestinos](https://www.facebook.com/ApicultoresClandestinos) - [Eu tenho uma camiseta escrita eu já sabia](https://soundcloud.com/apicultores-clandestinos/09-eu-tenho-uma-camiseta) &lt;br/&gt;&lt;br/&gt; Edição, Sonorização e arte da capa: [Johnny Duluti](https://www.youtube.com/ferraduravideo) &lt;br/&gt;&lt;br/&gt;"/>
+<meta name="twitter:site" content="@sudocast"/>
+
+
+	
+	
+
+
+
+
+<title>
+
+
+     #14 - Programação Funcional 101 
+
+</title>
+<link rel="canonical" href="https://sudocast.github.io/14-programacao-funcional-101/">
+
+<link href="https://sudocast.github.io/css/grey.css" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville" rel="stylesheet"> 
+<link rel="icon" type="image/png" href="https://sudocast.github.io/img/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://sudocast.github.io/img/favicon-16x16.png" sizes="16x16">
+
+
+    <link rel="stylesheet" href="https://sudocast.github.io/css/custom.css">
+
+
+
+</head>
+
+<body lang="">
+<nav class="navbar fixed-top navbar-toggleable-sm navbar-light bg-faded">
+<div class="container">
+    <a class="navbar-brand" href="https://sudocast.github.io/"><img src="https://sudocast.github.io/img/icon.png" /></a>
+    
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+  <ul class="navbar-nav mr-auto">
+    
+    
+      
+          <li class= "nav-item ">
+          <a href="https://sudocast.github.io/host" class="nav-link">
+              
+              <span>Hosts</span>
+          </a>
+        </li>
+      
+    
+      
+          <li class= "nav-item ">
+          <a href="https://sudocast.github.io/guest" class="nav-link">
+              
+              <span>Convidados</span>
+          </a>
+        </li>
+      
+    
+      
+          <li class= "nav-item ">
+          <a href="https://sudocast.github.io/contact" class="nav-link">
+              
+              <span>Contato</span>
+          </a>
+        </li>
+      
+    
+  </ul>
+
+
+      <ul class="navbar-nav ml-auto">
+        
+          <li>
+            <a class = "social-links" href="https://facebook.com/1sudocast"><i class="fab fa-facebook-square fa-2x"></i></a>
+          </li>
+        
+        
+          <li>
+            <a class = "social-links" href="https://twitter.com/sudocast"><i class="fab fa-twitter-square fa-2x"></i></a>
+          </li>
+        
+        
+        
+        
+        
+          <li>
+            <a class = "social-links" href="https://www.instagram.com/sudocast"><i class="fab fa-instagram fa-2x"></i></a>
+          </li>
+        
+        
+        
+          <li>
+            <a class = "social-links" href="https://github.com/sudocast"><i class="fab fa-github-square fa-2x"></i></a>
+          </li>
+        
+        
+      </ul>
+  </div>
+  </div>
+  </nav>
+
+<div class="container middle_container">
+  
+
+  <div class="row">
+    <div class="col">
+      <h1>#14 - Programação Funcional 101</h1>
+      <small>Posted on Sunday, Jun 10, 2018</small>
+    </div>
+  </div>
+
+  
+    
+      <div class = "row">
+      <div class = "col">
+        <img src="https://sudocast.github.io/img/episode/functional.png" class="img-fluid episode_image"/>
+      </div>
+      </div>
+      <div class = "row">
+      <div class = "col">
+        Olá mundo =)<br/><br/> Neste episódio do Sudocast, <a href="https://www.twitter.com/perylemke">Pery Lemke</a>, <a href="https://twitter.com/lerrua">Igor Leroy</a> e <a href="https://twitter.com/renanranelli">Renan “Millhouse” Ranelli</a> batem um papo sobre Programação Funcional, um paradigma de programação que está bem em voga hoje em dia. <br/><br/> Descubra neste podcast que nem tudo é tão novo quanto parece, a usar sempre constantes, a se irritar com a sintaxe e como um engenheiro químico se tornou programador. <br/><br/> Introdução: <a href="https://www.facebook.com/ApicultoresClandestinos">Apicultores Clandestinos</a> - <a href="https://soundcloud.com/apicultores-clandestinos/09-eu-tenho-uma-camiseta">Eu tenho uma camiseta escrita eu já sabia</a> <br/><br/> Edição, Sonorização e arte da capa: <a href="https://www.youtube.com/ferraduravideo">Johnny Duluti</a> <br/><br/>
+      </div>
+      </div>
+    
+    <div class="row">
+        <div class="col-md-12 player_row">
+          <audio src="http://media.blubrry.com/sudocast1/content.blubrry.com/sudocast1/sudocast014.mp3" preload="auto"/>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-11 col-md-offset-1">
+          <a href="http://media.blubrry.com/sudocast1/content.blubrry.com/sudocast1/sudocast014.mp3">Direct Download</a>
+        </div>
+      </div><div class="row">
+    <div class="col">
+      <h2>Show Notes</h2>
+      <ul>
+<li><a href="https://medium.com/trainingcenter/programa%C3%A7%C3%A3o-funcional-para-iniciantes-9e2beddb5b43">Programação funcional para iniciantes</a></li>
+<li><a href="https://pt.stackoverflow.com/questions/122616/diferen%c3%a7a-entre-uma-linguagem-bloqueante-e-uma-linguagem-n%c3%a3o-bloqueante">Diferença entre uma linguagem bloqueante e uma linguagem não bloqueante</a></li>
+<li><a href="https://www.coursera.org/learn/programming-languages">Programming languages no Coursera</a></li>
+<li><a href="http://www.gotw.ca/publications/concurrency-ddj.htm">The Free Lunch is Over</a></li>
+<li><a href="https://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X">Seven Languages in Seven Weeks</a></li>
+<li><a href="http://blog.plataformatec.com.br/2016/05/beyond-functional-programming-with-elixir-and-erlang/">Beyond Functional Programming with Elixir and Erlang</a></li>
+<li><a href="https://www.youtube.com/watch?v=blGJ_p4plbc">Phoenix after 100,000 lines</a></li>
+<li><a href="https://pt.coursera.org/specializations/scala">Curso de Scala no Coursera</a></li>
+<li><a href="https://www.amazon.com.br/Land-Lisp-Learn-Program-Game/dp/1593272812">Land of Lisp</a></li>
+<li><a href="http://patshaughnessy.net/ruby-under-a-microscope">Ruby Under Microscope</a></li>
+</ul>
+
+    </div>
+  </div>
+
+  
+        <div class="row">
+          <div class="col">
+            <h2>Guests</h2>
+          </div>
+        </div>
+            
+              <div class="row person_row">
+                  <div class="col-md-3"><img alt="Renan Ranelli" src="https://sudocast.github.io/img/guest/milhouse.png" class="img-fluid" width="250px"></div>
+                  <div class="col-md-8">
+                    <h2><a href = "https://sudocast.github.io/guest/millhouse">Renan Ranelli</a></h2>
+                    <p>My name is Renan Ranelli. I’m a {chemical,software} engineer, Emacs aficionado, sometimes gamer and permanently nerd.</p>
+<a href="http://milhouseonsoftware.com/">
+                        <i class="fas fa-home fa-2x"></i>
+                      </a><a href="https://twitter.com/renanranelli">
+                        <i class="fab fa-twitter-square fa-2x"></i>
+                      </a><a href="https://github.com/rranelli">
+                        <i class="fab fa-github-square fa-2x"></i>
+                      </a><a href="https://www.linkedin.com/in/renan-ranelli">
+                        <i class="fab fa-linkedin fa-2x"></i>
+                      </a></div>
+                  </div>
+
+                
+            
+  
+
+  
+
+<hr />
+  
+<hr />
+      <div class="row">
+        
+        <div class="col-md-12">
+          <div id="share"></div>
+        </div>
+      </div>
+      
+      
+      <div class="row">
+        
+        <div class="col-md-12">
+          <nav>
+            <ul class="pagination">
+              
+                <li class="page-item">
+                  <a href="https://sudocast.github.io/13-a-nova-era-dos-microservicos/" class="page-link">
+                    <span aria-hidden="true">&larr;</span>
+                    Previous</a>
+                </li>
+                
+              
+                <li class="page-item">
+                  <a href="https://sudocast.github.io/15-o-mundo-magico-dos-controles-de-versao/" class="page-link">Next
+                    <span aria-hidden="true">&rarr;</span>
+                  </a>
+                </li>
+                
+            </ul>
+          </nav>
+        </div>
+      </div>
+      
+    
+</div> 
+<div class = "container bottom_container">
+  <div class="row">
+  <div class="col-md-12">
+    <nav class = "navbar navbar-default navbar_footer">
+    <ul class="nav navbar-nav navbar-right">
+      
+        <li style="text-align:center;">
+          <p class = "footer_copyright">
+              <img src="https://sudocast.github.io/img/logo-sudocast.png" />
+          </p>
+        </li>
+      
+      <li>
+        &nbsp;
+      </li>
+    </ul>
+  </nav>
+
+  </div>
+</div>
+</div>
+<script src=https://sudocast.github.io/js/castanet-min.js></script>
+<script>
+    $("#share").jsSocials({
+        shares: [
+      {
+        share: "facebook",
+        logo: "fab fa-facebook",
+      },
+      {
+        share: "twitter",           
+        label: "Tweet",             
+        logo: "fab fa-twitter",
+        
+          via: "sudocast",       
+        
+        url: "",
+        text: "#14 - Programação Funcional 101"
+      },
+      {
+        share: "linkedin",
+        logo: "fab fa-linkedin"
+      },
+      {
+        share: "pinterest",
+        logo: "fab fa-pinterest"
+      }
+    ],
+    });
+</script>
+<script>
+audiojs.events.ready(function() {
+  var as = audiojs.createAll({
+    imageLocation: '\/img\/player-graphics.gif',
+    retinaImageLocation: '\/img\/player-graphics@2x.gif',
+    swfLocation: '\/swf\/audiojs.swf'
+   });
+ });
+</script>
+
+
+
+</body>
+</html>
+

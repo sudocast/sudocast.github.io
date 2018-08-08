@@ -6,13 +6,40 @@
     <description>Recent content on SudoCast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 07 May 2018 04:10:01 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jun 2018 04:10:01 -0500</lastBuildDate>
     
 	<atom:link href="https://sudocast.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>#12 - Não deixe o Samba morrer (&#43;18)</title>
+      <title>#15 - O Mundo Mágico dos Controles de Versão</title>
+      <link>https://sudocast.github.io/15-o-mundo-magico-dos-controles-de-versao/</link>
+      <pubDate>Tue, 26 Jun 2018 04:10:01 -0500</pubDate>
+      
+      <guid>https://sudocast.github.io/15-o-mundo-magico-dos-controles-de-versao/</guid>
+      <description> Git e Github são coisas diferentes Sistemas de Controle de Versão SVN CVS Mercurial Gitlab Github Compra do Github pela Microsoft Memes da compra  </description>
+    </item>
+    
+    <item>
+      <title>#14 - Programação Funcional 101</title>
+      <link>https://sudocast.github.io/14-programacao-funcional-101/</link>
+      <pubDate>Sun, 10 Jun 2018 04:10:01 -0500</pubDate>
+      
+      <guid>https://sudocast.github.io/14-programacao-funcional-101/</guid>
+      <description> Programação funcional para iniciantes Diferença entre uma linguagem bloqueante e uma linguagem não bloqueante Programming languages no Coursera The Free Lunch is Over Seven Languages in Seven Weeks Beyond Functional Programming with Elixir and Erlang Phoenix after 100,000 lines Curso de Scala no Coursera Land of Lisp Ruby Under Microscope  </description>
+    </item>
+    
+    <item>
+      <title>#13 - A Nova Era dos Microserviços</title>
+      <link>https://sudocast.github.io/13-a-nova-era-dos-microservicos/</link>
+      <pubDate>Thu, 24 May 2018 04:10:01 -0500</pubDate>
+      
+      <guid>https://sudocast.github.io/13-a-nova-era-dos-microservicos/</guid>
+      <description> Martin Fowler - Microservices MTBF MTTR DataDog Prometheus Zabbix REST is the new SOAP Calçado’s Microservices Prerequisites Microservices Observability How to choose a database for your microservices What’s a service mesh? And why do I need one? Pattern: Service Mesh  </description>
+    </item>
+    
+    <item>
+      <title>Ep. 0012 - Não deixe o Samba morrer (&#43;18)</title>
       <link>https://sudocast.github.io/12-nao-deixe-o-samba-morrer/</link>
       <pubDate>Mon, 07 May 2018 04:10:01 -0500</pubDate>
       
@@ -150,6 +177,92 @@ Enviar   $(&amp;ldquo;#contactForm&amp;rdquo;).validate();</description>
     </item>
     
     <item>
+      <title>Ayslan Schmidt</title>
+      <link>https://sudocast.github.io/guest/aschmidt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudocast.github.io/guest/aschmidt/</guid>
+      <description> passionate sourcer cat lover masterchef beginner blondie  </description>
+    </item>
+    
+    <item>
+      <title>Cesar Gimenes</title>
+      <link>https://sudocast.github.io/guest/cgimenes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudocast.github.io/guest/cgimenes/</guid>
+      <description>Trabalha com tecnologia desde a década de 90. Já atuou na área de educação e participou de projetos de mobilidade de grande volume para laboratórios farmacêuticos. Criou games tanto para PC, como para iOS. Hoje está direcionando seus esforços em plataformas de Sistemas Embarcados, IoT, microservices e cloud computing. É um entusiasta de tecnologias como Golang e Docker.</description>
+    </item>
+    
+    <item>
+      <title>Daniel Romero</title>
+      <link>https://sudocast.github.io/guest/infoslack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudocast.github.io/guest/infoslack/</guid>
+      <description>I&amp;rsquo;m a developer, technical writer, speaker and currently SRE.
+I started my career as sysadmin, I worked several years configuring and maintaining bare-metal Linux servers. I&amp;rsquo;ve also closely followed the arrival of virtualization in servers and later the process of containerization.
+During this journey I acquired new skills that gave me the opportunity to work as a software engineer with PHP, Java and Ruby. In addition I worked for a few years with pentest focused on web application security.</description>
+    </item>
+    
+    <item>
+      <title>Felipe Oliveira</title>
+      <link>https://sudocast.github.io/guest/foliveira/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudocast.github.io/guest/foliveira/</guid>
+      <description>Gopher at @nuveo in his spare time loves contributing to opensource projects giving special attention to projects written in Java or Go.</description>
+    </item>
+    
+    <item>
+      <title>Fernando Ike</title>
+      <link>https://sudocast.github.io/guest/fike/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudocast.github.io/guest/fike/</guid>
+      <description>Hello!!! I’m Fernando Ike and also known as fike. I’m on road in the IT road a far away, since internet was access using modem 14.4k. I had have many roles (manager, sysadmin, pseudo-developer, etc.) in the IT and now I’m StackPath Solution Engineer.
+I contributed in some Opensource projects like Debian, PostgreSQL and Zabbix. Nowadays, my interests are relate how to transform low performance to high performance companies and people.</description>
+    </item>
+    
+    <item>
+      <title>Gabriel Ferreira</title>
+      <link>https://sudocast.github.io/guest/gferreira/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudocast.github.io/guest/gferreira/</guid>
+      <description>O programador de humanas. Criador de conteúdo e marketeiro na Alura e grupo Caelum, roteirista do Vida de Hipster e host do Alura Live.</description>
+    </item>
+    
+    <item>
+      <title>Gabriela Casagranda</title>
+      <link>https://sudocast.github.io/guest/gcasagranda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudocast.github.io/guest/gcasagranda/</guid>
+      <description>Recrutamento, Feminismo, Netflix e Pole Dance.</description>
+    </item>
+    
+    <item>
+      <title>Igor Leroy</title>
+      <link>https://sudocast.github.io/host/ileroy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudocast.github.io/host/ileroy/</guid>
+      <description>I&amp;rsquo;m a developer with +10 years of experience, I started my career as a web developer through languages and frameworks like PHP, Zope/Plone, J2EE, Ruby on Rails and Django.
+In those 10 years I worked as web developer, full stack programmer and team leader, where I had interesting experiences like teaching workshops, lecturing on events and helping to organize Meetups in my local Python community.
+I currently working Home Office, writing APIs, architecting micro services and dealing with large databases, which is why I have studied a lot of topics around Data Science and Machine Learning.</description>
+    </item>
+    
+    <item>
+      <title>Jaydson Gomes</title>
+      <link>https://sudocast.github.io/guest/jgomes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudocast.github.io/guest/jgomes/</guid>
+      <description>@braziljs co-founder, @NascHQ co-founder, JavaScript developer</description>
+    </item>
+    
+    <item>
       <title>Jeferson Fernando</title>
       <link>https://sudocast.github.io/guest/jfernando/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -168,6 +281,16 @@ Enviar   $(&amp;ldquo;#contactForm&amp;rdquo;).validate();</description>
     </item>
     
     <item>
+      <title>Jonh Wendell</title>
+      <link>https://sudocast.github.io/guest/jwendell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudocast.github.io/guest/jwendell/</guid>
+      <description>I&amp;rsquo;m a Brazilian software developer. I was born in Maceió, Alagoas, Brasil. Maceió is known as Water Paradise, because its wonderful beaches and lagoons. Now I live in São Paulo.
+I am married and have two beautiful children. I work for Red Hat.</description>
+    </item>
+    
+    <item>
       <title>Jônatas Paganini</title>
       <link>https://sudocast.github.io/guest/jpaganini/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -183,6 +306,15 @@ Enviar   $(&amp;ldquo;#contactForm&amp;rdquo;).validate();</description>
       
       <guid>https://sudocast.github.io/guest/lportella/</guid>
       <description>a happy dev, in love with data science, co-founder of @pizzadedados and director of @apyb</description>
+    </item>
+    
+    <item>
+      <title>Lucas Fernandes</title>
+      <link>https://sudocast.github.io/guest/lfernandes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudocast.github.io/guest/lfernandes/</guid>
+      <description>Lucas is a Brazilian software engineer living in London. He breathes JavaScript and is passionate about open source. He is a core team member of Chai.js and Sinon.js, two of the most popular libraries in the JS ecosystem, and is always trying to find better and more efficient ways to solve problems. His motto is “strive to be lazy.”</description>
     </item>
     
     <item>
@@ -256,12 +388,39 @@ Core Organizer do DevOpsDays</description>
     </item>
     
     <item>
+      <title>Renan Ranelli</title>
+      <link>https://sudocast.github.io/guest/millhouse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudocast.github.io/guest/millhouse/</guid>
+      <description>My name is Renan Ranelli. I’m a {chemical,software} engineer, Emacs aficionado, sometimes gamer and permanently nerd.</description>
+    </item>
+    
+    <item>
+      <title>Ricardo Shuree</title>
+      <link>https://sudocast.github.io/guest/rshuree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudocast.github.io/guest/rshuree/</guid>
+      <description>Passionate about brazilian jiu-jitsu, sailor, artist, blockchain enthusiast, musician, in spare time I work with technology.</description>
+    </item>
+    
+    <item>
       <title>Talita Rossari</title>
       <link>https://sudocast.github.io/guest/trossari/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sudocast.github.io/guest/trossari/</guid>
       <description>Desenvolvedora Junior na Agrosatelite. Co-organizadora do Pyladies Floripa.</description>
+    </item>
+    
+    <item>
+      <title>Thiago Avelino</title>
+      <link>https://sudocast.github.io/guest/tavelino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sudocast.github.io/guest/tavelino/</guid>
+      <description>Engineer/Founder at @nuveohq. I&amp;rsquo;m a New Tech, #Golang, #Clojure, #Datomic, Neural Network and Artificial Intelligence (#ai) specialist in Brazil</description>
     </item>
     
   </channel>

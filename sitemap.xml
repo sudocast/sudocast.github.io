@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sudocast.github.io/15-o-mundo-magico-dos-controles-de-versao/</loc>
+    <lastmod>2018-06-26T04:10:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sudocast.github.io/14-programacao-funcional-101/</loc>
+    <lastmod>2018-06-10T04:10:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sudocast.github.io/13-a-nova-era-dos-microservicos/</loc>
+    <lastmod>2018-05-24T04:10:01-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sudocast.github.io/12-nao-deixe-o-samba-morrer/</loc>
     <lastmod>2018-05-07T04:10:01-05:00</lastmod>
   </url>
@@ -83,14 +98,42 @@
   </url>
   
   <url>
+    <loc>https://sudocast.github.io/guest/aschmidt/</loc>
+  </url>
+  
+  <url>
     <loc>https://sudocast.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://sudocast.github.io/guest/cgimenes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sudocast.github.io/guest/infoslack/</loc>
+  </url>
+  
+  <url>
     <loc>https://sudocast.github.io/episode/</loc>
-    <lastmod>2018-05-07T04:10:01-05:00</lastmod>
+    <lastmod>2018-06-26T04:10:01-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sudocast.github.io/guest/foliveira/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sudocast.github.io/guest/fike/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sudocast.github.io/guest/gferreira/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sudocast.github.io/guest/gcasagranda/</loc>
   </url>
   
   <url>
@@ -104,6 +147,14 @@
   </url>
   
   <url>
+    <loc>https://sudocast.github.io/host/ileroy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sudocast.github.io/guest/jgomes/</loc>
+  </url>
+  
+  <url>
     <loc>https://sudocast.github.io/guest/jfernando/</loc>
   </url>
   
@@ -112,11 +163,19 @@
   </url>
   
   <url>
+    <loc>https://sudocast.github.io/guest/jwendell/</loc>
+  </url>
+  
+  <url>
     <loc>https://sudocast.github.io/guest/jpaganini/</loc>
   </url>
   
   <url>
     <loc>https://sudocast.github.io/guest/lportella/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sudocast.github.io/guest/lfernandes/</loc>
   </url>
   
   <url>
@@ -148,8 +207,16 @@
   </url>
   
   <url>
+    <loc>https://sudocast.github.io/guest/millhouse/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sudocast.github.io/guest/rshuree/</loc>
+  </url>
+  
+  <url>
     <loc>https://sudocast.github.io/</loc>
-    <lastmod>2018-05-07T04:10:01-05:00</lastmod>
+    <lastmod>2018-06-26T04:10:01-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -160,6 +227,10 @@
   
   <url>
     <loc>https://sudocast.github.io/guest/trossari/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sudocast.github.io/guest/tavelino/</loc>
   </url>
   
 </urlset>

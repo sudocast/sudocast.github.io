@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html itemscope lang="pt-BR">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <meta name="description" content="Olá mundo =)&lt;br/&gt;&lt;br/&gt; Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Igor Leroy](https://twitter.com/lerrua) e [Daniel “InfoSlack” Romero](https://twitter.com/infoslack) batem um papo sobre Microserviços, que é uma arquitetura de sistemas que está sendo muito adotada no mercado hoje em dia.&lt;br/&gt;&lt;br/&gt; Descubra neste podcast, os 7 passos para quebrar seu monolito em serviços, que realmente não existe bala de prata e que não se deve deixar levar pelo hype. &lt;br/&gt;&lt;br/&gt; Introdução: [Space Chicken &amp; the Eggs of Disaster](https://www.facebook.com/spacechickenSC/) - [Reality Check](https://www.youtube.com/watch?v=RAV7zgjybsM) &lt;br/&gt;&lt;br/&gt; Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) &lt;br/&gt;&lt;br/&gt;">
+
+<meta name="generator" content="Hugo 0.37.1" />
+
+
+<meta property="og:title" content="#13 - A Nova Era Dos Microserviços" />
+<meta property="og:description" content="Olá mundo =)&lt;br/&gt;&lt;br/&gt; Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Igor Leroy](https://twitter.com/lerrua) e [Daniel “InfoSlack” Romero](https://twitter.com/infoslack) batem um papo sobre Microserviços, que é uma arquitetura de sistemas que está sendo muito adotada no mercado hoje em dia.&lt;br/&gt;&lt;br/&gt; Descubra neste podcast, os 7 passos para quebrar seu monolito em serviços, que realmente não existe bala de prata e que não se deve deixar levar pelo hype. &lt;br/&gt;&lt;br/&gt; Introdução: [Space Chicken &amp; the Eggs of Disaster](https://www.facebook.com/spacechickenSC/) - [Reality Check](https://www.youtube.com/watch?v=RAV7zgjybsM) &lt;br/&gt;&lt;br/&gt; Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) &lt;br/&gt;&lt;br/&gt;" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://sudocast.github.io/13-a-nova-era-dos-microservicos/" />
+
+  
+    <meta property="og:image" content="https://sudocast.github.io/img/episode/microservices.png" />
+  
+
+
+
+<meta property="og:updated_time" content="2018-05-24 04:10:01 -0500 -0500"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta property="article:author" content="https://www.facebook.com/" />
+
+<meta property="article:publisher" content="https://www.facebook.com/1sudocast" />
+
+  
+    <meta property="article:published_time" content="2018-05-24 04:10:01 -0500 -0500" />
+  
+
+<meta property="article:modified_time" content="2018-05-24 04:10:01 -0500 -0500" />
+<meta property="article:section" content="episode" />
+
+
+
+
+
+
+<meta itemprop="name" content="#13 - A Nova Era dos Microserviços">
+<meta itemprop="description" content="Olá mundo =)&lt;br/&gt;&lt;br/&gt; Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Igor Leroy](https://twitter.com/lerrua) e [Daniel “InfoSlack” Romero](https://twitter.com/infoslack) batem um papo sobre Microserviços, que é uma arquitetura de sistemas que está sendo muito adotada no mercado hoje em dia.&lt;br/&gt;&lt;br/&gt; Descubra neste podcast, os 7 passos para quebrar seu monolito em serviços, que realmente não existe bala de prata e que não se deve deixar levar pelo hype. &lt;br/&gt;&lt;br/&gt; Introdução: [Space Chicken &amp; the Eggs of Disaster](https://www.facebook.com/spacechickenSC/) - [Reality Check](https://www.youtube.com/watch?v=RAV7zgjybsM) &lt;br/&gt;&lt;br/&gt; Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) &lt;br/&gt;&lt;br/&gt;">
+
+
+
+  
+    <meta itemprop="image" content="https://sudocast.github.io/img/episode/microservices.png">
+  
+
+
+
+<meta itemprop="keywords" content="" />
+
+
+<meta itemprop="wordCount" content="40">
+
+
+
+
+	<meta name="twitter:card" content="summary_large_image"/>
+  
+	 <meta name="twitter:image:src" content="https://sudocast.github.io/img/episode/microservices.png"/>
+  
+
+
+
+<meta name="twitter:title" content="#13 - A Nova Era dos Microserviços"/>
+<meta name="twitter:description" content="Olá mundo =)&lt;br/&gt;&lt;br/&gt; Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Igor Leroy](https://twitter.com/lerrua) e [Daniel “InfoSlack” Romero](https://twitter.com/infoslack) batem um papo sobre Microserviços, que é uma arquitetura de sistemas que está sendo muito adotada no mercado hoje em dia.&lt;br/&gt;&lt;br/&gt; Descubra neste podcast, os 7 passos para quebrar seu monolito em serviços, que realmente não existe bala de prata e que não se deve deixar levar pelo hype. &lt;br/&gt;&lt;br/&gt; Introdução: [Space Chicken &amp; the Eggs of Disaster](https://www.facebook.com/spacechickenSC/) - [Reality Check](https://www.youtube.com/watch?v=RAV7zgjybsM) &lt;br/&gt;&lt;br/&gt; Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) &lt;br/&gt;&lt;br/&gt;"/>
+<meta name="twitter:site" content="@sudocast"/>
+
+
+	
+	
+
+
+
+
+<title>
+
+
+     #13 - A Nova Era dos Microserviços 
+
+</title>
+<link rel="canonical" href="https://sudocast.github.io/13-a-nova-era-dos-microservicos/">
+
+<link href="https://sudocast.github.io/css/grey.css" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville" rel="stylesheet"> 
+<link rel="icon" type="image/png" href="https://sudocast.github.io/img/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://sudocast.github.io/img/favicon-16x16.png" sizes="16x16">
+
+
+    <link rel="stylesheet" href="https://sudocast.github.io/css/custom.css">
+
+
+
+</head>
+
+<body lang="">
+<nav class="navbar fixed-top navbar-toggleable-sm navbar-light bg-faded">
+<div class="container">
+    <a class="navbar-brand" href="https://sudocast.github.io/"><img src="https://sudocast.github.io/img/icon.png" /></a>
+    
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+  <ul class="navbar-nav mr-auto">
+    
+    
+      
+          <li class= "nav-item ">
+          <a href="https://sudocast.github.io/host" class="nav-link">
+              
+              <span>Hosts</span>
+          </a>
+        </li>
+      
+    
+      
+          <li class= "nav-item ">
+          <a href="https://sudocast.github.io/guest" class="nav-link">
+              
+              <span>Convidados</span>
+          </a>
+        </li>
+      
+    
+      
+          <li class= "nav-item ">
+          <a href="https://sudocast.github.io/contact" class="nav-link">
+              
+              <span>Contato</span>
+          </a>
+        </li>
+      
+    
+  </ul>
+
+
+      <ul class="navbar-nav ml-auto">
+        
+          <li>
+            <a class = "social-links" href="https://facebook.com/1sudocast"><i class="fab fa-facebook-square fa-2x"></i></a>
+          </li>
+        
+        
+          <li>
+            <a class = "social-links" href="https://twitter.com/sudocast"><i class="fab fa-twitter-square fa-2x"></i></a>
+          </li>
+        
+        
+        
+        
+        
+          <li>
+            <a class = "social-links" href="https://www.instagram.com/sudocast"><i class="fab fa-instagram fa-2x"></i></a>
+          </li>
+        
+        
+        
+          <li>
+            <a class = "social-links" href="https://github.com/sudocast"><i class="fab fa-github-square fa-2x"></i></a>
+          </li>
+        
+        
+      </ul>
+  </div>
+  </div>
+  </nav>
+
+<div class="container middle_container">
+  
+
+  <div class="row">
+    <div class="col">
+      <h1>#13 - A Nova Era Dos Microserviços</h1>
+      <small>Posted on Thursday, May 24, 2018</small>
+    </div>
+  </div>
+
+  
+    
+      <div class = "row">
+      <div class = "col">
+        <img src="https://sudocast.github.io/img/episode/microservices.png" class="img-fluid episode_image"/>
+      </div>
+      </div>
+      <div class = "row">
+      <div class = "col">
+        Olá mundo =)<br/><br/> Neste episódio do Sudocast, <a href="https://www.twitter.com/perylemke">Pery Lemke</a>, <a href="https://twitter.com/lerrua">Igor Leroy</a> e <a href="https://twitter.com/infoslack">Daniel “InfoSlack” Romero</a> batem um papo sobre Microserviços, que é uma arquitetura de sistemas que está sendo muito adotada no mercado hoje em dia.<br/><br/> Descubra neste podcast, os 7 passos para quebrar seu monolito em serviços, que realmente não existe bala de prata e que não se deve deixar levar pelo hype. <br/><br/> Introdução: <a href="https://www.facebook.com/spacechickenSC/">Space Chicken &amp; the Eggs of Disaster</a> - <a href="https://www.youtube.com/watch?v=RAV7zgjybsM">Reality Check</a> <br/><br/> Edição e Sonorização: <a href="https://www.youtube.com/ferraduravideo">Johnny Duluti</a> <br/><br/>
+      </div>
+      </div>
+    
+    <div class="row">
+        <div class="col-md-12 player_row">
+          <audio src="http://media.blubrry.com/sudocast1/content.blubrry.com/sudocast1/sudocast013.mp3" preload="auto"/>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-11 col-md-offset-1">
+          <a href="http://media.blubrry.com/sudocast1/content.blubrry.com/sudocast1/sudocast013.mp3">Direct Download</a>
+        </div>
+      </div><div class="row">
+    <div class="col">
+      <h2>Show Notes</h2>
+      <ul>
+<li><a href="https://www.martinfowler.com/articles/microservices.html">Martin Fowler - Microservices</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mean_time_between_failures">MTBF</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mean_time_to_repair">MTTR</a></li>
+<li><a href="https://www.datadoghq.com/">DataDog</a></li>
+<li><a href="https://prometheus.io/">Prometheus</a></li>
+<li><a href="https://www.zabbix.com/">Zabbix</a></li>
+<li><a href="https://medium.freecodecamp.org/rest-is-the-new-soap-97ff6c09896d">REST is the new SOAP</a></li>
+<li><a href="http://philcalcado.com/2017/06/11/calcados_microservices_prerequisites.html">Calçado’s Microservices Prerequisites</a></li>
+<li><a href="https://medium.com/observability/microservices-observability-26a8b7056bb4">Microservices Observability</a></li>
+<li><a href="https://www.infoworld.com/article/3236291/database/how-to-choose-a-database-for-your-microservices.html">How to choose a database for your microservices</a></li>
+<li><a href="https://buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one/">What’s a service mesh? And why do I need one?</a></li>
+<li><a href="http://philcalcado.com/2017/08/03/pattern_service_mesh.html">Pattern: Service Mesh</a></li>
+</ul>
+
+    </div>
+  </div>
+
+  
+        <div class="row">
+          <div class="col">
+            <h2>Guests</h2>
+          </div>
+        </div>
+            
+              <div class="row person_row">
+                  <div class="col-md-3"><img alt="Daniel Romero" src="https://sudocast.github.io/img/guest/infoslack.png" class="img-fluid" width="250px"></div>
+                  <div class="col-md-8">
+                    <h2><a href = "https://sudocast.github.io/guest/infoslack">Daniel Romero</a></h2>
+                    <p>I&rsquo;m a developer, technical writer, speaker and currently SRE.</p>
+
+<p>I started my career as sysadmin, I worked several years configuring and maintaining bare-metal Linux servers. I&rsquo;ve also closely followed the arrival of virtualization in servers and later the process of containerization.</p>
+
+<p>During this journey I acquired new skills that gave me the opportunity to work as a software engineer with PHP, Java and Ruby. In addition I worked for a few years with pentest focused on web application security.</p>
+
+<p>Over the years I&rsquo;ve kept myself updated and embraced the DevOps culture, working later with Ansible, Docker and Kubernetes. Currently I work as SRE which my main responsabilities are writing Golang system projects to keep the production Kubernetes clusters running.</p>
+
+<p>Besides being confortable with AWS, Google Cloud and Azure. I have also skills with cloud performance and Linux Kernel.</p>
+<a href="https://infoslack.pro/">
+                        <i class="fas fa-home fa-2x"></i>
+                      </a><a href="https://twitter.com/infoslack">
+                        <i class="fab fa-twitter-square fa-2x"></i>
+                      </a><a href="https://github.com/infoslack">
+                        <i class="fab fa-github-square fa-2x"></i>
+                      </a><a href="https://www.linkedin.com/in/infoslack">
+                        <i class="fab fa-linkedin fa-2x"></i>
+                      </a></div>
+                  </div>
+
+                
+            
+  
+
+  
+
+<hr />
+  
+<hr />
+      <div class="row">
+        
+        <div class="col-md-12">
+          <div id="share"></div>
+        </div>
+      </div>
+      
+      
+      <div class="row">
+        
+        <div class="col-md-12">
+          <nav>
+            <ul class="pagination">
+              
+                <li class="page-item">
+                  <a href="https://sudocast.github.io/12-nao-deixe-o-samba-morrer/" class="page-link">
+                    <span aria-hidden="true">&larr;</span>
+                    Previous</a>
+                </li>
+                
+              
+                <li class="page-item">
+                  <a href="https://sudocast.github.io/14-programacao-funcional-101/" class="page-link">Next
+                    <span aria-hidden="true">&rarr;</span>
+                  </a>
+                </li>
+                
+            </ul>
+          </nav>
+        </div>
+      </div>
+      
+    
+</div> 
+<div class = "container bottom_container">
+  <div class="row">
+  <div class="col-md-12">
+    <nav class = "navbar navbar-default navbar_footer">
+    <ul class="nav navbar-nav navbar-right">
+      
+        <li style="text-align:center;">
+          <p class = "footer_copyright">
+              <img src="https://sudocast.github.io/img/logo-sudocast.png" />
+          </p>
+        </li>
+      
+      <li>
+        &nbsp;
+      </li>
+    </ul>
+  </nav>
+
+  </div>
+</div>
+</div>
+<script src=https://sudocast.github.io/js/castanet-min.js></script>
+<script>
+    $("#share").jsSocials({
+        shares: [
+      {
+        share: "facebook",
+        logo: "fab fa-facebook",
+      },
+      {
+        share: "twitter",           
+        label: "Tweet",             
+        logo: "fab fa-twitter",
+        
+          via: "sudocast",       
+        
+        url: "",
+        text: "#13 - A Nova Era Dos Microserviços"
+      },
+      {
+        share: "linkedin",
+        logo: "fab fa-linkedin"
+      },
+      {
+        share: "pinterest",
+        logo: "fab fa-pinterest"
+      }
+    ],
+    });
+</script>
+<script>
+audiojs.events.ready(function() {
+  var as = audiojs.createAll({
+    imageLocation: '\/img\/player-graphics.gif',
+    retinaImageLocation: '\/img\/player-graphics@2x.gif',
+    swfLocation: '\/swf\/audiojs.swf'
+   });
+ });
+</script>
+
+
+
+</body>
+</html>
+
