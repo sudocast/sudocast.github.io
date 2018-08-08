@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hosts on SudoCast</title>
-    <link>https://sudocast.github.io/host/</link>
+    <link>https://www.sudocast.com.br/host/</link>
     <description>Recent content in Hosts on SudoCast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     
-	<atom:link href="https://sudocast.github.io/host/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.sudocast.com.br/host/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Igor Leroy</title>
-      <link>https://sudocast.github.io/host/ileroy/</link>
+      <link>https://www.sudocast.com.br/host/ileroy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sudocast.github.io/host/ileroy/</guid>
+      <guid>https://www.sudocast.com.br/host/ileroy/</guid>
       <description>I&amp;rsquo;m a developer with +10 years of experience, I started my career as a web developer through languages and frameworks like PHP, Zope/Plone, J2EE, Ruby on Rails and Django.
 In those 10 years I worked as web developer, full stack programmer and team leader, where I had interesting experiences like teaching workshops, lecturing on events and helping to organize Meetups in my local Python community.
 I currently working Home Office, writing APIs, architecting micro services and dealing with large databases, which is why I have studied a lot of topics around Data Science and Machine Learning.</description>
@@ -23,19 +23,19 @@ I currently working Home Office, writing APIs, architecting micro services and d
     
     <item>
       <title>Mario Silveira</title>
-      <link>https://sudocast.github.io/host/msilveira/</link>
+      <link>https://www.sudocast.com.br/host/msilveira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sudocast.github.io/host/msilveira/</guid>
+      <guid>https://www.sudocast.com.br/host/msilveira/</guid>
       <description>Teste do Mario!</description>
     </item>
     
     <item>
       <title>Pery Lemke</title>
-      <link>https://sudocast.github.io/host/plemke/</link>
+      <link>https://www.sudocast.com.br/host/plemke/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sudocast.github.io/host/plemke/</guid>
+      <guid>https://www.sudocast.com.br/host/plemke/</guid>
       <description>Site Reliability Engineer na Nuveo.
 Host no SudoCast, podcast que aborda um lado mais humano e engraçado da tecnologia.
 Pythonista pela simplicidade que o Python trás e Gopher porque não existe nada mais perfomático e amor que isso.

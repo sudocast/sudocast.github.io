@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on SudoCast</title>
-    <link>https://sudocast.github.io/categories/</link>
+    <link>https://www.sudocast.com.br/categories/</link>
     <description>Recent content in Categories on SudoCast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     
-	<atom:link href="https://sudocast.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.sudocast.com.br/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
