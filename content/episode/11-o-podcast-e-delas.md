@@ -7,6 +7,7 @@ episode = "11"
 episode_image = "img/episode/thumbs/opodcastehdelas.jpg"
 episode_banner = "img/episode/opodcastehdelas.jpg"
 explicit = "no"
+hosts = ["plemke"]
 guests = ["jtemporal", "psantos", "lportella", "trossari"]
 sponsors = ["geekhunter"]
 images = ["img/episode/opodcastehdelas.png"]

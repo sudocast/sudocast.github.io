@@ -8,6 +8,7 @@ episode = "1"
 episode_image = "img/episode/thumbs/helloworld.jpg"
 episode_banner = "img/episode/helloworld.jpg"
 explicit = "no"
+hosts = ["plemke", "msilveira"]
 guests = ["jpaganini"]
 sponsors = [""]
 images = ["img/episode/helloworld.jpg"]

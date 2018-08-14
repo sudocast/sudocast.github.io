@@ -7,6 +7,7 @@ episode = "8"
 episode_image = "img/episode/thumbs/bitcoin.jpg"
 episode_banner = "img/episode/bitcoin.jpg"
 explicit = "no"
+hosts = ["plemke", "msilveira"]
 guests = ["rshuree"]
 sponsors = ["geekhunter"]
 images = ["img/episode/bitcoin.jpg"]

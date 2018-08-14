@@ -7,6 +7,7 @@ episode = "2"
 episode_image = "img/episode/thumbs/agile.jpg"
 episode_banner = "img/episode/agile.jpg"
 explicit = "no"
+hosts = ["plemke", "msilveira"]
 guests = ["rcaceres"]
 sponsors = ["geekhunter"]
 images = ["img/episode/agile.jpg"]

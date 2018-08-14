@@ -7,6 +7,7 @@ episode = "3"
 episode_image = "img/episode/thumbs/serenata.jpg"
 episode_banner = "img/episode/serenata.jpg"
 explicit = "no"
+hosts = ["plemke", "msilveira"]
 guests = ["jtemporal", "aschwendler"]
 sponsors = ["geekhunter"]
 images = ["img/episode/serenata.jpg"]

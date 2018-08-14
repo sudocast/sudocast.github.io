@@ -7,6 +7,7 @@ episode = "9"
 episode_image = "img/episode/thumbs/technical-recruiting.jpg"
 episode_banner = "img/episode/technical-recruiting.jpg"
 explicit = "no"
+hosts = ["plemke"]
 guests = ["aschmidt", "gcasagranda"]
 sponsors = ["geekhunter"]
 images = ["img/episode/technical-recruiting.jpg"]

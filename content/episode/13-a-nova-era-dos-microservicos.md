@@ -7,6 +7,7 @@ episode = "13"
 episode_image = "img/episode/thumbs/microservices.png"
 episode_banner = "img/episode/microservices.png"
 explicit = "no"
+hosts = ["plemke", "ileroy"]
 guests = ["infoslack"]
 sponsors = ["geekhunter"]
 images = ["img/episode/microservices.png"]

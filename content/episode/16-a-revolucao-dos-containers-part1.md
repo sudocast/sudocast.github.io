@@ -7,6 +7,7 @@ episode = "16"
 episode_image = "img/episode/thumbs/containers1.jpg"
 episode_banner = "img/episode/containers1.jpg"
 explicit = "no"
+hosts = ["plemke", "ileroy"]
 guests = ["fike", "jwendell"]
 sponsors = ["geekhunter"]
 images = ["img/episode/containers1.jpg"]
