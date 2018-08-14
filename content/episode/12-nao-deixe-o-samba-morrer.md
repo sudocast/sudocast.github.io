@@ -4,7 +4,7 @@ aliases = ["/14"]
 author = "Pery Lemke & Igor Leroy"
 date = "2018-05-07T04:10:01-05:00"
 episode = "14"
-episode_image = "img/episode/naodeixeosamba.png"
+episode_image = "img/episode/thumbs/naodeixeosamba.png"
 episode_banner = "img/episode/naodeixeosamba.png"
 explicit = "no"
 guests = ["tavelino"]
@@ -13,7 +13,7 @@ images = ["img/episode/naodeixeosamba.png"]
 podcast_duration = "1:04:09"
 podcast_file = "sudocast012.mp3"
 podcast_bytes = "61592453"
-title = "Ep. 0012 - Não deixe o Samba morrer (+18)"
+title = "#12 - Não deixe o Samba morrer (+18)"
 youtube = ""
 truncate = ""
 +++
