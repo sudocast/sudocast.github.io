@@ -10,7 +10,7 @@
   <meta name="description" content="Esse é o Sudocast, somos um podcast de tecnologia de humor ácido, engraçado que discute os principais temas em voga no mundo de Desenvolvimento de Software.">
   
 
-<meta name="generator" content="Hugo 0.37.1" />
+<meta name="generator" content="Hugo 0.44-DEV" />
 
 
 <meta property="og:title" content="Hosts" />
@@ -76,7 +76,7 @@
 
 <link href="https://www.sudocast.com.br/css/grey.css" rel="stylesheet">
 
-<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css?family=Averia+Serif+Libre|Libre+Baskerville" rel="stylesheet"> 
 <link rel="icon" type="image/png" href="https://www.sudocast.com.br/img/favicon-32x32.png" sizes="32x32">
 <link rel="icon" type="image/png" href="https://www.sudocast.com.br/img/favicon-16x16.png" sizes="16x16">
 
@@ -188,7 +188,7 @@
             
         </div>
       </div><div class="row person_row">
-          <div class="col-md-3"><a href = "https://www.sudocast.com.br/host/ileroy"><img alt="Igor Leroy" src="https://avatars1.githubusercontent.com/u/154603?s=400&amp;v=4" class="img-fluid" width="250px"></a></div>
+          <div class="col-md-3"><a href = "https://www.sudocast.com.br/host/ileroy"><img alt="Igor Leroy" src="https://avatars1.githubusercontent.com/u/154603?s=400&amp;v=4" class="img-center rounded-circle img-fluid jumbotron-host" width="250px"></a></div>
           <div class= "col-md-6">
             <h3><a href = "https://www.sudocast.com.br/host/ileroy">Igor Leroy</a></h3>
             <p><p>I&rsquo;m a developer with +10 years of experience, I started my career as a web developer through languages and frameworks like PHP, Zope/Plone, J2EE, Ruby on Rails and Django.</p>
@@ -213,7 +213,7 @@
             
         </div>
       </div><div class="row person_row">
-          <div class="col-md-3"><a href = "https://www.sudocast.com.br/host/msilveira"><img alt="Mario Silveira" src="https://avatars0.githubusercontent.com/u/10747243?s=400&amp;v=4" class="img-fluid" width="250px"></a></div>
+          <div class="col-md-3"><a href = "https://www.sudocast.com.br/host/msilveira"><img alt="Mario Silveira" src="https://avatars0.githubusercontent.com/u/10747243?s=400&amp;v=4" class="img-center rounded-circle img-fluid jumbotron-host" width="250px"></a></div>
           <div class= "col-md-6">
             <h3><a href = "https://www.sudocast.com.br/host/msilveira">Mario Silveira</a></h3>
             <p>Teste do Mario!</p>
@@ -233,7 +233,7 @@
             
         </div>
       </div><div class="row person_row">
-          <div class="col-md-3"><a href = "https://www.sudocast.com.br/host/plemke"><img alt="Pery Lemke" src="https://avatars3.githubusercontent.com/u/3199483?s=460&amp;v=4" class="img-fluid" width="250px"></a></div>
+          <div class="col-md-3"><a href = "https://www.sudocast.com.br/host/plemke"><img alt="Pery Lemke" src="https://avatars3.githubusercontent.com/u/3199483?s=460&amp;v=4" class="img-center rounded-circle img-fluid jumbotron-host" width="250px"></a></div>
           <div class= "col-md-6">
             <h3><a href = "https://www.sudocast.com.br/host/plemke">Pery Lemke</a></h3>
             <p><p>Site Reliability Engineer na Nuveo.</p>
@@ -331,11 +331,15 @@ audiojs.events.ready(function() {
 </script>
 
 <script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-123621457-1', 'auto');
-ga('send', 'pageview');
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-123621457-1', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
-<script async src='//www.google-analytics.com/analytics.js'></script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 
 

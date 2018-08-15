@@ -9,7 +9,7 @@
 
   <meta name="description" content="Olá mundo =)&lt;br/&gt;&lt;br/&gt; Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Igor Leroy](https://twitter.com/lerrua) e [Renan “Millhouse” Ranelli](https://twitter.com/renanranelli) batem um papo sobre Programação Funcional, um paradigma de programação que está bem em voga hoje em dia. &lt;br/&gt;&lt;br/&gt; Descubra neste podcast que nem tudo é tão novo quanto parece, a usar sempre constantes, a se irritar com a sintaxe e como um engenheiro químico se tornou programador. &lt;br/&gt;&lt;br/&gt; Introdução: [Apicultores Clandestinos](https://www.facebook.com/ApicultoresClandestinos) - [Eu tenho uma camiseta escrita eu já sabia](https://soundcloud.com/apicultores-clandestinos/09-eu-tenho-uma-camiseta) &lt;br/&gt;&lt;br/&gt; Edição, Sonorização e arte da capa: [Johnny Duluti](https://www.youtube.com/ferraduravideo) &lt;br/&gt;&lt;br/&gt;">
 
-<meta name="generator" content="Hugo 0.37.1" />
+<meta name="generator" content="Hugo 0.44-DEV" />
 
 
 <meta property="og:title" content="#14 - Programação Funcional 101" />
@@ -100,7 +100,7 @@
 
 <link href="https://www.sudocast.com.br/css/grey.css" rel="stylesheet">
 
-<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css?family=Averia+Serif+Libre|Libre+Baskerville" rel="stylesheet"> 
 <link rel="icon" type="image/png" href="https://www.sudocast.com.br/img/favicon-32x32.png" sizes="32x32">
 <link rel="icon" type="image/png" href="https://www.sudocast.com.br/img/favicon-16x16.png" sizes="16x16">
 
@@ -239,16 +239,14 @@
   
         <div class="row">
           <div class="col">
-            <h2>Guests</h2>
+            <h2>Convidados</h2>
           </div>
         </div>
             
               <div class="row person_row">
-                  <div class="col-md-3"><img alt="Renan Ranelli" src="https://www.sudocast.com.br/img/guest/milhouse.png" class="img-fluid" width="250px"></div>
+                  <div class="col-md-3"><img alt="Renan Ranelli" src="https://www.sudocast.com.br/img/guest/milhouse.png" class="img-center rounded-circle img-fluid jumbotron-host" width="180px"></div>
                   <div class="col-md-8">
-                    <h2><a href = "https://www.sudocast.com.br/guest/millhouse">Renan Ranelli</a></h2>
-                    <p>My name is Renan Ranelli. I’m a {chemical,software} engineer, Emacs aficionado, sometimes gamer and permanently nerd.</p>
-<a href="http://milhouseonsoftware.com/">
+                    <h2><a href = "https://www.sudocast.com.br/guest/millhouse">Renan Ranelli</a></h2><a href="http://milhouseonsoftware.com/">
                         <i class="fas fa-home fa-2x"></i>
                       </a><a href="https://twitter.com/renanranelli">
                         <i class="fab fa-twitter-square fa-2x"></i>
@@ -264,6 +262,35 @@
   
 
   
+  <div class="row">
+    <div class="col">
+      <h2>Hosts</h2>
+    </div>
+  </div>
+      
+        <div class="row person_row">
+            <div class="col-md-3"><img alt="Pery Lemke" src="https://avatars3.githubusercontent.com/u/3199483?s=460&amp;v=4" class="img-center rounded-circle img-fluid jumbotron-host" width="180px"></div>
+            <div class="col-md-8">
+              <h2><a href = "https://www.sudocast.com.br/host/plemke">Pery Lemke</a></h2><a href="https://twitter.com/perylemke">
+                  <i class="fab fa-twitter-square fa-2x"></i>
+                </a><a href="https://github.com/perylemke">
+                  <i class="fab fa-github-square fa-2x"></i>
+                </a><a href="https://www.linkedin.com/in/perylemke">
+                  <i class="fab fa-linkedin fa-2x"></i>
+                </a></div>
+            </div>
+        <div class="row person_row">
+            <div class="col-md-3"><img alt="Igor Leroy" src="https://avatars1.githubusercontent.com/u/154603?s=400&amp;v=4" class="img-center rounded-circle img-fluid jumbotron-host" width="180px"></div>
+            <div class="col-md-8">
+              <h2><a href = "https://www.sudocast.com.br/host/ileroy">Igor Leroy</a></h2><a href="https://twitter.com/lerrua">
+                  <i class="fab fa-twitter-square fa-2x"></i>
+                </a><a href="https://github.com/lerrua">
+                  <i class="fab fa-github-square fa-2x"></i>
+                </a><a href="https://www.linkedin.com/in/igorleroy">
+                  <i class="fab fa-linkedin fa-2x"></i>
+                </a></div>
+            </div>
+
 
 <hr />
   
@@ -363,11 +390,15 @@ audiojs.events.ready(function() {
 </script>
 
 <script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-123621457-1', 'auto');
-ga('send', 'pageview');
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-123621457-1', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
-<script async src='//www.google-analytics.com/analytics.js'></script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 
 

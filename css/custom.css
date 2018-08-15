@@ -1,14 +1,15 @@
 body {
     font-family: 'Libre Baskerville', serif;
+    background-color: #292b2c;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     margin-bottom: 1rem;
-    font-family: inherit;
     font-weight: 500;
     line-height: 1.1;
     color: inherit;
     padding-top: 1rem;
+    font-family: 'Averia Serif Libre', cursive;
 }
 
 .grid_episode_title {
