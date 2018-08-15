@@ -6,19 +6,10 @@
     <description>Recent content on SudoCast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 11 Aug 2018 04:10:01 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jun 2018 04:10:01 -0500</lastBuildDate>
     
 	<atom:link href="https://www.sudocast.com.br/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>#16 - A Revolução dos Containers - Parte 1</title>
-      <link>https://www.sudocast.com.br/16-a-revolucao-dos-containers-part1/</link>
-      <pubDate>Sat, 11 Aug 2018 04:10:01 -0500</pubDate>
-      
-      <guid>https://www.sudocast.com.br/16-a-revolucao-dos-containers-part1/</guid>
-      <description> chroot FreeBSD Jails Solaris Zones LXC Docker Kata Containers Project Atomic Kubernetes rkt TAD: Alternativas ao Docker - cri-o TAD: Alternativas ao Docker - rkt  </description>
-    </item>
     
     <item>
       <title>#15 - O Mundo Mágico dos Controles de Versão</title>
