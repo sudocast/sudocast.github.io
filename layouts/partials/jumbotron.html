@@ -14,7 +14,7 @@
         {{ range $p:= $.Site.Params.authors }}
         <div class="col-lg-2">
             <img alt="{{ $p.name }}" src="{{ $p.thumbnail | absURL }}" class="img-center rounded-circle img-fluid jumbotron-host">
-            <p class="text-center text-capitalize">{{ $p.name }} </p>
+            <h5 class="text-center text-capitalize">{{ $p.name }} </h5>
                 <p>
                     {{ if $p.social.twitter }}
                         <a href="https://twitter.com/{{ $p.social.twitter }}">

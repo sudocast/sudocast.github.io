@@ -96,7 +96,7 @@
                     {{- end -}}
                   </div>
                   <div class="col-md-8">
-                    <h2><a href = "{{(printf "guest/%s" .File.BaseFileName) | absURL }}">{{ .Title }}</a></h2>
+                    <h4><a href = "{{(printf "guest/%s" .File.BaseFileName) | absURL }}">{{ .Title }}</a></h4>
                     {{- with .Params.Website -}}
                       <a href="{{ . }}">
                         <i class="fas fa-home fa-2x"></i>
