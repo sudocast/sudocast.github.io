@@ -17,7 +17,6 @@ podcast_bytes = "48234496"
 title = "#16 - A Revolução dos Containers - Parte 1"
 youtube = ""
 truncate = ""
-draft = true
 +++
 * [chroot](https://linux.die.net/man/1/chroot)
 * [FreeBSD Jails](https://www.freebsd.org/doc/handbook/jails.html)
