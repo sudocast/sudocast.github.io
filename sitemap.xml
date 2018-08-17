@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.sudocast.com.br/16-a-revolucao-dos-containers-part1/</loc>
+    <lastmod>2018-08-11T04:10:01-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.sudocast.com.br/15-o-mundo-magico-dos-controles-de-versao/</loc>
     <lastmod>2018-06-26T04:10:01-05:00</lastmod>
   </url>
@@ -116,7 +121,7 @@
   
   <url>
     <loc>https://www.sudocast.com.br/episode/</loc>
-    <lastmod>2018-06-26T04:10:01-05:00</lastmod>
+    <lastmod>2018-08-11T04:10:01-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -216,7 +221,7 @@
   
   <url>
     <loc>https://www.sudocast.com.br/</loc>
-    <lastmod>2018-06-26T04:10:01-05:00</lastmod>
+    <lastmod>2018-08-11T04:10:01-05:00</lastmod>
     <priority>0</priority>
   </url>
   

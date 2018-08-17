@@ -15,7 +15,7 @@
     <atom:link href="https://www.sudocast.com.br/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://www.sudocast.com.br/</link>
     <description>Sudocast vem a ser um podcast de tecnologia ácido, engraçado e dinâmico onde são discutidos os assuntos mais quentes do mundo de desenvolvimento.</description>
-    <lastBuildDate>Tue, 26 Jun 2018 04:10:01 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 11 Aug 2018 04:10:01 -0500</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -41,6 +41,40 @@
     <itunes:category text="Technology">
       <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category>
     <generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#16 - A Revolução Dos Containers - Parte 1</title>
+          <link>https://www.sudocast.com.br/16-a-revolucao-dos-containers-part1/</link>
+          <pubDate>Sat, 11 Aug 2018 04:10:01 -0500 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://media.blubrry.com/sudocast1/content.blubrry.com/sudocast1/sudocast016.mp3</guid>
+          <itunes:author>
+            
+            
+              Pery Lemke 
+              
+                    and Igor Leroy</itunes:author>
+          
+          <itunes:episode>16</itunes:episode>
+          
+        <itunes:summary>Olá mundo =) Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Fernando Ike](https://twitter.com/fernandoike), [Jonh Wendell](https://twitter.com/jwendell) e [Igor Leroy](https://twitter.com/lerrua) batem um papo sobre Containers, tecnologia essa que está revolucionando o mercado.  Descubra neste podcast, que Containers não é uma tecnologia nova, que chroot é amor e como podemos sofrer com uma tecnologia.  Introdução: [Muñoz](https://pt-br.facebook.com/duomunoz/) - [Hey Ya](https://www.youtube.com/watch?v=4pcEYW1UgIo)  Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) </itunes:summary>
+        <description>Olá mundo =) Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Fernando Ike](https://twitter.com/fernandoike), [Jonh Wendell](https://twitter.com/jwendell) e [Igor Leroy](https://twitter.com/lerrua) batem um papo sobre Containers, tecnologia essa que está revolucionando o mercado.  Descubra neste podcast, que Containers não é uma tecnologia nova, que chroot é amor e como podemos sofrer com uma tecnologia.  Introdução: [Muñoz](https://pt-br.facebook.com/duomunoz/) - [Hey Ya](https://www.youtube.com/watch?v=4pcEYW1UgIo)  Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) </description>
+        <googleplay:description>Olá mundo =) Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Fernando Ike](https://twitter.com/fernandoike), [Jonh Wendell](https://twitter.com/jwendell) e [Igor Leroy](https://twitter.com/lerrua) batem um papo sobre Containers, tecnologia essa que está revolucionando o mercado.  Descubra neste podcast, que Containers não é uma tecnologia nova, que chroot é amor e como podemos sofrer com uma tecnologia.  Introdução: [Muñoz](https://pt-br.facebook.com/duomunoz/) - [Hey Ya](https://www.youtube.com/watch?v=4pcEYW1UgIo)  Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) </googleplay:description>
+        <content:encoded><![CDATA[<ul>
+<li><a href="https://linux.die.net/man/1/chroot">chroot</a></li>
+<li><a href="https://www.freebsd.org/doc/handbook/jails.html">FreeBSD Jails</a></li>
+<li><a href="https://docs.oracle.com/cd/E19044-01/sol.containers/817-1592/zones.intro-1/index.html">Solaris Zones</a></li>
+<li><a href="https://linuxcontainers.org/">LXC</a></li>
+<li><a href="https://www.docker.com/">Docker</a></li>
+<li><a href="https://katacontainers.io/">Kata Containers</a></li>
+<li><a href="https://www.projectatomic.io/">Project Atomic</a></li>
+<li><a href="http://kubernetes.io/">Kubernetes</a></li>
+<li><a href="https://coreos.com/rkt/">rkt</a></li>
+<li><a href="https://www.youtube.com/watch?v=NNu0QhZX2M0">TAD: Alternativas ao Docker - cri-o</a></li>
+<li><a href="https://www.youtube.com/watch?v=nzzEc7-HEvg">TAD: Alternativas ao Docker - rkt</a></li>
+</ul>
+]]></content:encoded><itunes:image href="https://www.sudocast.com.br/img/episode/thumbs/containers1.jpg"></itunes:image>
+          <googleplay:image href="https://www.sudocast.com.br/img/episode/thumbs/containers1.jpg"></googleplay:image><enclosure url="http://media.blubrry.com/sudocast1/content.blubrry.com/sudocast1/sudocast016.mp3" length="48234496" type="audio/mpeg" /><itunes:duration>50:13</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#15 - O Mundo Mágico Dos Controles De Versão</title>
           <link>https://www.sudocast.com.br/15-o-mundo-magico-dos-controles-de-versao/</link>
