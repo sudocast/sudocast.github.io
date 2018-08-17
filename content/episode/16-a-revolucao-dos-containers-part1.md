@@ -2,7 +2,7 @@
 Description = "Olá mundo =)<br/><br/> Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Fernando Ike](https://twitter.com/fernandoike), [Jonh Wendell](https://twitter.com/jwendell) e [Igor Leroy](https://twitter.com/lerrua) batem um papo sobre Containers, tecnologia essa que está revolucionando o mercado. <br/><br/> Descubra neste podcast, que Containers não é uma tecnologia nova, que chroot é amor e como podemos sofrer com uma tecnologia. <br/><br/> Introdução: [Muñoz](https://pt-br.facebook.com/duomunoz/) - [Hey Ya](https://www.youtube.com/watch?v=4pcEYW1UgIo) <br/><br/> Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) <br/><br/>"
 aliases = ["/16"]
 author = "Pery Lemke & Igor Leroy"
-date = "2018-08-11T04:10:01-05:00"
+date = "2018-08-17T04:10:01-05:00"
 episode = "16"
 episode_image = "img/episode/thumbs/containers1.jpg"
 episode_banner = "img/episode/containers1.jpg"
