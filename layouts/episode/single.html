@@ -43,18 +43,10 @@
 
     <!-- end square row -->
     {{ end }}
-    {{- with .Params.podcast_file -}}
-      <div class="row">
-        <div class="col-md-12 player_row">
-          <audio src="{{ $.Site.Params.media_prefix }}{{ . }}" preload="auto"/>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-11 col-md-offset-1">
-          <a href="{{ $.Site.Params.media_prefix }}{{ . }}">Direct Download</a>
-        </div>
-      </div>
+    {{- with .Params.podcast_id -}}
+    <iframe src="https://player.blubrry.com/id/{{ . }}/#time-0&darkOrLight-Light&shownotes-ffffff&shownotesBackground-444444&download-ffffff&downloadBackground-444444&subscribe-ffffff&subscribeBackground-444444&share-ffffff&shareBackground-444444" scrolling="no" width="100%" height="138px" frameborder="0"></iframe>
     {{- end -}}
+
   {{- with .Params.youtube -}}
     <div class = "row youtube_row">
       <div class = "col">
