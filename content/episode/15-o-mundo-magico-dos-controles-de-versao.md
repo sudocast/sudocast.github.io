@@ -13,6 +13,7 @@ sponsors = ["geekhunter"]
 images = ["img/episode/functional.png"]
 podcast_duration = "1:04:09"
 podcast_file = "sudocast015.mp3"
+podcast_id = "35082018"
 podcast_bytes = "61592453"
 title = "#15 - O Mundo Mágico dos Controles de Versão"
 youtube = ""

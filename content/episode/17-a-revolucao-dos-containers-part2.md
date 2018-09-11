@@ -13,6 +13,7 @@ sponsors = ["geekhunter"]
 images = ["img/episode/containers1.jpg"]
 podcast_duration = "38:37"
 podcast_file = "sudocast017.mp3"
+podcast_id = "36467491"
 podcast_bytes = "38797312"
 title = "#17 - A Revolução dos Containers - Parte 2"
 youtube = ""

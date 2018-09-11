@@ -13,6 +13,7 @@ sponsors = ["geekhunter"]
 images = ["img/episode/serenata.jpg"]
 podcast_duration = "48:21"
 podcast_file = "sudocast003.mp3"
+podcast_id = "24545838"
 podcast_bytes = "92831998"
 title = "#3 - Operação Serenata de Amor"
 youtube = ""

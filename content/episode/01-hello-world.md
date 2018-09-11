@@ -15,6 +15,7 @@ images = ["img/episode/helloworld.jpg"]
 podcast_duration = "42:36"
 podcast_file = "sudocast001.mp3"
 podcast_bytes = "50925630"
+podcast_id = "23058595"
 title = "#1 - Hello World!"
 youtube = ""
 truncate = ""

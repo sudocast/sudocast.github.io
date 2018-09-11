@@ -13,6 +13,7 @@ sponsors = ["geekhunter"]
 images = ["img/episode/functional.png"]
 podcast_duration = "59:41"
 podcast_file = "sudocast014.mp3"
+podcast_id = "34656767"
 podcast_bytes = "85964489"
 title = "#14 - Programação Funcional 101"
 youtube = ""

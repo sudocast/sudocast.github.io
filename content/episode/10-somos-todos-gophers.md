@@ -13,6 +13,7 @@ sponsors = ["geekhunter"]
 images = ["img/episode/gopher.jpg"]
 podcast_duration = "58:28"
 podcast_file = "sudocast010.mp3"
+podcast_id = "32536135"
 podcast_bytes = "56123875"
 title = "#10 - Somos todos Gophers!"
 youtube = ""

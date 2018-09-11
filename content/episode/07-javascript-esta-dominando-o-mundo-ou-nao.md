@@ -13,6 +13,7 @@ sponsors = ["geekhunter"]
 images = ["img/episode/javascript.jpg"]
 podcast_duration = "01:00:38"
 podcast_file = "sudocast007.mp3"
+podcast_id = "29501302"
 podcast_bytes = "58201968"
 title = "#7 - JavaScript está dominando o mundo?"
 youtube = ""

@@ -13,6 +13,7 @@ sponsors = ["geekhunter"]
 images = ["img/episode/vacilo.jpg"]
 podcast_duration = "36:17"
 podcast_file = "sudocast004.mp3"
+podcast_id = "26676233"
 podcast_bytes = "69661176"
 title = "#4 - Peço Perdão Pelo Vacilo :("
 youtube = ""

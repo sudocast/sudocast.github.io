@@ -13,6 +13,7 @@ sponsors = ["geekhunter"]
 images = ["img/episode/agile.jpg"]
 podcast_duration = "59:47"
 podcast_file = "sudocast002.mp3"
+podcast_id = "23956116"
 podcast_bytes = "114787395"
 title = "#2 - O Movimento Ágil!"
 youtube = ""

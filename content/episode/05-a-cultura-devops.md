@@ -13,6 +13,7 @@ sponsors = ["geekhunter"]
 images = ["img/episode/devops.jpg"]
 podcast_duration = "01:11:14"
 podcast_file = "sudocast005.mp3"
+podcast_id = "28005280"
 podcast_bytes = "136760346"
 title = "#5 - A Cultura DevOps"
 youtube = ""

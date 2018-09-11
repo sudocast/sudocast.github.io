@@ -13,6 +13,7 @@ sponsors = ["geekhunter"]
 images = ["img/episode/technical-recruiting.jpg"]
 podcast_duration = "41:41"
 podcast_file = "sudocast009.mp3"
+podcast_id = "31788382"
 podcast_bytes = "40020326"
 title = "#9 - A nova era do Tech Recruiting"
 youtube = ""

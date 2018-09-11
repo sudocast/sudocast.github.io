@@ -13,6 +13,7 @@ sponsors = ["geekhunter"]
 images = ["img/episode/guido.jpg"]
 podcast_duration = "01:10:17"
 podcast_file = "sudocast006.mp3"
+podcast_id = "28729643"
 podcast_bytes = "67475647"
 title = "#6 - Python: Pessoas > Tecnologia"
 youtube = ""

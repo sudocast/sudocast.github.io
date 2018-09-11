@@ -13,6 +13,7 @@ sponsors = ["geekhunter"]
 images = ["img/episode/microservices.png"]
 podcast_duration = "44:40"
 podcast_file = "sudocast013.mp3"
+podcast_id = "34224728"
 podcast_bytes = "42887108"
 title = "#13 - A Nova Era dos Microserviços"
 youtube = ""
