@@ -13,10 +13,9 @@ sponsors = ["geekhunter"]
 images = ["img/episode/iot.png"]
 podcast_duration = "57:07"
 podcast_file = "sudocast018.mp3"
-podcast_id = ""
+podcast_id = "37705252"
 podcast_bytes = "54826530"
 title = "#18 - Internet of (Stranger) Things"
-draft = "yes"
 youtube = ""
 truncate = ""
 +++
