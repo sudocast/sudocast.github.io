@@ -15,7 +15,7 @@
     <atom:link href="https://www.sudocast.com.br/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://www.sudocast.com.br/</link>
     <description>Sudocast vem a ser um podcast de tecnologia ácido, engraçado e dinâmico onde são discutidos os assuntos mais quentes do mundo de desenvolvimento.</description>
-    <lastBuildDate>Thu, 23 Aug 2018 04:10:01 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 14 Sep 2018 04:10:01 -0500</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -41,6 +41,44 @@
     <itunes:category text="Technology">
       <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category>
     <generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#18 - Internet of (Stranger) Things</title>
+          <link>https://www.sudocast.com.br/18-internet-of-things/</link>
+          <pubDate>Fri, 14 Sep 2018 04:10:01 -0500 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://media.blubrry.com/sudocast1/content.blubrry.com/sudocast1/sudocast018.mp3</guid>
+          <itunes:author>
+            
+            
+              Pery Lemke 
+              
+                    and Igor Leroy</itunes:author>
+          
+          <itunes:episode>18</itunes:episode>
+          
+        <itunes:summary>Olá mundo =) Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Daiane Santos](https://twitter.com/wh0isdxk), [Cesar Gimenes](https://twitter.com/crgimenes) e [Igor Leroy](https://twitter.com/lerrua) batem um papo sobre Internet of Things ou Internet das Coisas, que permitiu que a eletrônica fosse algo possível para todos.  Descubra neste podcast, que é computação ubíqua e não oblíqua, que eletrônica é acessível a todos e aprenda a impedir que sua geladeira mande fotos suas para a darknet.  Introdução: [Baby Budas](https://babybudas.bandcamp.com/) - [E Sozinhos (Estaríamos Pior)](https://www.youtube.com/watch?v=6TJ3vkXCY8k)  Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) </itunes:summary>
+        <description>Olá mundo =) Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Daiane Santos](https://twitter.com/wh0isdxk), [Cesar Gimenes](https://twitter.com/crgimenes) e [Igor Leroy](https://twitter.com/lerrua) batem um papo sobre Internet of Things ou Internet das Coisas, que permitiu que a eletrônica fosse algo possível para todos.  Descubra neste podcast, que é computação ubíqua e não oblíqua, que eletrônica é acessível a todos e aprenda a impedir que sua geladeira mande fotos suas para a darknet.  Introdução: [Baby Budas](https://babybudas.bandcamp.com/) - [E Sozinhos (Estaríamos Pior)](https://www.youtube.com/watch?v=6TJ3vkXCY8k)  Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) </description>
+        <googleplay:description>Olá mundo =) Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Daiane Santos](https://twitter.com/wh0isdxk), [Cesar Gimenes](https://twitter.com/crgimenes) e [Igor Leroy](https://twitter.com/lerrua) batem um papo sobre Internet of Things ou Internet das Coisas, que permitiu que a eletrônica fosse algo possível para todos.  Descubra neste podcast, que é computação ubíqua e não oblíqua, que eletrônica é acessível a todos e aprenda a impedir que sua geladeira mande fotos suas para a darknet.  Introdução: [Baby Budas](https://babybudas.bandcamp.com/) - [E Sozinhos (Estaríamos Pior)](https://www.youtube.com/watch?v=6TJ3vkXCY8k)  Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) </googleplay:description>
+        <content:encoded><![CDATA[<ul>
+<li><a href="ayslan@findhotel.net">Email da Ayslan</a></li>
+<li><a href="https://hipsters.jobs/company/1408/findhotel/">Vagas na FindHotel</a></li>
+<li><a href="https://www.arduino.cc/">Arduino</a></li>
+<li><a href="https://www.raspberrypi.org/">RaspberryPi</a></li>
+<li><a href="https://www.embarcados.com.br/intel-edison-modulo-iot-da-intel/">Intel Edison</a></li>
+<li><a href="http://www.banana-pi.org/">BananaPi</a></li>
+<li><a href="https://medium.com/devopslinks/announcing-eliot-container-platform-for-iot-devices-ad071e1917fd">Containers em IoT</a></li>
+<li><a href="https://www.balena.io/">Balena</a></li>
+<li><a href="https://rampartssecurity.com/docs/Exploiting-Foscam-IP-Cameras.pdf">IPs de Câmeras</a></li>
+<li><a href="https://gopher.pro.br/">Blog do Cesar</a></li>
+<li><a href="https://beagleboard.org">Beagle Board</a></li>
+<li><a href="http://pedrominatel.com.br/pt/arduino/programando-para-o-esp8266-com-o-nodemcu/">Programando em Lua no Arduino - Parte 1</a></li>
+<li><a href="https://learn.adafruit.com/diy-esp8266-home-security-with-lua-and-mqtt/programming-the-esp8266-with-lua">Programando em Lua no Arduino - Parte 2</a></li>
+<li><a href="https://www.youtube.com/watch?v=1VDZTjngNqs">Hackeando o Fax</a></li>
+<li><a href="https://www.youtube.com/watch?v=CUx8_JNNKsM">Every Breath You Take</a></li>
+</ul>
+]]></content:encoded><itunes:image href="https://www.sudocast.com.br/img/episode/thumbs/iot.png"></itunes:image>
+          <googleplay:image href="https://www.sudocast.com.br/img/episode/thumbs/iot.png"></googleplay:image><enclosure url="http://media.blubrry.com/sudocast1/content.blubrry.com/sudocast1/sudocast018.mp3" length="54826530" type="audio/mpeg" /><itunes:duration>57:07</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#17 - A Revolução Dos Containers - Parte 2</title>
           <link>https://www.sudocast.com.br/17-a-revolucao-dos-containers-part2/</link>

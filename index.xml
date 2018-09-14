@@ -6,10 +6,19 @@
     <description>Recent content on SudoCast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Aug 2018 04:10:01 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 14 Sep 2018 04:10:01 -0500</lastBuildDate>
     
 	<atom:link href="https://www.sudocast.com.br/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#18 - Internet of (Stranger) Things</title>
+      <link>https://www.sudocast.com.br/18-internet-of-things/</link>
+      <pubDate>Fri, 14 Sep 2018 04:10:01 -0500</pubDate>
+      
+      <guid>https://www.sudocast.com.br/18-internet-of-things/</guid>
+      <description> Email da Ayslan Vagas na FindHotel Arduino RaspberryPi Intel Edison BananaPi Containers em IoT Balena IPs de Câmeras Blog do Cesar Beagle Board Programando em Lua no Arduino - Parte 1 Programando em Lua no Arduino - Parte 2 Hackeando o Fax Every Breath You Take  </description>
+    </item>
     
     <item>
       <title>#17 - A Revolução dos Containers - Parte 2</title>
@@ -210,6 +219,15 @@ Enviar   $(&amp;ldquo;#contactForm&amp;rdquo;).validate();</description>
       
       <guid>https://www.sudocast.com.br/guest/cgimenes/</guid>
       <description>Trabalha com tecnologia desde a década de 90. Já atuou na área de educação e participou de projetos de mobilidade de grande volume para laboratórios farmacêuticos. Criou games tanto para PC, como para iOS. Hoje está direcionando seus esforços em plataformas de Sistemas Embarcados, IoT, microservices e cloud computing. É um entusiasta de tecnologias como Golang e Docker.</description>
+    </item>
+    
+    <item>
+      <title>Daiane Santos</title>
+      <link>https://www.sudocast.com.br/guest/dsantos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sudocast.com.br/guest/dsantos/</guid>
+      <description>community manager, computer engineer, speaker, IoT security and a dog person.</description>
     </item>
     
     <item>
