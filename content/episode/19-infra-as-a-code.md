@@ -13,10 +13,9 @@ sponsors = ["geekhunter"]
 images = ["img/episode/infra.png"]
 podcast_duration = "1:19:05"
 podcast_file = "sudocast019.mp3"
-podcast_id = ""
+podcast_id = "38873090"
 podcast_bytes = "75938484"
 title = "#19 - Infra como Código"
-draft = "yes"
 youtube = ""
 truncate = ""
 +++
