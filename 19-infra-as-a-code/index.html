@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html itemscope lang="pt-BR">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <meta name="description" content="Olá mundo =)&lt;br/&gt;&lt;br/&gt; Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jairo Junior](https://jairojunior.github.io/), [Rafael Gomes aka Gomex](https://twitter.com/gomex) e [Igor Leroy](https://twitter.com/lerrua) batem um papo sobre Infraestrutura como Código, algo que está constante evolução na área de Operações. &lt;br/&gt;&lt;br/&gt; Descubra neste podcast, como não ficar para trás, qual o SysAdmin que foi picado por uma aranha geneticamente modificada e se é possível fazer TDD em Infra. &lt;br/&gt;&lt;br/&gt; Introdução: [Eutha](https://www.facebook.com/euthahc/) - [Fique Longe de Mim](https://www.youtube.com/watch?v=5mYX9DbCpSk) &lt;br/&gt;&lt;br/&gt; Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) &lt;br/&gt;&lt;br/&gt;">
+
+<meta name="generator" content="Hugo 0.44-DEV" />
+
+
+<meta property="og:title" content="#19 - Infra Como Código" />
+<meta property="og:description" content="Olá mundo =)&lt;br/&gt;&lt;br/&gt; Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jairo Junior](https://jairojunior.github.io/), [Rafael Gomes aka Gomex](https://twitter.com/gomex) e [Igor Leroy](https://twitter.com/lerrua) batem um papo sobre Infraestrutura como Código, algo que está constante evolução na área de Operações. &lt;br/&gt;&lt;br/&gt; Descubra neste podcast, como não ficar para trás, qual o SysAdmin que foi picado por uma aranha geneticamente modificada e se é possível fazer TDD em Infra. &lt;br/&gt;&lt;br/&gt; Introdução: [Eutha](https://www.facebook.com/euthahc/) - [Fique Longe de Mim](https://www.youtube.com/watch?v=5mYX9DbCpSk) &lt;br/&gt;&lt;br/&gt; Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) &lt;br/&gt;&lt;br/&gt;" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.sudocast.com.br/19-infra-as-a-code/" />
+
+  
+    <meta property="og:image" content="https://www.sudocast.com.br/img/episode/infra.png" />
+  
+
+
+
+<meta property="og:updated_time" content="2018-10-23 04:10:01 -0500 -0500"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta property="article:author" content="https://www.facebook.com/" />
+
+<meta property="article:publisher" content="https://www.facebook.com/1sudocast" />
+
+  
+    <meta property="article:published_time" content="2018-10-23 04:10:01 -0500 -0500" />
+  
+
+<meta property="article:modified_time" content="2018-10-23 04:10:01 -0500 -0500" />
+<meta property="article:section" content="episode" />
+
+
+
+
+
+
+<meta itemprop="name" content="#19 - Infra como Código">
+<meta itemprop="description" content="Olá mundo =)&lt;br/&gt;&lt;br/&gt; Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jairo Junior](https://jairojunior.github.io/), [Rafael Gomes aka Gomex](https://twitter.com/gomex) e [Igor Leroy](https://twitter.com/lerrua) batem um papo sobre Infraestrutura como Código, algo que está constante evolução na área de Operações. &lt;br/&gt;&lt;br/&gt; Descubra neste podcast, como não ficar para trás, qual o SysAdmin que foi picado por uma aranha geneticamente modificada e se é possível fazer TDD em Infra. &lt;br/&gt;&lt;br/&gt; Introdução: [Eutha](https://www.facebook.com/euthahc/) - [Fique Longe de Mim](https://www.youtube.com/watch?v=5mYX9DbCpSk) &lt;br/&gt;&lt;br/&gt; Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) &lt;br/&gt;&lt;br/&gt;">
+
+
+
+  
+    <meta itemprop="image" content="https://www.sudocast.com.br/img/episode/infra.png">
+  
+
+
+
+<meta itemprop="keywords" content="" />
+
+
+<meta itemprop="wordCount" content="68">
+
+
+
+
+	<meta name="twitter:card" content="summary_large_image"/>
+  
+	 <meta name="twitter:image:src" content="https://www.sudocast.com.br/img/episode/infra.png"/>
+  
+
+
+
+<meta name="twitter:title" content="#19 - Infra como Código"/>
+<meta name="twitter:description" content="Olá mundo =)&lt;br/&gt;&lt;br/&gt; Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jairo Junior](https://jairojunior.github.io/), [Rafael Gomes aka Gomex](https://twitter.com/gomex) e [Igor Leroy](https://twitter.com/lerrua) batem um papo sobre Infraestrutura como Código, algo que está constante evolução na área de Operações. &lt;br/&gt;&lt;br/&gt; Descubra neste podcast, como não ficar para trás, qual o SysAdmin que foi picado por uma aranha geneticamente modificada e se é possível fazer TDD em Infra. &lt;br/&gt;&lt;br/&gt; Introdução: [Eutha](https://www.facebook.com/euthahc/) - [Fique Longe de Mim](https://www.youtube.com/watch?v=5mYX9DbCpSk) &lt;br/&gt;&lt;br/&gt; Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) &lt;br/&gt;&lt;br/&gt;"/>
+<meta name="twitter:site" content="@sudocast"/>
+
+
+	
+	
+
+
+
+
+<title>
+
+
+     #19 - Infra como Código 
+
+</title>
+<link rel="canonical" href="https://www.sudocast.com.br/19-infra-as-a-code/">
+
+<link href="https://www.sudocast.com.br/css/grey.css" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Averia+Serif+Libre|Libre+Baskerville" rel="stylesheet"> 
+<link rel="icon" type="image/png" href="https://www.sudocast.com.br/img/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://www.sudocast.com.br/img/favicon-16x16.png" sizes="16x16">
+
+
+    <link rel="stylesheet" href="https://www.sudocast.com.br/css/custom.css">
+
+
+
+</head>
+
+<body lang="">
+<nav class="navbar fixed-top navbar-toggleable-sm navbar-light bg-faded">
+<div class="container">
+    <a class="navbar-brand" href="https://www.sudocast.com.br/"><img src="https://www.sudocast.com.br/img/icon.png" /></a>
+    
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+  <ul class="navbar-nav mr-auto">
+    
+    
+      
+          <li class= "nav-item ">
+          <a href="https://www.sudocast.com.br/host" class="nav-link">
+              
+              <span>Hosts</span>
+          </a>
+        </li>
+      
+    
+      
+          <li class= "nav-item ">
+          <a href="https://www.sudocast.com.br/guest" class="nav-link">
+              
+              <span>Convidados</span>
+          </a>
+        </li>
+      
+    
+      
+          <li class= "nav-item ">
+          <a href="https://www.sudocast.com.br/contact" class="nav-link">
+              
+              <span>Contato</span>
+          </a>
+        </li>
+      
+    
+  </ul>
+
+
+      <ul class="navbar-nav ml-auto">
+        
+          <li>
+            <a class = "social-links" href="https://facebook.com/1sudocast"><i class="fab fa-facebook-square fa-2x"></i></a>
+          </li>
+        
+        
+          <li>
+            <a class = "social-links" href="https://twitter.com/sudocast"><i class="fab fa-twitter-square fa-2x"></i></a>
+          </li>
+        
+        
+        
+        
+        
+          <li>
+            <a class = "social-links" href="https://www.instagram.com/sudocast"><i class="fab fa-instagram fa-2x"></i></a>
+          </li>
+        
+        
+        
+          <li>
+            <a class = "social-links" href="https://github.com/sudocast"><i class="fab fa-github-square fa-2x"></i></a>
+          </li>
+        
+        
+      </ul>
+  </div>
+  </div>
+  </nav>
+
+<div class="container middle_container">
+  
+
+  <div class="row">
+    <div class="col">
+      <h1>#19 - Infra Como Código</h1>
+      <small>Posted on Tuesday, Oct 23, 2018</small>
+    </div>
+  </div>
+
+  
+    
+      <div class = "row">
+      <div class = "col">
+        
+      </div>
+      </div>
+      <div class = "row">
+      <div class = "col">
+        Olá mundo =)<br/><br/> Neste episódio do Sudocast, <a href="https://www.twitter.com/perylemke">Pery Lemke</a>, <a href="https://jairojunior.github.io/">Jairo Junior</a>, <a href="https://twitter.com/gomex">Rafael Gomes aka Gomex</a> e <a href="https://twitter.com/lerrua">Igor Leroy</a> batem um papo sobre Infraestrutura como Código, algo que está constante evolução na área de Operações. <br/><br/> Descubra neste podcast, como não ficar para trás, qual o SysAdmin que foi picado por uma aranha geneticamente modificada e se é possível fazer TDD em Infra. <br/><br/> Introdução: <a href="https://www.facebook.com/euthahc/">Eutha</a> - <a href="https://www.youtube.com/watch?v=5mYX9DbCpSk">Fique Longe de Mim</a> <br/><br/> Edição e Sonorização: <a href="https://www.youtube.com/ferraduravideo">Johnny Duluti</a> <br/><br/>
+      </div>
+      </div>
+    
+    <iframe src="https://player.blubrry.com/id/38873090/#time-0&darkOrLight-Light&shownotes-ffffff&shownotesBackground-444444&download-ffffff&downloadBackground-444444&subscribe-ffffff&subscribeBackground-444444&share-ffffff&shareBackground-444444" scrolling="no" width="100%" height="138px" frameborder="0"></iframe><div class="row">
+    <div class="col">
+      <h2>Show Notes</h2>
+      <ul>
+<li><a href="https://www.sympla.com.br/devopsdays-florianopolis---2018__356131">DevOpsDays Florianópolis 2018</a></li>
+<li><a href="http://www.thedevelopersconference.com.br/tdc/2018/index.html">The Developers Conference - Porto Alegre 2018</a></li>
+<li><a href="https://www.amazon.com/Infrastructure-Code-Managing-Servers-Cloud/dp/1491924357">Infrastructure as Code: Managing Servers in the Cloud</a></li>
+<li><a href="https://twitter.com/kief">Twitter do Kief Morris</a></li>
+<li><a href="https://www.thoughtworks.com/pt/insights/blog/infrastructure-code-iron-age-cloud-age">Infrastructure as Code: From the Iron Age to the Cloud Age</a></li>
+<li><a href="https://python-for-system-administrators.readthedocs.io/en/latest/">Python for Systema Administrators</a></li>
+<li><a href="https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux/">Using Go as a scripting language in Linux</a></li>
+<li><a href="https://nixos.org/">NixOS</a></li>
+<li><a href="https://www.ansible.com/">Ansible</a></li>
+<li><a href="https://www.chef.io/chef/">Chef</a></li>
+<li><a href="https://puppet.com/">Puppet</a></li>
+<li><a href="https://www.terraform.io/">Terraform</a></li>
+<li><a href="https://www.packer.io/intro/">Packer</a></li>
+<li><a href="https://cfengine.com/">CFEngine</a></li>
+<li><a href="http://rspec.info/">RSpec</a></li>
+<li><a href="https://docs.pytest.org/en/latest/">PyTest</a></li>
+<li><a href="https://serverspec.org/">Serverspec</a></li>
+<li>[Testinfra])(<a href="https://testinfra.readthedocs.io/en/latest/">https://testinfra.readthedocs.io/en/latest/</a>)</li>
+<li><a href="https://philpep.org/blog/infrastructure-testing-with-testinfra">Infrastructure testing with Testinfra</a></li>
+<li><a href="https://kitchen.ci/">Kitchen</a></li>
+<li><a href="https://molecule.readthedocs.io/en/latest/">Molecule</a></li>
+<li><a href="https://blog.unif.io/test-driven-development-of-infrastructure-code-9146d3d6c780">Test Driven Development of Infrastructure Code</a></li>
+</ul>
+
+    </div>
+  </div>
+
+  
+        <div class="row">
+          <div class="col">
+            <h2>Convidados</h2>
+          </div>
+        </div>
+            
+              <div class="row person_row">
+                  <div class="col-md-3"><img alt="Jairo Junior" src="https://www.sudocast.com.br/img/guest/jjunior.png" class="img-center rounded-circle img-fluid jumbotron-host" width="180px"></div>
+                  <div class="col-md-8">
+                    <h4><a href = "https://www.sudocast.com.br/guest/jjunior">Jairo Junior</a></h4><a href="https://jairojunior.github.io/">
+                        <i class="fas fa-home fa-2x"></i>
+                      </a><a href="https://github.com/jairojunior">
+                        <i class="fab fa-github-square fa-2x"></i>
+                      </a></div>
+                  </div>
+
+                
+            
+              <div class="row person_row">
+                  <div class="col-md-3"><img alt="Rafael Gomes (Gomex)" src="https://www.sudocast.com.br/img/guest/gomex.png" class="img-center rounded-circle img-fluid jumbotron-host" width="180px"></div>
+                  <div class="col-md-8">
+                    <h4><a href = "https://www.sudocast.com.br/guest/rgomex">Rafael Gomes (Gomex)</a></h4><a href="https://gomex.me/">
+                        <i class="fas fa-home fa-2x"></i>
+                      </a><a href="https://twitter.com/gomex">
+                        <i class="fab fa-twitter-square fa-2x"></i>
+                      </a><a href="https://github.com/gomex">
+                        <i class="fab fa-github-square fa-2x"></i>
+                      </a><a href="https://www.linkedin.com/in/rbgomes">
+                        <i class="fab fa-linkedin fa-2x"></i>
+                      </a></div>
+                  </div>
+
+                
+            
+  
+
+<hr />
+  
+<hr />
+      <div class="row">
+        
+        <div class="col-md-12">
+          <div id="share"></div>
+        </div>
+      </div>
+      
+      
+      <div class="row">
+        
+        <div class="col-md-12">
+          <nav>
+            <ul class="pagination">
+              
+                <li class="page-item">
+                  <a href="https://www.sudocast.com.br/18-internet-of-things/" class="page-link">
+                    <span aria-hidden="true">&larr;</span>
+                    Previous</a>
+                </li>
+                
+              
+                <li class="page-item disabled">
+                  <a href="#" class="page-link">Next
+                    <span aria-hidden="true">&rarr;</span>
+                  </a>
+                </li>
+              
+            </ul>
+          </nav>
+        </div>
+      </div>
+      
+    
+</div> 
+<div class = "container bottom_container">
+  <div class="row">
+  <div class="col-md-12">
+    <nav class = "navbar navbar-default navbar_footer">
+    <ul class="nav navbar-nav navbar-right">
+      
+        <li style="text-align:center;">
+          <p class = "footer_copyright">
+              <img src="https://www.sudocast.com.br/img/logo-sudocast.png" />
+          </p>
+        </li>
+      
+      <li>
+        &nbsp;
+      </li>
+    </ul>
+  </nav>
+
+  </div>
+</div>
+</div>
+<script src=https://www.sudocast.com.br/js/castanet-min.js></script>
+<script>
+    $("#share").jsSocials({
+        shares: [
+      {
+        share: "facebook",
+        logo: "fab fa-facebook",
+      },
+      {
+        share: "twitter",           
+        label: "Tweet",             
+        logo: "fab fa-twitter",
+        
+          via: "sudocast",       
+        
+        url: "",
+        text: "#19 - Infra Como Código"
+      },
+      {
+        share: "linkedin",
+        logo: "fab fa-linkedin"
+      },
+      {
+        share: "pinterest",
+        logo: "fab fa-pinterest"
+      }
+    ],
+    });
+</script>
+<script>
+audiojs.events.ready(function() {
+  var as = audiojs.createAll({
+    imageLocation: '\/img\/player-graphics.gif',
+    retinaImageLocation: '\/img\/player-graphics@2x.gif',
+    swfLocation: '\/swf\/audiojs.swf'
+   });
+ });
+</script>
+
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-123621457-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+
+</body>
+</html>
+

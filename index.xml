@@ -6,10 +6,19 @@
     <description>Recent content on SudoCast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 14 Sep 2018 04:10:01 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 23 Oct 2018 04:10:01 -0500</lastBuildDate>
     
 	<atom:link href="https://www.sudocast.com.br/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#19 - Infra como Código</title>
+      <link>https://www.sudocast.com.br/19-infra-as-a-code/</link>
+      <pubDate>Tue, 23 Oct 2018 04:10:01 -0500</pubDate>
+      
+      <guid>https://www.sudocast.com.br/19-infra-as-a-code/</guid>
+      <description> DevOpsDays Florianópolis 2018 The Developers Conference - Porto Alegre 2018 Infrastructure as Code: Managing Servers in the Cloud Twitter do Kief Morris Infrastructure as Code: From the Iron Age to the Cloud Age Python for Systema Administrators Using Go as a scripting language in Linux NixOS Ansible Chef Puppet Terraform Packer CFEngine RSpec PyTest Serverspec [Testinfra])(https://testinfra.readthedocs.io/en/latest/) Infrastructure testing with Testinfra Kitchen Molecule Test Driven Development of Infrastructure Code  </description>
+    </item>
     
     <item>
       <title>#18 - Internet of (Stranger) Things</title>
@@ -287,6 +296,15 @@ I contributed in some Opensource projects like Debian, PostgreSQL and Zabbix. No
       <description>I&amp;rsquo;m a developer with +10 years of experience, I started my career as a web developer through languages and frameworks like PHP, Zope/Plone, J2EE, Ruby on Rails and Django.
 In those 10 years I worked as web developer, full stack programmer and team leader, where I had interesting experiences like teaching workshops, lecturing on events and helping to organize Meetups in my local Python community.
 I currently working Home Office, writing APIs, architecting micro services and dealing with large databases, which is why I have studied a lot of topics around Data Science and Machine Learning.</description>
+    </item>
+    
+    <item>
+      <title>Jairo Junior</title>
+      <link>https://www.sudocast.com.br/guest/jjunior/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sudocast.com.br/guest/jjunior/</guid>
+      <description>Tenho 8 anos de experiência com desenvolvimento de software, principalmente com desenvolvimento backend - sistemas/serviços Web, messaging e processamento batch - com fortes requisitos de desempenho e escalabilidade. Não me importa se esses sistemas são em Java, .NET, Ruby, Python ou Go, eu vivo pelos dois princípios descritos em Language Wars.</description>
     </item>
     
     <item>

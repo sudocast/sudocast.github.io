@@ -15,7 +15,7 @@
     <atom:link href="https://www.sudocast.com.br/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://www.sudocast.com.br/</link>
     <description>Sudocast vem a ser um podcast de tecnologia ácido, engraçado e dinâmico onde são discutidos os assuntos mais quentes do mundo de desenvolvimento.</description>
-    <lastBuildDate>Fri, 14 Sep 2018 04:10:01 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 23 Oct 2018 04:10:01 -0500</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -41,6 +41,51 @@
     <itunes:category text="Technology">
       <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category>
     <generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#19 - Infra Como Código</title>
+          <link>https://www.sudocast.com.br/19-infra-as-a-code/</link>
+          <pubDate>Tue, 23 Oct 2018 04:10:01 -0500 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://media.blubrry.com/sudocast1/content.blubrry.com/sudocast1/sudocast019.mp3</guid>
+          <itunes:author>
+            
+            
+              Pery Lemke 
+              
+                    and Igor Leroy</itunes:author>
+          
+          <itunes:episode>19</itunes:episode>
+          
+        <itunes:summary>Olá mundo =) Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jairo Junior](https://jairojunior.github.io/), [Rafael Gomes aka Gomex](https://twitter.com/gomex) e [Igor Leroy](https://twitter.com/lerrua) batem um papo sobre Infraestrutura como Código, algo que está constante evolução na área de Operações.  Descubra neste podcast, como não ficar para trás, qual o SysAdmin que foi picado por uma aranha geneticamente modificada e se é possível fazer TDD em Infra.  Introdução: [Eutha](https://www.facebook.com/euthahc/) - [Fique Longe de Mim](https://www.youtube.com/watch?v=5mYX9DbCpSk)  Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) </itunes:summary>
+        <description>Olá mundo =) Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jairo Junior](https://jairojunior.github.io/), [Rafael Gomes aka Gomex](https://twitter.com/gomex) e [Igor Leroy](https://twitter.com/lerrua) batem um papo sobre Infraestrutura como Código, algo que está constante evolução na área de Operações.  Descubra neste podcast, como não ficar para trás, qual o SysAdmin que foi picado por uma aranha geneticamente modificada e se é possível fazer TDD em Infra.  Introdução: [Eutha](https://www.facebook.com/euthahc/) - [Fique Longe de Mim](https://www.youtube.com/watch?v=5mYX9DbCpSk)  Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) </description>
+        <googleplay:description>Olá mundo =) Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Jairo Junior](https://jairojunior.github.io/), [Rafael Gomes aka Gomex](https://twitter.com/gomex) e [Igor Leroy](https://twitter.com/lerrua) batem um papo sobre Infraestrutura como Código, algo que está constante evolução na área de Operações.  Descubra neste podcast, como não ficar para trás, qual o SysAdmin que foi picado por uma aranha geneticamente modificada e se é possível fazer TDD em Infra.  Introdução: [Eutha](https://www.facebook.com/euthahc/) - [Fique Longe de Mim](https://www.youtube.com/watch?v=5mYX9DbCpSk)  Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) </googleplay:description>
+        <content:encoded><![CDATA[<ul>
+<li><a href="https://www.sympla.com.br/devopsdays-florianopolis---2018__356131">DevOpsDays Florianópolis 2018</a></li>
+<li><a href="http://www.thedevelopersconference.com.br/tdc/2018/index.html">The Developers Conference - Porto Alegre 2018</a></li>
+<li><a href="https://www.amazon.com/Infrastructure-Code-Managing-Servers-Cloud/dp/1491924357">Infrastructure as Code: Managing Servers in the Cloud</a></li>
+<li><a href="https://twitter.com/kief">Twitter do Kief Morris</a></li>
+<li><a href="https://www.thoughtworks.com/pt/insights/blog/infrastructure-code-iron-age-cloud-age">Infrastructure as Code: From the Iron Age to the Cloud Age</a></li>
+<li><a href="https://python-for-system-administrators.readthedocs.io/en/latest/">Python for Systema Administrators</a></li>
+<li><a href="https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux/">Using Go as a scripting language in Linux</a></li>
+<li><a href="https://nixos.org/">NixOS</a></li>
+<li><a href="https://www.ansible.com/">Ansible</a></li>
+<li><a href="https://www.chef.io/chef/">Chef</a></li>
+<li><a href="https://puppet.com/">Puppet</a></li>
+<li><a href="https://www.terraform.io/">Terraform</a></li>
+<li><a href="https://www.packer.io/intro/">Packer</a></li>
+<li><a href="https://cfengine.com/">CFEngine</a></li>
+<li><a href="http://rspec.info/">RSpec</a></li>
+<li><a href="https://docs.pytest.org/en/latest/">PyTest</a></li>
+<li><a href="https://serverspec.org/">Serverspec</a></li>
+<li>[Testinfra])(<a href="https://testinfra.readthedocs.io/en/latest/">https://testinfra.readthedocs.io/en/latest/</a>)</li>
+<li><a href="https://philpep.org/blog/infrastructure-testing-with-testinfra">Infrastructure testing with Testinfra</a></li>
+<li><a href="https://kitchen.ci/">Kitchen</a></li>
+<li><a href="https://molecule.readthedocs.io/en/latest/">Molecule</a></li>
+<li><a href="https://blog.unif.io/test-driven-development-of-infrastructure-code-9146d3d6c780">Test Driven Development of Infrastructure Code</a></li>
+</ul>
+]]></content:encoded><itunes:image href="https://www.sudocast.com.br/img/episode/thumbs/infra.png"></itunes:image>
+          <googleplay:image href="https://www.sudocast.com.br/img/episode/thumbs/infra.png"></googleplay:image><enclosure url="http://media.blubrry.com/sudocast1/content.blubrry.com/sudocast1/sudocast019.mp3" length="75938484" type="audio/mpeg" /><itunes:duration>1:19:05</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#18 - Internet of (Stranger) Things</title>
           <link>https://www.sudocast.com.br/18-internet-of-things/</link>
