@@ -6,10 +6,19 @@
     <description>Recent content on SudoCast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 23 Oct 2018 04:10:01 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 28 Dec 2018 04:10:01 -0500</lastBuildDate>
     
 	<atom:link href="https://www.sudocast.com.br/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#20 - DOH - Desenvolvimento Orientado a Hype</title>
+      <link>https://www.sudocast.com.br/20-desenvolvimento-orientado-a-hype/</link>
+      <pubDate>Fri, 28 Dec 2018 04:10:01 -0500</pubDate>
+      
+      <guid>https://www.sudocast.com.br/20-desenvolvimento-orientado-a-hype/</guid>
+      <description> Desenvolvimento Orientado a Modinha Thank You for Your Help NoSQL, but We Got It from Here Otimização Prematura é a raiz de todos os males Hype in Software Development Remote Jobs Brazil  </description>
+    </item>
     
     <item>
       <title>#19 - Infra como Código</title>
@@ -228,6 +237,15 @@ Enviar   $(&amp;ldquo;#contactForm&amp;rdquo;).validate();</description>
       
       <guid>https://www.sudocast.com.br/guest/cgimenes/</guid>
       <description>Trabalha com tecnologia desde a década de 90. Já atuou na área de educação e participou de projetos de mobilidade de grande volume para laboratórios farmacêuticos. Criou games tanto para PC, como para iOS. Hoje está direcionando seus esforços em plataformas de Sistemas Embarcados, IoT, microservices e cloud computing. É um entusiasta de tecnologias como Golang e Docker.</description>
+    </item>
+    
+    <item>
+      <title>Cássio Botaro</title>
+      <link>https://www.sudocast.com.br/guest/cbotaro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sudocast.com.br/guest/cbotaro/</guid>
+      <description>S25pZ2h0IHdobyBzYXkgTmkhCg==</description>
     </item>
     
     <item>

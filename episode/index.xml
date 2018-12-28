@@ -15,7 +15,7 @@
     <atom:link href="https://www.sudocast.com.br/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://www.sudocast.com.br/</link>
     <description>Sudocast vem a ser um podcast de tecnologia ácido, engraçado e dinâmico onde são discutidos os assuntos mais quentes do mundo de desenvolvimento.</description>
-    <lastBuildDate>Tue, 23 Oct 2018 04:10:01 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 28 Dec 2018 04:10:01 -0500</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -41,6 +41,34 @@
     <itunes:category text="Technology">
       <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category>
     <generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#20 - DOH - Desenvolvimento Orientado a Hype</title>
+          <link>https://www.sudocast.com.br/20-desenvolvimento-orientado-a-hype/</link>
+          <pubDate>Fri, 28 Dec 2018 04:10:01 -0500 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://media.blubrry.com/sudocast1/content.blubrry.com/sudocast1/sudocast020.mp3</guid>
+          <itunes:author>
+            
+            
+              Pery Lemke 
+              
+                    and Igor Leroy</itunes:author>
+          
+          <itunes:episode>20</itunes:episode>
+          
+        <itunes:summary>Olá mundo =) Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Cássio Botaro](https://twitter.com/cassiobotaro), [InfoSlack](https://twitter.com/infoslack) e [Igor Leroy](https://twitter.com/lerrua) batem um papo maluco sobre Hypes, algo que norteia muito a decisão dos times de desenvolvimento.  Descubra neste podcast, como colocar panos quentes, que tudo é Hype e que a palavra Hype é muito Hype.  Introdução: [Também Sou Hype](https://www.youtube.com/HermeseRenatoOficial) - [Bichinho de Matar com Pedra](https://www.youtube.com/watch?v=0w6gTQp8fN0)  Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) </itunes:summary>
+        <description>Olá mundo =) Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Cássio Botaro](https://twitter.com/cassiobotaro), [InfoSlack](https://twitter.com/infoslack) e [Igor Leroy](https://twitter.com/lerrua) batem um papo maluco sobre Hypes, algo que norteia muito a decisão dos times de desenvolvimento.  Descubra neste podcast, como colocar panos quentes, que tudo é Hype e que a palavra Hype é muito Hype.  Introdução: [Também Sou Hype](https://www.youtube.com/HermeseRenatoOficial) - [Bichinho de Matar com Pedra](https://www.youtube.com/watch?v=0w6gTQp8fN0)  Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) </description>
+        <googleplay:description>Olá mundo =) Neste episódio do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Cássio Botaro](https://twitter.com/cassiobotaro), [InfoSlack](https://twitter.com/infoslack) e [Igor Leroy](https://twitter.com/lerrua) batem um papo maluco sobre Hypes, algo que norteia muito a decisão dos times de desenvolvimento.  Descubra neste podcast, como colocar panos quentes, que tudo é Hype e que a palavra Hype é muito Hype.  Introdução: [Também Sou Hype](https://www.youtube.com/HermeseRenatoOficial) - [Bichinho de Matar com Pedra](https://www.youtube.com/watch?v=0w6gTQp8fN0)  Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) </googleplay:description>
+        <content:encoded><![CDATA[<ul>
+<li><a href="https://desenvolvimentoparaweb.com/miscelanea/desenvolvimento-orientado-a-modinha-dom/">Desenvolvimento Orientado a Modinha</a></li>
+<li><a href="https://www.memsql.com/blog/why-nosql-databases-wrong-tool-for-modern-application/">Thank You for Your Help NoSQL, but We Got It from Here</a></li>
+<li><a href="http://www.vidageek.net/performance-java/otimizacao-prematura/">Otimização Prematura é a raiz de todos os males</a></li>
+<li><a href="https://dzone.com/articles/hype-in-software-development">Hype in Software Development</a></li>
+<li><a href="https://github.com/lerrua/remote-jobs-brazil">Remote Jobs Brazil</a></li>
+</ul>
+]]></content:encoded><itunes:image href="https://www.sudocast.com.br/img/episode/thumbs/hype.jpg"></itunes:image>
+          <googleplay:image href="https://www.sudocast.com.br/img/episode/thumbs/hype.jpg"></googleplay:image><enclosure url="http://media.blubrry.com/sudocast1/content.blubrry.com/sudocast1/sudocast020.mp3" length="45408238" type="audio/mpeg" /><itunes:duration>47:18</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#19 - Infra Como Código</title>
           <link>https://www.sudocast.com.br/19-infra-as-a-code/</link>
