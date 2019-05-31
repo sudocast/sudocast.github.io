@@ -243,6 +243,15 @@ Core Organizer do DevOpsDays</description>
     </item>
     
     <item>
+      <title>Sebastian Ferrari</title>
+      <link>https://www.sudocast.com.br/guest/sebas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sudocast.com.br/guest/sebas/</guid>
+      <description>Developer and entrepreneur imported from Uruguay to Brazil. Lean activist and part of the Free Software community. CTO and Co-founder of Taller</description>
+    </item>
+    
+    <item>
       <title>Talita Rossari</title>
       <link>https://www.sudocast.com.br/guest/trossari/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -258,6 +267,15 @@ Core Organizer do DevOpsDays</description>
       
       <guid>https://www.sudocast.com.br/guest/tavelino/</guid>
       <description>Engineer/Founder at @nuveohq. I&amp;rsquo;m a New Tech, #Golang, #Clojure, #Datomic, Neural Network and Artificial Intelligence (#ai) specialist in Brazil</description>
+    </item>
+    
+    <item>
+      <title>Weverton Timoteo</title>
+      <link>https://www.sudocast.com.br/guest/wevtimoteo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sudocast.com.br/guest/wevtimoteo/</guid>
+      <description>Enjoying functional programming and game dev studies.</description>
     </item>
     
   </channel>

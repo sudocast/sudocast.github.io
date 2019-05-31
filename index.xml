@@ -6,10 +6,19 @@
     <description>Recent content on SudoCast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 28 Dec 2018 04:10:01 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2019 04:10:01 -0500</lastBuildDate>
     
 	<atom:link href="https://www.sudocast.com.br/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#21 - A Lenda do Fullstack Developer - Parte 1</title>
+      <link>https://www.sudocast.com.br/21-a-lenda-do-fullstack-developer-part1/</link>
+      <pubDate>Fri, 31 May 2019 04:10:01 -0500</pubDate>
+      
+      <guid>https://www.sudocast.com.br/21-a-lenda-do-fullstack-developer-part1/</guid>
+      <description> Pesquisa para falantes de Português sobre DevOps da Maburix 6 Essential Tips on How to Become a Full Stack Developer O que é e o que faz um full stack web developer? What is Full Stack? - W3Schools Como é trabalhar como FullStack Developer, por Lucas Santos Salários de Desenvolvedor de Software Full Stack - LoveMondays 6 steps to becoming a full stack developer  </description>
+    </item>
     
     <item>
       <title>#20 - DOH - Desenvolvimento Orientado a Hype</title>
@@ -478,6 +487,15 @@ Core Organizer do DevOpsDays</description>
     </item>
     
     <item>
+      <title>Sebastian Ferrari</title>
+      <link>https://www.sudocast.com.br/guest/sebas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sudocast.com.br/guest/sebas/</guid>
+      <description>Developer and entrepreneur imported from Uruguay to Brazil. Lean activist and part of the Free Software community. CTO and Co-founder of Taller</description>
+    </item>
+    
+    <item>
       <title>Talita Rossari</title>
       <link>https://www.sudocast.com.br/guest/trossari/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -493,6 +511,15 @@ Core Organizer do DevOpsDays</description>
       
       <guid>https://www.sudocast.com.br/guest/tavelino/</guid>
       <description>Engineer/Founder at @nuveohq. I&amp;rsquo;m a New Tech, #Golang, #Clojure, #Datomic, Neural Network and Artificial Intelligence (#ai) specialist in Brazil</description>
+    </item>
+    
+    <item>
+      <title>Weverton Timoteo</title>
+      <link>https://www.sudocast.com.br/guest/wevtimoteo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sudocast.com.br/guest/wevtimoteo/</guid>
+      <description>Enjoying functional programming and game dev studies.</description>
     </item>
     
   </channel>
