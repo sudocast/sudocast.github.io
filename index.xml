@@ -6,10 +6,19 @@
     <description>Recent content on SudoCast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 31 May 2019 04:10:01 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2019 04:10:01 -0500</lastBuildDate>
     
 	<atom:link href="https://www.sudocast.com.br/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#22 - A Lenda do Fullstack Developer - Parte 2</title>
+      <link>https://www.sudocast.com.br/22-a-lenda-do-fullstack-developer-part2/</link>
+      <pubDate>Sat, 15 Jun 2019 04:10:01 -0500</pubDate>
+      
+      <guid>https://www.sudocast.com.br/22-a-lenda-do-fullstack-developer-part2/</guid>
+      <description> DevOpsDays Florianópolis - Ingressos Pesquisa para falantes de Português sobre DevOps da Maburix 6 Essential Tips on How to Become a Full Stack Developer O que é e o que faz um full stack web developer? What is Full Stack? - W3Schools Como é trabalhar como FullStack Developer, por Lucas Santos Salários de Desenvolvedor de Software Full Stack - LoveMondays 6 steps to becoming a full stack developer  </description>
+    </item>
     
     <item>
       <title>#21 - A Lenda do Fullstack Developer - Parte 1</title>

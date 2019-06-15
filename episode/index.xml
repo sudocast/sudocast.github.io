@@ -15,7 +15,7 @@
     <atom:link href="https://www.sudocast.com.br/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://www.sudocast.com.br/</link>
     <description>Sudocast vem a ser um podcast de tecnologia ácido, engraçado e dinâmico onde são discutidos os assuntos mais quentes do mundo de desenvolvimento.</description>
-    <lastBuildDate>Fri, 31 May 2019 04:10:01 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2019 04:10:01 -0500</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -41,6 +41,35 @@
     <itunes:category text="Technology">
       <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category>
     <generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#22 - A Lenda Do Fullstack Developer - Parte 2</title>
+          <link>https://www.sudocast.com.br/22-a-lenda-do-fullstack-developer-part2/</link>
+          <pubDate>Sat, 15 Jun 2019 04:10:01 -0500 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://media.blubrry.com/sudocast1/content.blubrry.com/sudocast1/sudocast022.mp3</guid>
+          <itunes:author>
+            
+            
+              Pery Lemke</itunes:author>
+          
+          <itunes:episode>22</itunes:episode>
+          
+        <itunes:summary>Olá mundo =)  Neste episódio [Pery Lemke](https://www.twitter.com/perylemke), [Sebastian Ferrari](https://twitter.com/sebas5384), [Weverton Timoteo](https://twitter.com/wevtimoteo) e [Fernando Ike](https://twitter.com/fernandoike) continuam o debate sobre o papel do Fullstack Developer.  Essa pessoa existe? Do que se alimenta? O que precisa estudar? Existe vida para ser Fullstack? Tudo isso muito mais nessas duas partes do episódio de retorno do Sudocast :)  Introdução: [Pesta](https://www.facebook.com/pestadoom) - [March of Death](https://www.youtube.com/watch?v=8vQJoYsT1_s)  Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) </itunes:summary>
+        <description>Olá mundo =)  Neste episódio [Pery Lemke](https://www.twitter.com/perylemke), [Sebastian Ferrari](https://twitter.com/sebas5384), [Weverton Timoteo](https://twitter.com/wevtimoteo) e [Fernando Ike](https://twitter.com/fernandoike) continuam o debate sobre o papel do Fullstack Developer.  Essa pessoa existe? Do que se alimenta? O que precisa estudar? Existe vida para ser Fullstack? Tudo isso muito mais nessas duas partes do episódio de retorno do Sudocast :)  Introdução: [Pesta](https://www.facebook.com/pestadoom) - [March of Death](https://www.youtube.com/watch?v=8vQJoYsT1_s)  Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) </description>
+        <googleplay:description>Olá mundo =)  Neste episódio [Pery Lemke](https://www.twitter.com/perylemke), [Sebastian Ferrari](https://twitter.com/sebas5384), [Weverton Timoteo](https://twitter.com/wevtimoteo) e [Fernando Ike](https://twitter.com/fernandoike) continuam o debate sobre o papel do Fullstack Developer.  Essa pessoa existe? Do que se alimenta? O que precisa estudar? Existe vida para ser Fullstack? Tudo isso muito mais nessas duas partes do episódio de retorno do Sudocast :)  Introdução: [Pesta](https://www.facebook.com/pestadoom) - [March of Death](https://www.youtube.com/watch?v=8vQJoYsT1_s)  Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) </googleplay:description>
+        <content:encoded><![CDATA[<ul>
+<li><a href="https://www.sympla.com.br/devopsdays-florianopolis---2019__516225">DevOpsDays Florianópolis - Ingressos</a></li>
+<li><a href="https://docs.google.com/forms/d/e/1FAIpQLScjCUpfIDU6yVgi9cJStqvwfIiX5EHW6W8FcMQvNgyP2vuLkQ/viewform">Pesquisa para falantes de Português sobre DevOps da Maburix</a></li>
+<li><a href="https://hackernoon.com/6-essential-tips-on-how-to-become-a-full-stack-developer-1d10965aaead">6 Essential Tips on How to Become a Full Stack Developer</a></li>
+<li><a href="https://pt.stackoverflow.com/questions/52450/o-que-%C3%A9-e-o-que-faz-um-full-stack-web-developer">O que é e o que faz um full stack web developer?</a></li>
+<li><a href="https://www.w3schools.com/whatis/whatis_fullstack.asp">What is Full Stack? - W3Schools</a></li>
+<li><a href="https://medium.com/trainingcenter/como-%C3%A9-trabalhar-como-fullstack-developer-por-lucas-santos-c750c6cc4077">Como é trabalhar como FullStack Developer, por Lucas Santos</a></li>
+<li><a href="https://www.lovemondays.com.br/salarios/cargo/salario-desenvolvedor-de-software-full-stack"> Salários de Desenvolvedor de Software Full Stack - LoveMondays</a></li>
+<li><a href="http://techgenix.com/full-stack-developer/">6 steps to becoming a full stack developer</a></li>
+</ul>
+]]></content:encoded><itunes:image href="https://www.sudocast.com.br/img/episode/thumbs/fullstack.jpg"></itunes:image>
+          <googleplay:image href="https://www.sudocast.com.br/img/episode/thumbs/fullstack.jpg"></googleplay:image><enclosure url="http://media.blubrry.com/sudocast1/content.blubrry.com/sudocast1/sudocast022.mp3" length="72208199" type="audio/mpeg" /><itunes:duration>50:08</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#21 - A Lenda Do Fullstack Developer - Parte 1</title>
           <link>https://www.sudocast.com.br/21-a-lenda-do-fullstack-developer-part1/</link>
