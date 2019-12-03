@@ -6,10 +6,19 @@
     <description>Recent content on SudoCast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 15 Jun 2019 04:10:01 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2019 04:10:01 -0500</lastBuildDate>
     
 	<atom:link href="https://www.sudocast.com.br/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#23 - As Novidades do Python 3.8</title>
+      <link>https://www.sudocast.com.br/23-as-novidades-do-python-38/</link>
+      <pubDate>Tue, 03 Dec 2019 04:10:01 -0500</pubDate>
+      
+      <guid>https://www.sudocast.com.br/23-as-novidades-do-python-38/</guid>
+      <description> A Nuveo está com diversas vagas de Pessoas Desenvolvedoras Backend Go, Java, Python, C#, Front-End e também para Computer Vision e Machine Learning. Sem falar que há vagas abertas para UX e Product Manager também. Se interessou, é só mandar email para talentos@nuveo.ai e mencionar o Sudocast :) PEP 602 &amp;ndash; Annual Release Cycle for Python PEP 387 &amp;ndash; Backwards Compatibility Policy What’s New In Python 3.8 Other Language Changes Improved Modules  </description>
+    </item>
     
     <item>
       <title>#22 - A Lenda do Fullstack Developer - Parte 2</title>
@@ -493,6 +502,15 @@ Core Organizer do DevOpsDays</description>
       
       <guid>https://www.sudocast.com.br/guest/rshuree/</guid>
       <description>Passionate about brazilian jiu-jitsu, sailor, artist, blockchain enthusiast, musician, in spare time I work with technology.</description>
+    </item>
+    
+    <item>
+      <title>Ronald Farias</title>
+      <link>https://www.sudocast.com.br/guest/rfarias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sudocast.com.br/guest/rfarias/</guid>
+      <description>Desenvolvedor e Entusiasta por máquinas fazendo truques humanos.</description>
     </item>
     
     <item>

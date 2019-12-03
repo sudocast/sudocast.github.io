@@ -15,7 +15,7 @@
     <atom:link href="https://www.sudocast.com.br/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://www.sudocast.com.br/</link>
     <description>Sudocast vem a ser um podcast de tecnologia ácido, engraçado e dinâmico onde são discutidos os assuntos mais quentes do mundo de desenvolvimento.</description>
-    <lastBuildDate>Sat, 15 Jun 2019 04:10:01 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 3 Dec 2019 04:10:01 -0500</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -41,6 +41,33 @@
     <itunes:category text="Technology">
       <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category>
     <generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#23 - As Novidades Do Python 3.8</title>
+          <link>https://www.sudocast.com.br/23-as-novidades-do-python-38/</link>
+          <pubDate>Tue, 03 Dec 2019 04:10:01 -0500 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://media.blubrry.com/sudocast1/content.blubrry.com/sudocast1/sudocast023.mp3</guid>
+          <itunes:author>
+            
+            
+              Pery Lemke</itunes:author>
+          
+          <itunes:episode>23</itunes:episode>
+          
+        <itunes:summary>Olá mundo =)  Neste talvez último episódio de 2019 do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Cassio Botaro](https://twitter.com/cassiobotaro) e [Ronald Farias](https://twitter.com/ronaldrfarias) batem um papo sobre as novidades da versão 3.8 da linguagem Python.  Descubra nessa edição do Sudocast, como causar polêmica numa comunidade toda por causa de um operador morsa, que Python pode ser compilado e qual a PEP preferida do Chapolin.  **Errata**: No minuto 27:41, se fecha colchetes e não parenteses. ;)  Introdução: [Vivendo do Ócio](https://www.facebook.com/vivendodoocio/) - [Cê Pode](https://www.youtube.com/watch?v=1NBqm15SIs4)  Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) </itunes:summary>
+        <description>Olá mundo =)  Neste talvez último episódio de 2019 do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Cassio Botaro](https://twitter.com/cassiobotaro) e [Ronald Farias](https://twitter.com/ronaldrfarias) batem um papo sobre as novidades da versão 3.8 da linguagem Python.  Descubra nessa edição do Sudocast, como causar polêmica numa comunidade toda por causa de um operador morsa, que Python pode ser compilado e qual a PEP preferida do Chapolin.  **Errata**: No minuto 27:41, se fecha colchetes e não parenteses. ;)  Introdução: [Vivendo do Ócio](https://www.facebook.com/vivendodoocio/) - [Cê Pode](https://www.youtube.com/watch?v=1NBqm15SIs4)  Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) </description>
+        <googleplay:description>Olá mundo =)  Neste talvez último episódio de 2019 do Sudocast, [Pery Lemke](https://www.twitter.com/perylemke), [Cassio Botaro](https://twitter.com/cassiobotaro) e [Ronald Farias](https://twitter.com/ronaldrfarias) batem um papo sobre as novidades da versão 3.8 da linguagem Python.  Descubra nessa edição do Sudocast, como causar polêmica numa comunidade toda por causa de um operador morsa, que Python pode ser compilado e qual a PEP preferida do Chapolin.  **Errata**: No minuto 27:41, se fecha colchetes e não parenteses. ;)  Introdução: [Vivendo do Ócio](https://www.facebook.com/vivendodoocio/) - [Cê Pode](https://www.youtube.com/watch?v=1NBqm15SIs4)  Edição e Sonorização: [Johnny Duluti](https://www.youtube.com/ferraduravideo) </googleplay:description>
+        <content:encoded><![CDATA[<ul>
+<li>A <a href="https://www.nuveo.ai">Nuveo</a> está com diversas vagas de Pessoas Desenvolvedoras Backend Go, Java, Python, C#, Front-End e também para Computer Vision e Machine Learning. Sem falar que há vagas abertas para UX e Product Manager também. Se interessou, é só mandar email para <a href="mailto:talentos@nuveo.ai">talentos@nuveo.ai</a> e mencionar o Sudocast :)</li>
+<li><a href="https://www.python.org/dev/peps/pep-0602/">PEP 602 &ndash; Annual Release Cycle for Python</a></li>
+<li><a href="https://www.python.org/dev/peps/pep-0387/">PEP 387 &ndash; Backwards Compatibility Policy</a></li>
+<li><a href="https://docs.python.org/3/whatsnew/3.8.html">What’s New In Python 3.8</a></li>
+<li><a href="https://docs.python.org/3/whatsnew/3.8.html#other-language-changes">Other Language Changes</a></li>
+<li><a href="https://docs.python.org/3/whatsnew/3.8.html#improved-modules">Improved Modules</a></li>
+</ul>
+]]></content:encoded><itunes:image href="https://www.sudocast.com.br/img/episode/thumbs/python.jpg"></itunes:image>
+          <googleplay:image href="https://www.sudocast.com.br/img/episode/thumbs/python.jpg"></googleplay:image><enclosure url="http://media.blubrry.com/sudocast1/content.blubrry.com/sudocast1/sudocast023.mp3" length="45787327" type="audio/mpeg" /><itunes:duration>47:41</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#22 - A Lenda Do Fullstack Developer - Parte 2</title>
           <link>https://www.sudocast.com.br/22-a-lenda-do-fullstack-developer-part2/</link>
