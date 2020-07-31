@@ -16,6 +16,14 @@ git checkout -b gh-pages origin/gh-pages
 git submodule init
 git submodule update
 ```
+
+### Hugo installation
+```
+git clone https://github.com/gohugoio/hugo.git
+git checkout v0.55.6
+go install --tags extended
+```
+
 - Do your modifications into `content` folder following Hugo documentation and run the webserver on port 1313.
 ```
 hugo server -D
